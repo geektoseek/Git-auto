@@ -40,4 +40,4 @@ jobs:
           GIT_AUTHOR_EMAIL: ${{ secrets.GIT_EMAIL }}
           GIT_COMMITTER_NAME: ${{ github.repository_owner }}
           GIT_COMMITTER_EMAIL: ${{ secrets.GIT_EMAIL }}
-        run: python auto_commit.py
+        run: python auto-commit-bot/auto_commit.py
