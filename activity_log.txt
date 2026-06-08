@@ -9,3 +9,4 @@
 [2026-06-08 13:57:29 UTC] fix: resolve CSS specificity conflict
 [2026-06-08 15:42:50 UTC] refactor: extract reusable utility
 [2026-06-08 17:00:43 UTC] fix: fix transition timing mismatch
+[2026-06-08 18:19:52 UTC] fix: fix font loading fallback
