@@ -12,3 +12,4 @@
 [2026-06-08 18:19:52 UTC] fix: fix font loading fallback
 [2026-06-08 20:25:35 UTC] docs: improve changelog entries
 [2026-06-08 21:46:00 UTC] perf: defer non-critical scripts
+[2026-06-08 23:07:16 UTC] style: apply consistent naming convention
