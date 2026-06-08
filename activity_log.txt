@@ -7,3 +7,4 @@
 [2026-06-08 11:05:30 UTC] refactor: split large component into smaller parts
 [2026-06-08 12:39:47 UTC] style: clean up trailing whitespace
 [2026-06-08 13:57:29 UTC] fix: resolve CSS specificity conflict
+[2026-06-08 15:42:50 UTC] refactor: extract reusable utility
