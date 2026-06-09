@@ -21,3 +21,4 @@
 [2026-06-09 12:30:05 UTC] chore: reorganize folder structure
 [2026-06-09 14:42:32 UTC] style: apply consistent naming convention
 [2026-06-09 16:25:00 UTC] style: adjust line breaks in components
+[2026-06-09 17:54:00 UTC] fix: fix font loading fallback
