@@ -2,18 +2,27 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "0 2 * * *"
-    - cron: "0 4 * * *"
-    - cron: "0 6 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 10 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 14 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 18 * * *"
-    - cron: "0 20 * * *"
-    - cron: "0 22 * * *"
+    # 20 entries at irregular times — compensates for GitHub's occasional skips
+    - cron: "7 0 * * *"
+    - cron: "38 1 * * *"
+    - cron: "14 2 * * *"
+    - cron: "52 3 * * *"
+    - cron: "21 5 * * *"
+    - cron: "43 6 * * *"
+    - cron: "9 7 * * *"
+    - cron: "31 8 * * *"
+    - cron: "58 9 * * *"
+    - cron: "17 11 * * *"
+    - cron: "44 12 * * *"
+    - cron: "6 13 * * *"
+    - cron: "29 14 * * *"
+    - cron: "53 15 * * *"
+    - cron: "18 17 * * *"
+    - cron: "41 18 * * *"
+    - cron: "3 19 * * *"
+    - cron: "27 21 * * *"
+    - cron: "49 22 * * *"
+    - cron: "33 23 * * *"
   workflow_dispatch:
 
 permissions:
