@@ -33,3 +33,4 @@
 [2026-06-10 11:52:23 UTC] chore: clean up build artifacts
 [2026-06-10 12:47:52 UTC] chore: clean up build artifacts
 [2026-06-10 14:31:47 UTC] docs: update README with setup steps
+[2026-06-10 16:25:59 UTC] refactor: move constants to config file
