@@ -39,3 +39,4 @@
 [2026-06-10 18:19:48 UTC] refactor: extract reusable utility
 [2026-06-10 19:45:31 UTC] perf: reduce bundle size
 [2026-06-10 21:13:53 UTC] fix: resolve CSS specificity conflict
+[2026-06-10 21:26:49 UTC] style: align table formatting in docs
