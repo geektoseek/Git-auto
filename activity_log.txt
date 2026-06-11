@@ -42,3 +42,4 @@
 [2026-06-10 21:26:49 UTC] style: align table formatting in docs
 [2026-06-10 23:05:05 UTC] style: adjust line breaks in components
 [2026-06-11 00:04:11 UTC] fix: resolve CSS specificity conflict
+[2026-06-11 02:01:55 UTC] perf: reduce bundle size
