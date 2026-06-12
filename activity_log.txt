@@ -63,3 +63,4 @@
 [2026-06-11 23:03:05 UTC] feat: enhance card component design
 [2026-06-12 00:09:11 UTC] style: format code with consistent spacing
 [2026-06-12 01:57:47 UTC] feat: add responsive layout improvements
+[2026-06-12 04:55:52 UTC] docs: clarify installation instructions
