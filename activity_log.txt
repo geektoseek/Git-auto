@@ -66,3 +66,4 @@
 [2026-06-12 04:55:52 UTC] docs: clarify installation instructions
 [2026-06-12 06:15:44 UTC] perf: reduce animation repaints
 [2026-06-12 06:54:05 UTC] refactor: extract reusable utility
+[2026-06-12 08:12:19 UTC] docs: update tech stack references
