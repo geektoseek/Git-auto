@@ -78,3 +78,4 @@
 [2026-06-12 17:18:55 UTC] chore: update CI pipeline notes
 [2026-06-12 17:54:02 UTC] refactor: restructure section layout
 [2026-06-12 19:24:09 UTC] chore: update .gitignore entries
+[2026-06-12 20:55:27 UTC] docs: add usage examples
