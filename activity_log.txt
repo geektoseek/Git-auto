@@ -74,3 +74,4 @@
 [2026-06-12 12:46:09 UTC] style: reorganize import order
 [2026-06-12 14:20:15 UTC] style: improve code readability
 [2026-06-12 15:55:09 UTC] style: clean up trailing whitespace
+[2026-06-12 16:26:29 UTC] style: clean up unused class names
