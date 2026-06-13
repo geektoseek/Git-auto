@@ -86,3 +86,4 @@
 [2026-06-13 04:42:53 UTC] docs: add usage examples
 [2026-06-13 05:59:48 UTC] fix: resolve button hover state bug
 [2026-06-13 06:30:50 UTC] style: improve code readability
+[2026-06-13 07:36:59 UTC] perf: minify inline SVGs
