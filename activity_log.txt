@@ -94,3 +94,4 @@
 [2026-06-13 11:44:48 UTC] chore: bump package version
 [2026-06-13 12:59:25 UTC] chore: add editor config settings
 [2026-06-13 14:53:22 UTC] docs: improve changelog entries
+[2026-06-13 15:06:17 UTC] docs: add usage examples
