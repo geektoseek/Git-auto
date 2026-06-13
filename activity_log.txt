@@ -93,3 +93,4 @@
 [2026-06-13 10:56:38 UTC] feat: implement dynamic content loading
 [2026-06-13 11:44:48 UTC] chore: bump package version
 [2026-06-13 12:59:25 UTC] chore: add editor config settings
+[2026-06-13 14:53:22 UTC] docs: improve changelog entries
