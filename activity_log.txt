@@ -120,3 +120,4 @@
 [2026-06-14 18:45:54 UTC] fix: fix image aspect ratio on Safari
 [2026-06-14 20:09:30 UTC] feat: improve mobile navigation flow
 [2026-06-14 20:21:05 UTC] docs: update tech stack references
+[2026-06-14 22:38:07 UTC] style: normalize quote style
