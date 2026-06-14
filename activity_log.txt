@@ -117,3 +117,4 @@
 [2026-06-14 15:14:49 UTC] perf: lazy load below-fold sections
 [2026-06-14 15:59:49 UTC] style: clean up unused class names
 [2026-06-14 17:03:13 UTC] chore: add editor config settings
+[2026-06-14 18:45:54 UTC] fix: fix image aspect ratio on Safari
