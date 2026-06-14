@@ -108,3 +108,4 @@
 [2026-06-14 06:55:04 UTC] docs: add inline code comments
 [2026-06-14 08:04:41 UTC] perf: reduce bundle size
 [2026-06-14 08:51:26 UTC] docs: improve changelog entries
+[2026-06-14 10:15:11 UTC] perf: minify inline SVGs
