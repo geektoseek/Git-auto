@@ -140,3 +140,4 @@
 [2026-06-15 20:34:49 UTC] docs: update README with setup steps
 [2026-06-15 21:36:03 UTC] refactor: clean up legacy code
 [2026-06-15 21:46:35 UTC] chore: refresh environment config
+[2026-06-15 23:14:28 UTC] docs: add project structure notes
