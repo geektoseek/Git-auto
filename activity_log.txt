@@ -124,3 +124,4 @@
 [2026-06-14 23:52:39 UTC] fix: resolve alignment issue on mobile
 [2026-06-15 02:01:03 UTC] chore: sync lockfile
 [2026-06-15 05:21:11 UTC] docs: clarify installation instructions
+[2026-06-15 06:59:19 UTC] refactor: optimize asset references
