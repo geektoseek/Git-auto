@@ -129,3 +129,4 @@
 [2026-06-15 09:47:57 UTC] style: adjust line breaks in components
 [2026-06-15 11:25:25 UTC] chore: sync lockfile
 [2026-06-15 12:53:46 UTC] style: adjust line breaks in components
+[2026-06-15 13:24:27 UTC] chore: reorganize folder structure
