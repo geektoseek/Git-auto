@@ -125,3 +125,4 @@
 [2026-06-15 02:01:03 UTC] chore: sync lockfile
 [2026-06-15 05:21:11 UTC] docs: clarify installation instructions
 [2026-06-15 06:59:19 UTC] refactor: optimize asset references
+[2026-06-15 07:34:29 UTC] feat: add smooth scroll behavior
