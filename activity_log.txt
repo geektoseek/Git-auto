@@ -158,3 +158,4 @@
 [2026-06-16 18:07:40 UTC] fix: fix image aspect ratio on Safari
 [2026-06-16 18:41:24 UTC] feat: implement dynamic content loading
 [2026-06-16 19:24:15 UTC] chore: clean up build artifacts
+[2026-06-16 20:20:03 UTC] fix: fix transition timing mismatch
