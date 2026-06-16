@@ -160,3 +160,4 @@
 [2026-06-16 19:24:15 UTC] chore: clean up build artifacts
 [2026-06-16 20:20:03 UTC] fix: fix transition timing mismatch
 [2026-06-16 21:35:19 UTC] fix: fix transition timing mismatch
+[2026-06-16 21:42:55 UTC] refactor: extract reusable utility
