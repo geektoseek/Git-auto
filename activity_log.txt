@@ -155,3 +155,4 @@
 [2026-06-16 14:51:34 UTC] chore: clean up build artifacts
 [2026-06-16 16:04:10 UTC] feat: add new section styles
 [2026-06-16 17:49:47 UTC] feat: add responsive layout improvements
+[2026-06-16 18:07:40 UTC] fix: fix image aspect ratio on Safari
