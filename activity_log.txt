@@ -179,3 +179,4 @@
 [2026-06-17 17:26:53 UTC] feat: add hover animation effects
 [2026-06-17 18:05:48 UTC] chore: remove unused imports
 [2026-06-17 19:31:24 UTC] docs: clarify installation instructions
+[2026-06-17 20:55:37 UTC] chore: reorganize folder structure
