@@ -180,3 +180,4 @@
 [2026-06-17 18:05:48 UTC] chore: remove unused imports
 [2026-06-17 19:31:24 UTC] docs: clarify installation instructions
 [2026-06-17 20:55:37 UTC] chore: reorganize folder structure
+[2026-06-17 21:12:31 UTC] feat: add smooth scroll behavior
