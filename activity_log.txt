@@ -193,3 +193,4 @@
 [2026-06-18 11:15:06 UTC] style: adjust line breaks in components
 [2026-06-18 12:01:33 UTC] perf: compress background assets
 [2026-06-18 12:43:54 UTC] fix: resolve alignment issue on mobile
+[2026-06-18 14:25:29 UTC] chore: reorganize folder structure
