@@ -189,3 +189,4 @@
 [2026-06-18 07:03:25 UTC] feat: add footer link updates
 [2026-06-18 08:27:36 UTC] chore: add editor config settings
 [2026-06-18 09:49:14 UTC] perf: improve scroll event throttling
+[2026-06-18 11:00:55 UTC] refactor: clean up legacy code
