@@ -201,3 +201,4 @@
 [2026-06-18 19:36:52 UTC] chore: sync lockfile
 [2026-06-18 21:12:09 UTC] chore: clean up build artifacts
 [2026-06-18 21:22:56 UTC] perf: defer non-critical scripts
+[2026-06-18 23:14:48 UTC] docs: clarify installation instructions
