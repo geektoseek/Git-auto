@@ -197,3 +197,4 @@
 [2026-06-18 16:16:06 UTC] refactor: reduce component nesting
 [2026-06-18 16:40:37 UTC] perf: minify inline SVGs
 [2026-06-18 17:37:45 UTC] style: apply consistent naming convention
+[2026-06-18 18:17:45 UTC] refactor: clean up legacy code
