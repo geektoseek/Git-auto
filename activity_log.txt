@@ -200,3 +200,4 @@
 [2026-06-18 18:17:45 UTC] refactor: clean up legacy code
 [2026-06-18 19:36:52 UTC] chore: sync lockfile
 [2026-06-18 21:12:09 UTC] chore: clean up build artifacts
+[2026-06-18 21:22:56 UTC] perf: defer non-critical scripts
