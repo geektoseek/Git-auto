@@ -217,3 +217,4 @@
 [2026-06-19 15:53:04 UTC] fix: fix transition timing mismatch
 [2026-06-19 16:12:39 UTC] feat: add footer link updates
 [2026-06-19 16:43:54 UTC] perf: defer non-critical scripts
+[2026-06-19 17:32:44 UTC] docs: update tech stack references
