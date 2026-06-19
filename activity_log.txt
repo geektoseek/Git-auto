@@ -214,3 +214,4 @@
 [2026-06-19 12:30:41 UTC] feat: add hover animation effects
 [2026-06-19 13:25:27 UTC] fix: patch scroll position reset
 [2026-06-19 14:22:39 UTC] docs: update contact information
+[2026-06-19 15:53:04 UTC] fix: fix transition timing mismatch
