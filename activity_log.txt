@@ -216,3 +216,4 @@
 [2026-06-19 14:22:39 UTC] docs: update contact information
 [2026-06-19 15:53:04 UTC] fix: fix transition timing mismatch
 [2026-06-19 16:12:39 UTC] feat: add footer link updates
+[2026-06-19 16:43:54 UTC] perf: defer non-critical scripts
