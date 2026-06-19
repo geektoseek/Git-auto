@@ -211,3 +211,4 @@
 [2026-06-19 09:55:08 UTC] fix: fix font loading fallback
 [2026-06-19 11:07:18 UTC] perf: minify inline SVGs
 [2026-06-19 11:40:25 UTC] feat: add smooth scroll behavior
+[2026-06-19 12:30:41 UTC] feat: add hover animation effects
