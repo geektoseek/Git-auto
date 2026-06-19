@@ -207,3 +207,4 @@
 [2026-06-19 05:17:06 UTC] feat: enhance card component design
 [2026-06-19 06:49:42 UTC] chore: reorganize folder structure
 [2026-06-19 07:22:53 UTC] style: reorganize import order
+[2026-06-19 08:55:09 UTC] perf: improve scroll event throttling
