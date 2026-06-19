@@ -205,3 +205,4 @@
 [2026-06-19 00:14:57 UTC] feat: enhance card component design
 [2026-06-19 02:19:17 UTC] fix: fix transition timing mismatch
 [2026-06-19 05:17:06 UTC] feat: enhance card component design
+[2026-06-19 06:49:42 UTC] chore: reorganize folder structure
