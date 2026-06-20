@@ -235,3 +235,4 @@
 [2026-06-20 11:48:21 UTC] refactor: improve variable naming
 [2026-06-20 13:00:02 UTC] perf: reduce animation repaints
 [2026-06-20 14:56:19 UTC] feat: add hover animation effects
+[2026-06-20 15:08:41 UTC] style: clean up unused class names
