@@ -237,3 +237,4 @@
 [2026-06-20 14:56:19 UTC] feat: add hover animation effects
 [2026-06-20 15:08:41 UTC] style: clean up unused class names
 [2026-06-20 15:56:52 UTC] fix: correct z-index layering issue
+[2026-06-20 17:09:14 UTC] style: normalize quote style
