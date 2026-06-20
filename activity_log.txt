@@ -223,3 +223,4 @@
 [2026-06-19 20:27:12 UTC] style: align table formatting in docs
 [2026-06-19 22:29:27 UTC] style: apply consistent naming convention
 [2026-06-19 23:49:44 UTC] perf: lazy load below-fold sections
+[2026-06-20 01:36:32 UTC] fix: fix image aspect ratio on Safari
