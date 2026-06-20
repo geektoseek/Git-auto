@@ -240,3 +240,4 @@
 [2026-06-20 17:09:14 UTC] style: normalize quote style
 [2026-06-20 18:48:45 UTC] style: normalize quote style
 [2026-06-20 20:06:40 UTC] chore: sync lockfile
+[2026-06-20 20:18:52 UTC] feat: add responsive layout improvements
