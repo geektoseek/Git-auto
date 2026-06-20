@@ -226,3 +226,4 @@
 [2026-06-20 01:36:32 UTC] fix: fix image aspect ratio on Safari
 [2026-06-20 04:25:52 UTC] style: adjust line breaks in components
 [2026-06-20 05:58:08 UTC] refactor: consolidate repeated styles
+[2026-06-20 06:39:14 UTC] feat: improve mobile navigation flow
