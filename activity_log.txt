@@ -244,3 +244,4 @@
 [2026-06-20 22:39:32 UTC] perf: cache static asset headers
 [2026-06-20 23:51:55 UTC] fix: fix font loading fallback
 [2026-06-21 01:59:16 UTC] docs: update tech stack references
+[2026-06-21 05:09:57 UTC] perf: compress background assets
