@@ -260,3 +260,4 @@
 [2026-06-21 17:11:55 UTC] chore: reorganize folder structure
 [2026-06-21 18:54:28 UTC] feat: improve hero section visuals
 [2026-06-21 20:16:29 UTC] perf: optimize image loading strategy
+[2026-06-21 20:26:46 UTC] perf: improve scroll event throttling
