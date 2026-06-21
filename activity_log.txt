@@ -254,3 +254,4 @@
 [2026-06-21 11:28:55 UTC] fix: resolve button hover state bug
 [2026-06-21 12:03:19 UTC] docs: update deployment notes
 [2026-06-21 13:19:03 UTC] feat: add footer link updates
+[2026-06-21 15:02:47 UTC] style: clean up unused class names
