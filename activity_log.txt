@@ -257,3 +257,4 @@
 [2026-06-21 15:02:47 UTC] style: clean up unused class names
 [2026-06-21 15:15:30 UTC] chore: add editor config settings
 [2026-06-21 16:13:45 UTC] fix: fix font loading fallback
+[2026-06-21 17:11:55 UTC] chore: reorganize folder structure
