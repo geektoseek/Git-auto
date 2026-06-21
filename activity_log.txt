@@ -256,3 +256,4 @@
 [2026-06-21 13:19:03 UTC] feat: add footer link updates
 [2026-06-21 15:02:47 UTC] style: clean up unused class names
 [2026-06-21 15:15:30 UTC] chore: add editor config settings
+[2026-06-21 16:13:45 UTC] fix: fix font loading fallback
