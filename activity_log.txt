@@ -264,3 +264,4 @@
 [2026-06-21 22:40:59 UTC] style: apply consistent naming convention
 [2026-06-21 23:58:06 UTC] docs: update tech stack references
 [2026-06-22 02:03:50 UTC] chore: sync lockfile
+[2026-06-22 05:22:16 UTC] style: clean up unused class names
