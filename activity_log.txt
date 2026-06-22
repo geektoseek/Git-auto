@@ -272,3 +272,4 @@
 [2026-06-22 12:37:44 UTC] perf: optimize image loading strategy
 [2026-06-22 13:00:10 UTC] refactor: optimize asset references
 [2026-06-22 14:11:47 UTC] chore: update dependencies
+[2026-06-22 15:11:25 UTC] style: normalize quote style
