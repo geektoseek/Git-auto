@@ -301,3 +301,4 @@
 [2026-06-23 19:20:28 UTC] fix: fix transition timing mismatch
 [2026-06-23 20:55:12 UTC] fix: fix transition timing mismatch
 [2026-06-23 21:01:30 UTC] style: format code with consistent spacing
+[2026-06-23 22:43:50 UTC] perf: improve scroll event throttling
