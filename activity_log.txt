@@ -298,3 +298,4 @@
 [2026-06-23 16:05:10 UTC] perf: cache static asset headers
 [2026-06-23 16:44:44 UTC] style: adjust line breaks in components
 [2026-06-23 17:31:24 UTC] chore: remove unused imports
+[2026-06-23 19:20:28 UTC] fix: fix transition timing mismatch
