@@ -312,3 +312,4 @@
 [2026-06-24 10:01:04 UTC] style: reorganize import order
 [2026-06-24 10:26:49 UTC] docs: add usage examples
 [2026-06-24 11:21:52 UTC] perf: defer non-critical scripts
+[2026-06-24 12:11:59 UTC] feat: add footer link updates
