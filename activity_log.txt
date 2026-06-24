@@ -303,3 +303,4 @@
 [2026-06-23 21:01:30 UTC] style: format code with consistent spacing
 [2026-06-23 22:43:50 UTC] perf: improve scroll event throttling
 [2026-06-23 23:41:44 UTC] perf: minify inline SVGs
+[2026-06-24 01:26:32 UTC] fix: fix image aspect ratio on Safari
