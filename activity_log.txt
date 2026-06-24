@@ -318,3 +318,4 @@
 [2026-06-24 15:37:24 UTC] fix: fix transition timing mismatch
 [2026-06-24 16:36:07 UTC] chore: bump package version
 [2026-06-24 17:33:03 UTC] perf: compress background assets
+[2026-06-24 19:01:15 UTC] docs: update README with setup steps
