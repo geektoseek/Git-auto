@@ -317,3 +317,4 @@
 [2026-06-24 15:24:52 UTC] docs: improve changelog entries
 [2026-06-24 15:37:24 UTC] fix: fix transition timing mismatch
 [2026-06-24 16:36:07 UTC] chore: bump package version
+[2026-06-24 17:33:03 UTC] perf: compress background assets
