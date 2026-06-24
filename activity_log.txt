@@ -322,3 +322,4 @@
 [2026-06-24 20:22:36 UTC] perf: compress background assets
 [2026-06-24 20:50:16 UTC] docs: update README with setup steps
 [2026-06-24 22:43:58 UTC] feat: add hover animation effects
+[2026-06-24 23:50:28 UTC] perf: preload critical fonts
