@@ -339,3 +339,4 @@
 [2026-06-25 16:38:56 UTC] chore: reorganize folder structure
 [2026-06-25 17:56:11 UTC] style: apply consistent naming convention
 [2026-06-25 19:18:27 UTC] docs: update contact information
+[2026-06-25 20:35:07 UTC] fix: resolve CSS specificity conflict
