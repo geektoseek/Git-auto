@@ -327,3 +327,4 @@
 [2026-06-25 04:18:22 UTC] feat: improve mobile navigation flow
 [2026-06-25 05:46:19 UTC] fix: fix font loading fallback
 [2026-06-25 06:17:05 UTC] perf: defer non-critical scripts
+[2026-06-25 07:02:41 UTC] chore: refresh environment config
