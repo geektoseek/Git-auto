@@ -325,3 +325,4 @@
 [2026-06-24 23:50:28 UTC] perf: preload critical fonts
 [2026-06-25 01:32:38 UTC] refactor: improve variable naming
 [2026-06-25 04:18:22 UTC] feat: improve mobile navigation flow
+[2026-06-25 05:46:19 UTC] fix: fix font loading fallback
