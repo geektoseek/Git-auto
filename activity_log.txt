@@ -332,3 +332,4 @@
 [2026-06-25 09:57:30 UTC] perf: minify inline SVGs
 [2026-06-25 10:19:40 UTC] feat: enhance card component design
 [2026-06-25 11:14:01 UTC] style: reformat CSS variables section
+[2026-06-25 12:10:05 UTC] fix: fix font loading fallback
