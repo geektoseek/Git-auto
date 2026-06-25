@@ -340,3 +340,4 @@
 [2026-06-25 17:56:11 UTC] style: apply consistent naming convention
 [2026-06-25 19:18:27 UTC] docs: update contact information
 [2026-06-25 20:35:07 UTC] fix: resolve CSS specificity conflict
+[2026-06-25 21:00:25 UTC] refactor: clean up legacy code
