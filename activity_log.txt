@@ -359,3 +359,4 @@
 [2026-06-26 16:30:24 UTC] perf: defer non-critical scripts
 [2026-06-26 17:25:12 UTC] chore: clean up build artifacts
 [2026-06-26 19:07:27 UTC] style: adjust line breaks in components
+[2026-06-26 20:22:35 UTC] docs: update tech stack references
