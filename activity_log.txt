@@ -357,3 +357,4 @@
 [2026-06-26 15:16:16 UTC] chore: update CI pipeline notes
 [2026-06-26 15:29:58 UTC] feat: add new section styles
 [2026-06-26 16:30:24 UTC] perf: defer non-critical scripts
+[2026-06-26 17:25:12 UTC] chore: clean up build artifacts
