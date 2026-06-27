@@ -380,3 +380,4 @@
 [2026-06-27 16:48:25 UTC] perf: reduce animation repaints
 [2026-06-27 18:37:02 UTC] style: reorganize import order
 [2026-06-27 19:56:58 UTC] refactor: clean up legacy code
+[2026-06-27 20:11:07 UTC] refactor: optimize asset references
