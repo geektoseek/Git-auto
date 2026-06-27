@@ -379,3 +379,4 @@
 [2026-06-27 15:43:13 UTC] fix: resolve CSS specificity conflict
 [2026-06-27 16:48:25 UTC] perf: reduce animation repaints
 [2026-06-27 18:37:02 UTC] style: reorganize import order
+[2026-06-27 19:56:58 UTC] refactor: clean up legacy code
