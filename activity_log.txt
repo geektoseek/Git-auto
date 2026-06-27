@@ -366,3 +366,4 @@
 [2026-06-27 01:28:54 UTC] chore: reorganize folder structure
 [2026-06-27 04:11:03 UTC] perf: reduce animation repaints
 [2026-06-27 05:32:00 UTC] perf: reduce bundle size
+[2026-06-27 06:00:20 UTC] refactor: simplify component logic
