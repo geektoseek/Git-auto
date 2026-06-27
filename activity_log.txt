@@ -373,3 +373,4 @@
 [2026-06-27 09:33:09 UTC] perf: minify inline SVGs
 [2026-06-27 10:31:59 UTC] feat: add smooth scroll behavior
 [2026-06-27 11:17:07 UTC] perf: reduce animation repaints
+[2026-06-27 12:45:01 UTC] fix: fix transition timing mismatch
