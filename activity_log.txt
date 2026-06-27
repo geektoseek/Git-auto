@@ -371,3 +371,4 @@
 [2026-06-27 08:07:20 UTC] fix: patch scroll position reset
 [2026-06-27 09:15:59 UTC] refactor: simplify component logic
 [2026-06-27 09:33:09 UTC] perf: minify inline SVGs
+[2026-06-27 10:31:59 UTC] feat: add smooth scroll behavior
