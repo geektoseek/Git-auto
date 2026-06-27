@@ -377,3 +377,4 @@
 [2026-06-27 14:17:06 UTC] docs: improve component documentation
 [2026-06-27 14:52:38 UTC] docs: update README with setup steps
 [2026-06-27 15:43:13 UTC] fix: resolve CSS specificity conflict
+[2026-06-27 16:48:25 UTC] perf: reduce animation repaints
