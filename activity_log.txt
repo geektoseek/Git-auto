@@ -364,3 +364,4 @@
 [2026-06-26 22:41:44 UTC] docs: update tech stack references
 [2026-06-26 23:47:43 UTC] perf: minify inline SVGs
 [2026-06-27 01:28:54 UTC] chore: reorganize folder structure
+[2026-06-27 04:11:03 UTC] perf: reduce animation repaints
