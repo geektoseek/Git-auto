@@ -391,3 +391,4 @@
 [2026-06-28 08:29:55 UTC] docs: improve changelog entries
 [2026-06-28 09:47:03 UTC] feat: enhance UI component structure
 [2026-06-28 10:07:22 UTC] perf: improve scroll event throttling
+[2026-06-28 10:38:57 UTC] feat: add hover animation effects
