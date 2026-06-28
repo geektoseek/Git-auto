@@ -395,3 +395,4 @@
 [2026-06-28 11:28:42 UTC] fix: resolve CSS specificity conflict
 [2026-06-28 12:45:28 UTC] chore: refresh environment config
 [2026-06-28 14:26:38 UTC] style: reformat CSS variables section
+[2026-06-28 14:54:35 UTC] fix: fix image aspect ratio on Safari
