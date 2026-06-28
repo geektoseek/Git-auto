@@ -386,3 +386,4 @@
 [2026-06-28 01:34:32 UTC] perf: compress background assets
 [2026-06-28 04:44:53 UTC] perf: improve scroll event throttling
 [2026-06-28 05:57:20 UTC] chore: clean up build artifacts
+[2026-06-28 06:35:48 UTC] refactor: extract reusable utility
