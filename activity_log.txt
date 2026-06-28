@@ -383,3 +383,4 @@
 [2026-06-27 20:11:07 UTC] refactor: optimize asset references
 [2026-06-27 22:34:28 UTC] perf: reduce animation repaints
 [2026-06-27 23:43:02 UTC] fix: correct z-index layering issue
+[2026-06-28 01:34:32 UTC] perf: compress background assets
