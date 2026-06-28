@@ -401,3 +401,4 @@
 [2026-06-28 18:36:43 UTC] chore: bump package version
 [2026-06-28 19:58:39 UTC] style: adjust line breaks in components
 [2026-06-28 20:16:24 UTC] fix: resolve CSS specificity conflict
+[2026-06-28 22:33:37 UTC] docs: improve changelog entries
