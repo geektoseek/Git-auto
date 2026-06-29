@@ -417,3 +417,4 @@
 [2026-06-29 16:27:36 UTC] docs: add project structure notes
 [2026-06-29 16:40:27 UTC] perf: preload critical fonts
 [2026-06-29 17:15:02 UTC] docs: improve changelog entries
+[2026-06-29 18:00:47 UTC] chore: update dependencies
