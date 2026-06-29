@@ -403,3 +403,4 @@
 [2026-06-28 20:16:24 UTC] fix: resolve CSS specificity conflict
 [2026-06-28 22:33:37 UTC] docs: improve changelog entries
 [2026-06-28 23:47:51 UTC] style: improve code readability
+[2026-06-29 01:37:21 UTC] fix: patch scroll position reset
