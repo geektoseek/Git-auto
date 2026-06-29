@@ -410,3 +410,4 @@
 [2026-06-29 08:45:07 UTC] feat: add smooth scroll behavior
 [2026-06-29 10:01:12 UTC] perf: improve scroll event throttling
 [2026-06-29 11:34:51 UTC] fix: resolve alignment issue on mobile
+[2026-06-29 12:10:31 UTC] docs: update README with setup steps
