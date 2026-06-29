@@ -420,3 +420,4 @@
 [2026-06-29 18:00:47 UTC] chore: update dependencies
 [2026-06-29 19:16:40 UTC] feat: add smooth scroll behavior
 [2026-06-29 20:30:47 UTC] feat: improve mobile navigation flow
+[2026-06-29 20:50:07 UTC] feat: add hover animation effects
