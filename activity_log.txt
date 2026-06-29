@@ -415,3 +415,4 @@
 [2026-06-29 13:56:41 UTC] refactor: split large component into smaller parts
 [2026-06-29 14:53:05 UTC] chore: refresh environment config
 [2026-06-29 16:27:36 UTC] docs: add project structure notes
+[2026-06-29 16:40:27 UTC] perf: preload critical fonts
