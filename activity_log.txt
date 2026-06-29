@@ -411,3 +411,4 @@
 [2026-06-29 10:01:12 UTC] perf: improve scroll event throttling
 [2026-06-29 11:34:51 UTC] fix: resolve alignment issue on mobile
 [2026-06-29 12:10:31 UTC] docs: update README with setup steps
+[2026-06-29 12:45:35 UTC] feat: add footer link updates
