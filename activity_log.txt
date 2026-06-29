@@ -413,3 +413,4 @@
 [2026-06-29 12:10:31 UTC] docs: update README with setup steps
 [2026-06-29 12:45:35 UTC] feat: add footer link updates
 [2026-06-29 13:56:41 UTC] refactor: split large component into smaller parts
+[2026-06-29 14:53:05 UTC] chore: refresh environment config
