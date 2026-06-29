@@ -418,3 +418,4 @@
 [2026-06-29 16:40:27 UTC] perf: preload critical fonts
 [2026-06-29 17:15:02 UTC] docs: improve changelog entries
 [2026-06-29 18:00:47 UTC] chore: update dependencies
+[2026-06-29 19:16:40 UTC] feat: add smooth scroll behavior
