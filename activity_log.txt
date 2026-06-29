@@ -407,3 +407,4 @@
 [2026-06-29 04:53:04 UTC] feat: improve hero section visuals
 [2026-06-29 06:19:44 UTC] fix: fix image aspect ratio on Safari
 [2026-06-29 07:02:01 UTC] perf: minify inline SVGs
+[2026-06-29 08:45:07 UTC] feat: add smooth scroll behavior
