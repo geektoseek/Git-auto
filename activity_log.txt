@@ -435,3 +435,4 @@
 [2026-06-30 12:03:19 UTC] fix: resolve button hover state bug
 [2026-06-30 13:17:54 UTC] refactor: optimize asset references
 [2026-06-30 15:18:45 UTC] docs: update deployment notes
+[2026-06-30 15:39:04 UTC] fix: fix image aspect ratio on Safari
