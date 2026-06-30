@@ -437,3 +437,4 @@
 [2026-06-30 15:18:45 UTC] docs: update deployment notes
 [2026-06-30 15:39:04 UTC] fix: fix image aspect ratio on Safari
 [2026-06-30 16:34:34 UTC] fix: fix font loading fallback
+[2026-06-30 17:30:50 UTC] fix: correct z-index layering issue
