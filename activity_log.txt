@@ -479,3 +479,4 @@
 [2026-07-02 16:17:43 UTC] feat: enhance UI component structure
 [2026-07-02 17:21:31 UTC] refactor: optimize asset references
 [2026-07-02 18:50:10 UTC] fix: resolve CSS specificity conflict
+[2026-07-02 20:07:01 UTC] perf: improve scroll event throttling
