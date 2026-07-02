@@ -478,3 +478,4 @@
 [2026-07-02 15:27:25 UTC] fix: correct broken link in navigation
 [2026-07-02 16:17:43 UTC] feat: enhance UI component structure
 [2026-07-02 17:21:31 UTC] refactor: optimize asset references
+[2026-07-02 18:50:10 UTC] fix: resolve CSS specificity conflict
