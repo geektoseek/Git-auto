@@ -468,3 +468,4 @@
 [2026-07-02 05:36:40 UTC] refactor: optimize asset references
 [2026-07-02 06:07:56 UTC] feat: add smooth scroll behavior
 [2026-07-02 06:56:58 UTC] feat: improve mobile navigation flow
+[2026-07-02 08:26:20 UTC] docs: improve changelog entries
