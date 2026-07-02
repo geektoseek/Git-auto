@@ -474,3 +474,4 @@
 [2026-07-02 11:05:55 UTC] style: align table formatting in docs
 [2026-07-02 11:59:38 UTC] perf: reduce animation repaints
 [2026-07-02 13:10:24 UTC] fix: resolve button hover state bug
+[2026-07-02 14:58:19 UTC] chore: add editor config settings
