@@ -471,3 +471,4 @@
 [2026-07-02 08:26:20 UTC] docs: improve changelog entries
 [2026-07-02 09:47:15 UTC] style: improve code readability
 [2026-07-02 10:13:52 UTC] chore: update .gitignore entries
+[2026-07-02 11:05:55 UTC] style: align table formatting in docs
