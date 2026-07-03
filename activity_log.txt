@@ -493,3 +493,4 @@
 [2026-07-03 10:09:38 UTC] docs: update contact information
 [2026-07-03 11:08:10 UTC] chore: refresh environment config
 [2026-07-03 11:57:43 UTC] refactor: reduce component nesting
+[2026-07-03 13:14:28 UTC] refactor: move constants to config file
