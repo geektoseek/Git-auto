@@ -500,3 +500,4 @@
 [2026-07-03 17:05:29 UTC] style: adjust line breaks in components
 [2026-07-03 18:40:50 UTC] fix: correct z-index layering issue
 [2026-07-03 20:02:40 UTC] style: adjust line breaks in components
+[2026-07-03 20:17:17 UTC] fix: fix transition timing mismatch
