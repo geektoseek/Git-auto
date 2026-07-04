@@ -503,3 +503,4 @@
 [2026-07-03 20:17:17 UTC] fix: fix transition timing mismatch
 [2026-07-03 22:30:56 UTC] style: reorganize import order
 [2026-07-03 23:44:32 UTC] docs: add inline code comments
+[2026-07-04 01:09:04 UTC] perf: minify inline SVGs
