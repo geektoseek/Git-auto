@@ -534,3 +534,4 @@
 [2026-07-05 10:36:23 UTC] fix: fix transition timing mismatch
 [2026-07-05 11:20:47 UTC] docs: improve changelog entries
 [2026-07-05 12:42:45 UTC] chore: bump package version
+[2026-07-05 14:20:07 UTC] docs: update deployment notes
