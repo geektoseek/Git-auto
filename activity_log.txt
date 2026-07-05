@@ -532,3 +532,4 @@
 [2026-07-05 09:31:22 UTC] chore: sync lockfile
 [2026-07-05 09:45:30 UTC] perf: minify inline SVGs
 [2026-07-05 10:36:23 UTC] fix: fix transition timing mismatch
+[2026-07-05 11:20:47 UTC] docs: improve changelog entries
