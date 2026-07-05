@@ -531,3 +531,4 @@
 [2026-07-05 08:21:39 UTC] feat: add responsive layout improvements
 [2026-07-05 09:31:22 UTC] chore: sync lockfile
 [2026-07-05 09:45:30 UTC] perf: minify inline SVGs
+[2026-07-05 10:36:23 UTC] fix: fix transition timing mismatch
