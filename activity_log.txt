@@ -562,3 +562,4 @@
 [2026-07-06 20:33:08 UTC] fix: patch overflow on small screens
 [2026-07-06 20:54:12 UTC] style: reformat CSS variables section
 [2026-07-06 22:43:05 UTC] perf: preload critical fonts
+[2026-07-06 23:46:56 UTC] feat: add smooth scroll behavior
