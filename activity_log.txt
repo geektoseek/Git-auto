@@ -553,3 +553,4 @@
 [2026-07-06 11:42:35 UTC] perf: reduce animation repaints
 [2026-07-06 12:22:55 UTC] fix: fix font loading fallback
 [2026-07-06 13:35:37 UTC] fix: resolve alignment issue on mobile
+[2026-07-06 14:38:29 UTC] refactor: simplify component logic
