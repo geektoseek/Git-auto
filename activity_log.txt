@@ -551,3 +551,4 @@
 [2026-07-06 09:13:16 UTC] docs: update deployment notes
 [2026-07-06 11:16:02 UTC] chore: clean up build artifacts
 [2026-07-06 11:42:35 UTC] perf: reduce animation repaints
+[2026-07-06 12:22:55 UTC] fix: fix font loading fallback
