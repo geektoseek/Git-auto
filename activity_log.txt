@@ -572,3 +572,4 @@
 [2026-07-07 10:13:54 UTC] feat: add footer link updates
 [2026-07-07 10:30:29 UTC] chore: add editor config settings
 [2026-07-07 11:23:54 UTC] fix: fix transition timing mismatch
+[2026-07-07 12:18:57 UTC] refactor: move constants to config file
