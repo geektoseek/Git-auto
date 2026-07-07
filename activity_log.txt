@@ -575,3 +575,4 @@
 [2026-07-07 12:18:57 UTC] refactor: move constants to config file
 [2026-07-07 13:27:29 UTC] perf: optimize image loading strategy
 [2026-07-07 15:34:47 UTC] chore: bump package version
+[2026-07-07 15:48:42 UTC] feat: add hover animation effects
