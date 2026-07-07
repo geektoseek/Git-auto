@@ -570,3 +570,4 @@
 [2026-07-07 07:24:37 UTC] docs: improve changelog entries
 [2026-07-07 08:46:26 UTC] fix: resolve CSS specificity conflict
 [2026-07-07 10:13:54 UTC] feat: add footer link updates
+[2026-07-07 10:30:29 UTC] chore: add editor config settings
