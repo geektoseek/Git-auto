@@ -566,3 +566,4 @@
 [2026-07-07 01:17:46 UTC] style: apply consistent naming convention
 [2026-07-07 04:11:08 UTC] perf: minify inline SVGs
 [2026-07-07 05:46:55 UTC] fix: patch overflow on small screens
+[2026-07-07 06:17:11 UTC] fix: fix image aspect ratio on Safari
