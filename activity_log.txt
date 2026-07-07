@@ -576,3 +576,4 @@
 [2026-07-07 13:27:29 UTC] perf: optimize image loading strategy
 [2026-07-07 15:34:47 UTC] chore: bump package version
 [2026-07-07 15:48:42 UTC] feat: add hover animation effects
+[2026-07-07 16:42:57 UTC] feat: add footer link updates
