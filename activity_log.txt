@@ -577,3 +577,4 @@
 [2026-07-07 15:34:47 UTC] chore: bump package version
 [2026-07-07 15:48:42 UTC] feat: add hover animation effects
 [2026-07-07 16:42:57 UTC] feat: add footer link updates
+[2026-07-07 17:45:54 UTC] style: align table formatting in docs
