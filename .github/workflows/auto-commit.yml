@@ -2,27 +2,9 @@ name: Auto Commit
 
 on:
   schedule:
-    # 20 entries at irregular times — compensates for GitHub's occasional skips
-    - cron: "7 0 * * *"
-    - cron: "38 1 * * *"
-    - cron: "14 2 * * *"
-    - cron: "52 3 * * *"
-    - cron: "21 5 * * *"
-    - cron: "43 6 * * *"
-    - cron: "9 7 * * *"
-    - cron: "31 8 * * *"
-    - cron: "58 9 * * *"
-    - cron: "17 11 * * *"
-    - cron: "44 12 * * *"
-    - cron: "6 13 * * *"
-    - cron: "29 14 * * *"
-    - cron: "53 15 * * *"
-    - cron: "18 17 * * *"
-    - cron: "41 18 * * *"
-    - cron: "3 19 * * *"
-    - cron: "27 21 * * *"
-    - cron: "49 22 * * *"
-    - cron: "33 23 * * *"
+    # Runs once a day at 03:07 UTC. The script itself makes a random
+    # number of commits (25–35) per run — cron only controls the timing.
+    - cron: "7 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -35,8 +17,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -44,9 +24,4 @@ jobs:
           python-version: "3.12"
 
       - name: Run
-        env:
-          GIT_AUTHOR_NAME: ${{ github.repository_owner }}
-          GIT_AUTHOR_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GIT_COMMITTER_NAME: ${{ github.repository_owner }}
-          GIT_COMMITTER_EMAIL: ${{ secrets.GIT_EMAIL }}
         run: python auto-commit-bot/auto_commit.py
