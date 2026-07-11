@@ -597,3 +597,4 @@
 [2026-07-11 17:36:14 UTC] (a107881b) perf: compress background assets
 [2026-07-11 17:36:14 UTC] (d2e6776c) style: clean up trailing whitespace
 [2026-07-11 17:36:14 UTC] (18fda766) fix: patch overflow on small screens
+[2026-07-11 17:36:14 UTC] (417c744a) feat: improve hero section visuals
