@@ -582,3 +582,4 @@
 [2026-07-11 17:36:14 UTC] (f1a05dd4) refactor: split large component into smaller parts
 [2026-07-11 17:36:14 UTC] (c22edd81) style: normalize quote style
 [2026-07-11 17:36:14 UTC] (89022cf4) perf: defer non-critical scripts
+[2026-07-11 17:36:14 UTC] (2a83a347) chore: update CI pipeline notes
