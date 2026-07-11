@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """
-auto_commit.py — Makes a RANDOM number of commits (25–35) to the current
-repo and pushes them. Designed to be run once per day by GitHub Actions.
+auto_commit.py — Spreads a RANDOM number of commits (25–35) across the day.
+
+Runs many times per day via cron. Each run:
+  1. Computes the day's target (a stable random 25–35, seeded by the date,
+     so every run of the same day agrees on the same number).
+  2. Counts how many commits were already made today.
+  3. Adds a small chunk of commits (up to the remaining amount), then stops.
+Once the daily target is reached, later runs do nothing.
 """
 
 import random
@@ -99,9 +105,13 @@ COMMIT_TEMPLATES = {
 
 LOG_FILE = "activity_log.txt"
 
-# Random number of commits made each run (inclusive range).
-MIN_COMMITS = 25
-MAX_COMMITS = 35
+# Random total commits PER DAY (inclusive).
+MIN_DAILY = 25
+MAX_DAILY = 35
+
+# How many commits a single run may add (spreads the total across the day).
+MIN_PER_RUN = 1
+MAX_PER_RUN = 3
 
 
 def run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess:
@@ -113,6 +123,25 @@ def configure_git() -> None:
     run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"])
 
 
+def today_str() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def daily_target() -> int:
+    """Stable random target for today — same value on every run of the day."""
+    return random.Random(today_str()).randint(MIN_DAILY, MAX_DAILY)
+
+
+def count_today() -> int:
+    """How many commits were already logged today."""
+    prefix = f"[{today_str()}"
+    try:
+        with open(LOG_FILE) as f:
+            return sum(1 for line in f if line.startswith(prefix))
+    except FileNotFoundError:
+        return 0
+
+
 def pick_commit_message() -> str:
     commit_type = random.choice(list(COMMIT_TEMPLATES.keys()))
     return random.choice(COMMIT_TEMPLATES[commit_type])
@@ -120,8 +149,7 @@ def pick_commit_message() -> str:
 
 def update_log(message: str) -> None:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    # Unique token guarantees every commit has a real diff to stage.
-    token = uuid.uuid4().hex[:8]
+    token = uuid.uuid4().hex[:8]  # unique token => real diff every commit
     with open(LOG_FILE, "a") as f:
         f.write(f"[{now}] ({token}) {message}\n")
 
@@ -130,7 +158,6 @@ def make_commit(message: str) -> bool:
     update_log(message)
     run(["git", "add", LOG_FILE])
 
-    # Skip if nothing actually changed.
     result = run(["git", "diff", "--cached", "--quiet"], check=False)
     if result.returncode == 0:
         return False
@@ -142,20 +169,26 @@ def make_commit(message: str) -> bool:
 def main() -> None:
     configure_git()
 
-    total = random.randint(MIN_COMMITS, MAX_COMMITS)
+    target = daily_target()
+    done = count_today()
+    remaining = target - done
+
+    if remaining <= 0:
+        print(f"Daily target already met: {done}/{target}. Nothing to do.")
+        return
+
+    chunk = min(remaining, random.randint(MIN_PER_RUN, MAX_PER_RUN))
     made = 0
-    for _ in range(total):
-        message = pick_commit_message()
-        if make_commit(message):
+    for _ in range(chunk):
+        if make_commit(pick_commit_message()):
             made += 1
 
     if made == 0:
         print("Nothing to commit.")
         sys.exit(0)
 
-    # Push all commits at once.
     run(["git", "push"])
-    print(f"Pushed {made} commits.")
+    print(f"Pushed {made} commits. Progress: {done + made}/{target} today.")
 
 
 if __name__ == "__main__":
