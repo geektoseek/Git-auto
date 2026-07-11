@@ -600,3 +600,4 @@
 [2026-07-11 17:36:14 UTC] (417c744a) feat: improve hero section visuals
 [2026-07-11 17:36:14 UTC] (f301d729) refactor: optimize asset references
 [2026-07-11 17:36:14 UTC] (5b1dd2c1) style: format code with consistent spacing
+[2026-07-11 17:36:14 UTC] (51e90a76) style: clean up unused class names
