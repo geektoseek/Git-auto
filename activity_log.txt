@@ -594,3 +594,4 @@
 [2026-07-11 17:36:14 UTC] (bd19baf8) chore: update dependencies
 [2026-07-11 17:36:14 UTC] (a1e07990) feat: add footer link updates
 [2026-07-11 17:36:14 UTC] (bc70060b) perf: cache static asset headers
+[2026-07-11 17:36:14 UTC] (a107881b) perf: compress background assets
