@@ -602,3 +602,4 @@
 [2026-07-11 17:36:14 UTC] (5b1dd2c1) style: format code with consistent spacing
 [2026-07-11 17:36:14 UTC] (51e90a76) style: clean up unused class names
 [2026-07-11 17:36:14 UTC] (153adf02) fix: correct z-index layering issue
+[2026-07-11 17:36:14 UTC] (cd83e2d2) docs: add usage examples
