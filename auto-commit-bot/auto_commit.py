@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-auto_commit.py — Makes a random commit to the current repo and pushes it.
-Designed to be run by GitHub Actions on a cron schedule.
+auto_commit.py — Makes a RANDOM number of commits (25–35) to the current
+repo and pushes them. Designed to be run once per day by GitHub Actions.
 """
 
 import random
 import subprocess
 import sys
+import uuid
 from datetime import datetime, timezone
 
 COMMIT_TEMPLATES = {
@@ -98,6 +99,10 @@ COMMIT_TEMPLATES = {
 
 LOG_FILE = "activity_log.txt"
 
+# Random number of commits made each run (inclusive range).
+MIN_COMMITS = 25
+MAX_COMMITS = 35
+
 
 def run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess:
     return subprocess.run(cmd, check=check, capture_output=True, text=True)
@@ -115,28 +120,42 @@ def pick_commit_message() -> str:
 
 def update_log(message: str) -> None:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    # Unique token guarantees every commit has a real diff to stage.
+    token = uuid.uuid4().hex[:8]
     with open(LOG_FILE, "a") as f:
-        f.write(f"[{now}] {message}\n")
+        f.write(f"[{now}] ({token}) {message}\n")
 
 
-def commit_and_push(message: str) -> None:
+def make_commit(message: str) -> bool:
+    update_log(message)
     run(["git", "add", LOG_FILE])
 
+    # Skip if nothing actually changed.
     result = run(["git", "diff", "--cached", "--quiet"], check=False)
     if result.returncode == 0:
-        print("Nothing to commit — log file unchanged.")
-        sys.exit(0)
+        return False
 
     run(["git", "commit", "-m", message])
-    run(["git", "push"])
-    print(f"Pushed: {message}")
+    return True
 
 
 def main() -> None:
     configure_git()
-    message = pick_commit_message()
-    update_log(message)
-    commit_and_push(message)
+
+    total = random.randint(MIN_COMMITS, MAX_COMMITS)
+    made = 0
+    for _ in range(total):
+        message = pick_commit_message()
+        if make_commit(message):
+            made += 1
+
+    if made == 0:
+        print("Nothing to commit.")
+        sys.exit(0)
+
+    # Push all commits at once.
+    run(["git", "push"])
+    print(f"Pushed {made} commits.")
 
 
 if __name__ == "__main__":
