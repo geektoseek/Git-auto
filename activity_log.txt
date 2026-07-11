@@ -587,3 +587,4 @@
 [2026-07-11 17:36:14 UTC] (53ab80c2) fix: fix image aspect ratio on Safari
 [2026-07-11 17:36:14 UTC] (e68d1204) style: reformat CSS variables section
 [2026-07-11 17:36:14 UTC] (b53528d3) style: reorganize import order
+[2026-07-11 17:36:14 UTC] (fa86abf2) perf: improve scroll event throttling
