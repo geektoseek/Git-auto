@@ -628,3 +628,4 @@
 [2026-07-12 07:16:23 UTC] (28ffbc2f) feat: enhance UI component structure
 [2026-07-12 07:41:25 UTC] (935f6b3d) chore: clean up build artifacts
 [2026-07-12 07:41:25 UTC] (babd07c8) refactor: simplify component logic
+[2026-07-12 08:29:50 UTC] (2206b56a) docs: clarify installation instructions
