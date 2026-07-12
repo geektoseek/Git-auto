@@ -606,3 +606,4 @@
 [2026-07-11 17:36:14 UTC] (7b457e99) chore: sync lockfile
 [2026-07-11 17:36:14 UTC] (a0d3a182) perf: reduce bundle size
 [2026-07-11 19:54:39 UTC] (945b4db9) docs: update deployment notes
+[2026-07-12 03:45:28 UTC] (41d290a8) fix: resolve CSS specificity conflict
