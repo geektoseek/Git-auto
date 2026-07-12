@@ -118,9 +118,15 @@ def run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess:
     return subprocess.run(cmd, check=check, capture_output=True, text=True)
 
 
+# Commit identity — email MUST be verified on your GitHub account for the
+# commits to count on your contribution graph (green squares).
+GIT_NAME = "geektoseek"
+GIT_EMAIL = "naeeminfo120@gmail.com"
+
+
 def configure_git() -> None:
-    run(["git", "config", "user.name", "github-actions[bot]"])
-    run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"])
+    run(["git", "config", "user.name", GIT_NAME])
+    run(["git", "config", "user.email", GIT_EMAIL])
 
 
 def today_str() -> str:
