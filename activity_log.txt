@@ -633,3 +633,4 @@
 [2026-07-12 08:29:50 UTC] (d7e233ba) feat: add smooth scroll behavior
 [2026-07-12 09:00:15 UTC] (3ad1f882) docs: update tech stack references
 [2026-07-12 09:00:15 UTC] (2fc163a7) chore: update .gitignore entries
+[2026-07-12 09:00:15 UTC] (a2503fcd) fix: resolve alignment issue on mobile
