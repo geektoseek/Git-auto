@@ -618,3 +618,4 @@
 [2026-07-12 05:27:50 UTC] (2dc3889b) perf: reduce animation repaints
 [2026-07-12 05:27:50 UTC] (e3953bfa) fix: resolve alignment issue on mobile
 [2026-07-12 05:27:50 UTC] (c727f665) refactor: optimize asset references
+[2026-07-12 05:44:12 UTC] (87f55214) perf: compress background assets
