@@ -637,3 +637,4 @@
 [2026-07-13 03:47:55 UTC] (a08cf0fa) fix: correct broken link in navigation
 [2026-07-13 04:21:11 UTC] (cb7f3b8e) style: clean up unused class names
 [2026-07-13 04:49:55 UTC] (777aa4ec) fix: fix font loading fallback
+[2026-07-13 05:36:52 UTC] (03c14385) docs: clarify installation instructions
