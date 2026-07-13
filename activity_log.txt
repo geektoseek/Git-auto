@@ -660,3 +660,4 @@
 [2026-07-13 12:20:28 UTC] (20e17bc7) fix: resolve CSS specificity conflict
 [2026-07-13 12:43:05 UTC] (c05eab74) chore: update dependencies
 [2026-07-13 12:43:05 UTC] (a0a02fa4) chore: remove unused imports
+[2026-07-13 12:43:05 UTC] (9982edcc) docs: improve component documentation
