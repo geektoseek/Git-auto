@@ -646,3 +646,4 @@
 [2026-07-13 07:31:36 UTC] (40269a4a) style: reorganize import order
 [2026-07-13 07:53:39 UTC] (b6791fc5) fix: fix image aspect ratio on Safari
 [2026-07-13 07:53:39 UTC] (d1768984) style: clean up unused class names
+[2026-07-13 08:34:19 UTC] (05435456) fix: fix image aspect ratio on Safari
