@@ -643,3 +643,4 @@
 [2026-07-13 05:55:02 UTC] (c6391495) perf: reduce bundle size
 [2026-07-13 06:31:41 UTC] (8b394817) feat: add footer link updates
 [2026-07-13 07:31:36 UTC] (3b73be50) style: normalize quote style
+[2026-07-13 07:31:36 UTC] (40269a4a) style: reorganize import order
