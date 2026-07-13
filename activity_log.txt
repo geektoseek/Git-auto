@@ -639,3 +639,4 @@
 [2026-07-13 04:49:55 UTC] (777aa4ec) fix: fix font loading fallback
 [2026-07-13 05:36:52 UTC] (03c14385) docs: clarify installation instructions
 [2026-07-13 05:36:52 UTC] (cd521904) docs: clarify installation instructions
+[2026-07-13 05:55:02 UTC] (d20a9017) fix: fix image aspect ratio on Safari
