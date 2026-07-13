@@ -650,3 +650,4 @@
 [2026-07-13 08:34:19 UTC] (68d9e9f5) fix: resolve CSS specificity conflict
 [2026-07-13 08:34:19 UTC] (6acec33b) style: apply consistent naming convention
 [2026-07-13 09:45:55 UTC] (09b24273) feat: add hover animation effects
+[2026-07-13 09:45:55 UTC] (0bd039b7) perf: improve scroll event throttling
