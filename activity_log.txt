@@ -655,3 +655,4 @@
 [2026-07-13 10:38:24 UTC] (6f186303) refactor: reduce component nesting
 [2026-07-13 10:38:24 UTC] (dd377fd8) docs: add inline code comments
 [2026-07-13 10:38:24 UTC] (49d90b93) fix: correct broken link in navigation
+[2026-07-13 11:26:35 UTC] (dee5d6eb) style: align table formatting in docs
