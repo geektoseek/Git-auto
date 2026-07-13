@@ -635,3 +635,4 @@
 [2026-07-12 09:00:15 UTC] (2fc163a7) chore: update .gitignore entries
 [2026-07-12 09:00:15 UTC] (a2503fcd) fix: resolve alignment issue on mobile
 [2026-07-13 03:47:55 UTC] (a08cf0fa) fix: correct broken link in navigation
+[2026-07-13 04:21:11 UTC] (cb7f3b8e) style: clean up unused class names
