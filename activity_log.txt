@@ -691,3 +691,4 @@
 [2026-07-14 11:08:00 UTC] (aca0d949) docs: improve changelog entries
 [2026-07-14 11:08:00 UTC] (572935c6) refactor: consolidate repeated styles
 [2026-07-14 11:48:09 UTC] (724f6175) fix: fix font loading fallback
+[2026-07-14 11:48:09 UTC] (cd0cc590) perf: improve scroll event throttling
