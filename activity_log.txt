@@ -682,3 +682,4 @@
 [2026-07-14 08:25:59 UTC] (fc83721d) perf: reduce bundle size
 [2026-07-14 09:02:31 UTC] (71ef17f1) fix: fix image aspect ratio on Safari
 [2026-07-14 09:02:31 UTC] (06a953f1) feat: add smooth scroll behavior
+[2026-07-14 09:22:07 UTC] (059d1f00) chore: update .gitignore entries
