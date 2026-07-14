@@ -673,3 +673,4 @@
 [2026-07-14 05:41:20 UTC] (9d96d104) fix: correct broken link in navigation
 [2026-07-14 06:20:27 UTC] (8e7c59f6) fix: resolve CSS specificity conflict
 [2026-07-14 06:57:20 UTC] (d93f18b2) style: apply consistent naming convention
+[2026-07-14 06:57:20 UTC] (271f3080) style: clean up unused class names
