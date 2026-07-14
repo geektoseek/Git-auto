@@ -684,3 +684,4 @@
 [2026-07-14 09:02:31 UTC] (06a953f1) feat: add smooth scroll behavior
 [2026-07-14 09:22:07 UTC] (059d1f00) chore: update .gitignore entries
 [2026-07-14 10:07:39 UTC] (800a2a47) chore: update CI pipeline notes
+[2026-07-14 10:22:56 UTC] (752455a3) perf: optimize image loading strategy
