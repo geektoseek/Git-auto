@@ -675,3 +675,4 @@
 [2026-07-14 06:57:20 UTC] (d93f18b2) style: apply consistent naming convention
 [2026-07-14 06:57:20 UTC] (271f3080) style: clean up unused class names
 [2026-07-14 07:26:09 UTC] (862bbd9a) fix: correct broken link in navigation
+[2026-07-14 07:26:09 UTC] (04caec88) refactor: clean up legacy code
