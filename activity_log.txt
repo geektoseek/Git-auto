@@ -671,3 +671,4 @@
 [2026-07-14 05:16:48 UTC] (9183e819) feat: improve hero section visuals
 [2026-07-14 05:16:48 UTC] (1815828f) style: adjust line breaks in components
 [2026-07-14 05:41:20 UTC] (9d96d104) fix: correct broken link in navigation
+[2026-07-14 06:20:27 UTC] (8e7c59f6) fix: resolve CSS specificity conflict
