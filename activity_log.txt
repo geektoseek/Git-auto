@@ -680,3 +680,4 @@
 [2026-07-14 08:25:59 UTC] (7bddeff3) fix: patch scroll position reset
 [2026-07-14 08:25:59 UTC] (c4e012da) perf: reduce bundle size
 [2026-07-14 08:25:59 UTC] (fc83721d) perf: reduce bundle size
+[2026-07-14 09:02:31 UTC] (71ef17f1) fix: fix image aspect ratio on Safari
