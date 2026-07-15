@@ -714,3 +714,4 @@
 [2026-07-15 09:07:37 UTC] (f079821d) docs: update contact information
 [2026-07-15 09:07:37 UTC] (2fa46881) feat: add smooth scroll behavior
 [2026-07-15 09:07:37 UTC] (032a6a2d) fix: correct z-index layering issue
+[2026-07-15 09:26:49 UTC] (105ce67a) fix: patch scroll position reset
