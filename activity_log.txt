@@ -718,3 +718,4 @@
 [2026-07-15 10:12:22 UTC] (70a6b895) feat: improve mobile navigation flow
 [2026-07-15 10:27:14 UTC] (ec82fa21) refactor: restructure section layout
 [2026-07-15 11:09:15 UTC] (df1fe756) style: clean up unused class names
+[2026-07-15 11:52:35 UTC] (5629ec54) refactor: move constants to config file
