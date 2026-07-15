@@ -709,3 +709,4 @@
 [2026-07-15 06:24:03 UTC] (3ee5ec7c) feat: add hover animation effects
 [2026-07-15 06:59:29 UTC] (6a108874) feat: improve mobile navigation flow
 [2026-07-15 07:30:08 UTC] (aad649b7) perf: preload critical fonts
+[2026-07-15 07:30:08 UTC] (ceefb1bf) chore: remove unused imports
