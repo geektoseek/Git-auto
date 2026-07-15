@@ -725,3 +725,4 @@
 [2026-07-15 14:02:16 UTC] (e663db6d) chore: clean up build artifacts
 [2026-07-15 14:02:16 UTC] (a68b7979) style: format code with consistent spacing
 [2026-07-15 14:02:16 UTC] (7f6222f6) fix: fix image aspect ratio on Safari
+[2026-07-15 14:26:19 UTC] (0c82f03b) feat: improve hero section visuals
