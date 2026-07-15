@@ -696,3 +696,4 @@
 [2026-07-14 12:02:59 UTC] (4a62f724) feat: enhance card component design
 [2026-07-15 03:21:28 UTC] (7e40fe39) perf: compress background assets
 [2026-07-15 03:21:28 UTC] (2457dcab) refactor: move constants to config file
+[2026-07-15 03:21:28 UTC] (a9b344c2) style: reorganize import order
