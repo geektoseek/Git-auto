@@ -755,3 +755,4 @@
 [2026-07-16 10:20:14 UTC] (f64c53a7) feat: add new section styles
 [2026-07-16 10:33:37 UTC] (8aabc994) perf: lazy load below-fold sections
 [2026-07-16 10:33:37 UTC] (8dbbb9cc) fix: resolve button hover state bug
+[2026-07-16 10:33:37 UTC] (c8d6086c) perf: cache static asset headers
