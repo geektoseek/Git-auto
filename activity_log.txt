@@ -746,3 +746,4 @@
 [2026-07-16 07:36:51 UTC] (a5e76a47) style: improve code readability
 [2026-07-16 07:36:51 UTC] (42a6a76b) fix: fix image aspect ratio on Safari
 [2026-07-16 08:30:32 UTC] (476e5af0) style: format code with consistent spacing
+[2026-07-16 09:10:50 UTC] (8e03c768) chore: reorganize folder structure
