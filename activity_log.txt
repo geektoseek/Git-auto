@@ -728,3 +728,4 @@
 [2026-07-15 14:26:19 UTC] (0c82f03b) feat: improve hero section visuals
 [2026-07-15 15:03:08 UTC] (62c187c8) perf: preload critical fonts
 [2026-07-16 03:28:09 UTC] (651126e2) style: clean up unused class names
+[2026-07-16 03:28:09 UTC] (061f0ade) refactor: move constants to config file
