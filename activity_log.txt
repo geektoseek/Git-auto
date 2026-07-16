@@ -736,3 +736,4 @@
 [2026-07-16 04:27:55 UTC] (5d5ee0eb) perf: improve scroll event throttling
 [2026-07-16 05:09:55 UTC] (2c907729) perf: reduce animation repaints
 [2026-07-16 05:28:10 UTC] (61e4e04d) chore: bump package version
+[2026-07-16 05:28:10 UTC] (e5e9c3a8) style: clean up unused class names
