@@ -729,3 +729,4 @@
 [2026-07-15 15:03:08 UTC] (62c187c8) perf: preload critical fonts
 [2026-07-16 03:28:09 UTC] (651126e2) style: clean up unused class names
 [2026-07-16 03:28:09 UTC] (061f0ade) refactor: move constants to config file
+[2026-07-16 03:28:09 UTC] (11dac59a) style: clean up unused class names
