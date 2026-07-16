@@ -751,3 +751,4 @@
 [2026-07-16 09:10:50 UTC] (c9f80855) style: improve code readability
 [2026-07-16 09:33:58 UTC] (c05b7324) style: normalize quote style
 [2026-07-16 09:33:58 UTC] (888bb26f) chore: clean up build artifacts
+[2026-07-16 09:33:58 UTC] (eaf85635) chore: bump package version
