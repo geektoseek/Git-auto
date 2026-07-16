@@ -753,3 +753,4 @@
 [2026-07-16 09:33:58 UTC] (888bb26f) chore: clean up build artifacts
 [2026-07-16 09:33:58 UTC] (eaf85635) chore: bump package version
 [2026-07-16 10:20:14 UTC] (f64c53a7) feat: add new section styles
+[2026-07-16 10:33:37 UTC] (8aabc994) perf: lazy load below-fold sections
