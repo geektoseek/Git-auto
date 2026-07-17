@@ -788,3 +788,4 @@
 [2026-07-17 09:26:16 UTC] (ef3aab15) docs: improve changelog entries
 [2026-07-17 09:26:16 UTC] (16ca7cbd) refactor: split large component into smaller parts
 [2026-07-17 09:26:16 UTC] (8f767fec) chore: update dependencies
+[2026-07-17 10:08:26 UTC] (0f7789c1) docs: add usage examples
