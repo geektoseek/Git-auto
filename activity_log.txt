@@ -779,3 +779,4 @@
 [2026-07-17 07:03:36 UTC] (b2040edb) fix: resolve button hover state bug
 [2026-07-17 07:03:36 UTC] (743e82ec) docs: improve component documentation
 [2026-07-17 07:33:47 UTC] (387df858) refactor: simplify component logic
+[2026-07-17 07:33:47 UTC] (33cc1605) feat: improve hero section visuals
