@@ -770,3 +770,4 @@
 [2026-07-17 05:13:13 UTC] (0d303abb) refactor: split large component into smaller parts
 [2026-07-17 05:13:13 UTC] (4d5cb98d) docs: add usage examples
 [2026-07-17 05:29:54 UTC] (0d818fbf) style: reformat CSS variables section
+[2026-07-17 05:29:54 UTC] (1282de8d) chore: reorganize folder structure
