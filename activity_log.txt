@@ -764,3 +764,4 @@
 [2026-07-16 11:55:35 UTC] (5a054b2e) refactor: optimize asset references
 [2026-07-17 00:00:44 UTC] (7f853871) style: clean up unused class names
 [2026-07-17 03:30:23 UTC] (1e214403) perf: preload critical fonts
+[2026-07-17 03:51:49 UTC] (4790f4d3) chore: reorganize folder structure
