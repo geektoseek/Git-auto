@@ -762,3 +762,4 @@
 [2026-07-16 11:55:35 UTC] (c1a26cc5) fix: resolve CSS specificity conflict
 [2026-07-16 11:55:35 UTC] (2c536a2d) chore: clean up build artifacts
 [2026-07-16 11:55:35 UTC] (5a054b2e) refactor: optimize asset references
+[2026-07-17 00:00:44 UTC] (7f853871) style: clean up unused class names
