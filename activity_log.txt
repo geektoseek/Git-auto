@@ -777,3 +777,4 @@
 [2026-07-17 06:24:23 UTC] (ea050919) refactor: reduce component nesting
 [2026-07-17 07:03:36 UTC] (7e0518a9) docs: improve changelog entries
 [2026-07-17 07:03:36 UTC] (b2040edb) fix: resolve button hover state bug
+[2026-07-17 07:03:36 UTC] (743e82ec) docs: improve component documentation
