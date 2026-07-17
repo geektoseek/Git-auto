@@ -786,3 +786,4 @@
 [2026-07-17 09:06:49 UTC] (a038225c) style: clean up trailing whitespace
 [2026-07-17 09:06:49 UTC] (ff4c6dbd) chore: reorganize folder structure
 [2026-07-17 09:26:16 UTC] (ef3aab15) docs: improve changelog entries
+[2026-07-17 09:26:16 UTC] (16ca7cbd) refactor: split large component into smaller parts
