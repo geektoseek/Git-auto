@@ -797,3 +797,4 @@
 [2026-07-18 03:19:31 UTC] (db16087f) docs: update tech stack references
 [2026-07-18 03:45:44 UTC] (6edc3711) perf: compress background assets
 [2026-07-18 03:45:44 UTC] (8ee7c30d) perf: lazy load below-fold sections
+[2026-07-18 03:45:44 UTC] (0d3b6862) docs: improve changelog entries
