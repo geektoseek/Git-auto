@@ -808,3 +808,4 @@
 [2026-07-18 06:13:31 UTC] (54270d36) docs: update deployment notes
 [2026-07-18 06:33:01 UTC] (ecd416e1) fix: fix image aspect ratio on Safari
 [2026-07-18 06:33:01 UTC] (9e0366a2) feat: improve hero section visuals
+[2026-07-18 06:33:01 UTC] (1554c011) fix: resolve CSS specificity conflict
