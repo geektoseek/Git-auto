@@ -798,3 +798,4 @@
 [2026-07-18 03:45:44 UTC] (6edc3711) perf: compress background assets
 [2026-07-18 03:45:44 UTC] (8ee7c30d) perf: lazy load below-fold sections
 [2026-07-18 03:45:44 UTC] (0d3b6862) docs: improve changelog entries
+[2026-07-18 04:16:29 UTC] (fd8666e2) chore: reorganize folder structure
