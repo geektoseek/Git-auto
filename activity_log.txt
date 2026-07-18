@@ -805,3 +805,4 @@
 [2026-07-18 05:12:15 UTC] (4d7c4d47) style: clean up unused class names
 [2026-07-18 05:12:15 UTC] (629de46f) perf: optimize image loading strategy
 [2026-07-18 05:37:08 UTC] (a7ae8377) feat: improve mobile navigation flow
+[2026-07-18 06:13:31 UTC] (54270d36) docs: update deployment notes
