@@ -811,3 +811,4 @@
 [2026-07-18 06:33:01 UTC] (1554c011) fix: resolve CSS specificity conflict
 [2026-07-18 07:15:00 UTC] (b7df4bba) refactor: restructure section layout
 [2026-07-18 08:06:11 UTC] (b54692ef) fix: correct z-index layering issue
+[2026-07-18 08:06:11 UTC] (7c9c3af4) style: reorganize import order
