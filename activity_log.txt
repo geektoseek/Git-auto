@@ -810,3 +810,4 @@
 [2026-07-18 06:33:01 UTC] (9e0366a2) feat: improve hero section visuals
 [2026-07-18 06:33:01 UTC] (1554c011) fix: resolve CSS specificity conflict
 [2026-07-18 07:15:00 UTC] (b7df4bba) refactor: restructure section layout
+[2026-07-18 08:06:11 UTC] (b54692ef) fix: correct z-index layering issue
