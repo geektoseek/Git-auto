@@ -794,3 +794,4 @@
 [2026-07-17 11:05:47 UTC] (538cc976) perf: cache static asset headers
 [2026-07-18 03:19:31 UTC] (199a0528) chore: sync lockfile
 [2026-07-18 03:19:31 UTC] (a5b4e74c) fix: resolve CSS specificity conflict
+[2026-07-18 03:19:31 UTC] (db16087f) docs: update tech stack references
