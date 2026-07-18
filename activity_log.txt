@@ -813,3 +813,4 @@
 [2026-07-18 08:06:11 UTC] (b54692ef) fix: correct z-index layering issue
 [2026-07-18 08:06:11 UTC] (7c9c3af4) style: reorganize import order
 [2026-07-18 08:06:11 UTC] (9b8aec7a) feat: add responsive layout improvements
+[2026-07-18 08:47:00 UTC] (c595cf96) docs: update deployment notes
