@@ -824,3 +824,4 @@
 [2026-07-19 04:14:17 UTC] (f014f6fa) style: normalize quote style
 [2026-07-19 04:39:08 UTC] (27315718) fix: fix font loading fallback
 [2026-07-19 04:39:08 UTC] (425907e2) fix: resolve alignment issue on mobile
+[2026-07-19 05:21:16 UTC] (29b2222e) fix: fix font loading fallback
