@@ -819,3 +819,4 @@
 [2026-07-18 09:07:39 UTC] (3ac59b95) chore: reorganize folder structure
 [2026-07-18 09:07:39 UTC] (dafad690) fix: fix font loading fallback
 [2026-07-19 03:40:37 UTC] (054eb696) docs: update deployment notes
+[2026-07-19 03:40:37 UTC] (f8644b6d) refactor: restructure section layout
