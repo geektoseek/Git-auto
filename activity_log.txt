@@ -829,3 +829,4 @@
 [2026-07-19 05:21:16 UTC] (4566cd99) chore: bump package version
 [2026-07-19 05:38:23 UTC] (c3108dfd) feat: add footer link updates
 [2026-07-19 05:38:23 UTC] (2f124881) fix: fix image aspect ratio on Safari
+[2026-07-19 05:38:23 UTC] (9298d063) perf: lazy load below-fold sections
