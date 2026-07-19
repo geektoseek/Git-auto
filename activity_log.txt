@@ -834,3 +834,4 @@
 [2026-07-19 06:09:26 UTC] (0c6f46d7) style: align table formatting in docs
 [2026-07-19 06:39:19 UTC] (6a366476) feat: enhance UI component structure
 [2026-07-19 07:14:55 UTC] (42232b8b) style: reorganize import order
+[2026-07-19 07:14:55 UTC] (9f91c9a9) refactor: simplify component logic
