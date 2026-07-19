@@ -830,3 +830,4 @@
 [2026-07-19 05:38:23 UTC] (c3108dfd) feat: add footer link updates
 [2026-07-19 05:38:23 UTC] (2f124881) fix: fix image aspect ratio on Safari
 [2026-07-19 05:38:23 UTC] (9298d063) perf: lazy load below-fold sections
+[2026-07-19 06:09:26 UTC] (2f24b7b7) refactor: restructure section layout
