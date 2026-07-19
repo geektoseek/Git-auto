@@ -828,3 +828,4 @@
 [2026-07-19 05:21:16 UTC] (0771f7aa) style: align table formatting in docs
 [2026-07-19 05:21:16 UTC] (4566cd99) chore: bump package version
 [2026-07-19 05:38:23 UTC] (c3108dfd) feat: add footer link updates
+[2026-07-19 05:38:23 UTC] (2f124881) fix: fix image aspect ratio on Safari
