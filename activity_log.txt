@@ -849,3 +849,4 @@
 [2026-07-19 10:53:40 UTC] (602effcc) refactor: reduce component nesting
 [2026-07-19 10:53:40 UTC] (a85d9d49) chore: update dependencies
 [2026-07-20 03:54:19 UTC] (ab9a9cce) fix: fix image aspect ratio on Safari
+[2026-07-20 03:54:19 UTC] (61497a66) feat: add hover animation effects
