@@ -874,3 +874,4 @@
 [2026-07-20 11:10:43 UTC] (3421647e) perf: improve scroll event throttling
 [2026-07-20 11:27:06 UTC] (7dc12c90) docs: clarify installation instructions
 [2026-07-20 11:27:06 UTC] (90af8d69) docs: improve changelog entries
+[2026-07-20 12:01:16 UTC] (2c54cd91) docs: add inline code comments
