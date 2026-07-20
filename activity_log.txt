@@ -851,3 +851,4 @@
 [2026-07-20 03:54:19 UTC] (ab9a9cce) fix: fix image aspect ratio on Safari
 [2026-07-20 03:54:19 UTC] (61497a66) feat: add hover animation effects
 [2026-07-20 04:26:33 UTC] (f9a6163d) perf: minify inline SVGs
+[2026-07-20 04:26:34 UTC] (ba99ea30) docs: add usage examples
