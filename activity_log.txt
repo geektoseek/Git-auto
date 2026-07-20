@@ -860,3 +860,4 @@
 [2026-07-20 05:55:49 UTC] (9ef3c837) style: adjust line breaks in components
 [2026-07-20 06:27:20 UTC] (320766de) fix: patch scroll position reset
 [2026-07-20 06:27:20 UTC] (7d5ebdcf) fix: fix image aspect ratio on Safari
+[2026-07-20 07:20:55 UTC] (71d8f4cf) perf: preload critical fonts
