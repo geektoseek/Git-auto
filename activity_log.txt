@@ -877,3 +877,4 @@
 [2026-07-20 12:01:16 UTC] (2c54cd91) docs: add inline code comments
 [2026-07-20 12:01:16 UTC] (64aaadd7) chore: clean up build artifacts
 [2026-07-20 12:01:16 UTC] (21c5db84) chore: remove unused imports
+[2026-07-20 12:27:08 UTC] (15428bcc) fix: patch scroll position reset
