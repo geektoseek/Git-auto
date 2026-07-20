@@ -864,3 +864,4 @@
 [2026-07-20 07:20:55 UTC] (80fcc150) perf: cache static asset headers
 [2026-07-20 07:20:55 UTC] (1719db78) chore: update .gitignore entries
 [2026-07-20 07:45:34 UTC] (54584a13) refactor: simplify component logic
+[2026-07-20 07:45:34 UTC] (9bf07725) perf: reduce bundle size
