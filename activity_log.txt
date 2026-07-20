@@ -869,3 +869,4 @@
 [2026-07-20 09:32:00 UTC] (185780be) feat: implement dynamic content loading
 [2026-07-20 09:57:06 UTC] (dccbedc0) refactor: reduce component nesting
 [2026-07-20 09:57:06 UTC] (9fce1edb) docs: update contact information
+[2026-07-20 10:23:38 UTC] (2b19f3a0) perf: improve scroll event throttling
