@@ -879,3 +879,4 @@
 [2026-07-20 12:01:16 UTC] (21c5db84) chore: remove unused imports
 [2026-07-20 12:27:08 UTC] (15428bcc) fix: patch scroll position reset
 [2026-07-20 12:27:08 UTC] (1e21bd77) perf: cache static asset headers
+[2026-07-20 12:57:18 UTC] (d57ff0ac) perf: defer non-critical scripts
