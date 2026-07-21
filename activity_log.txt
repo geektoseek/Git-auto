@@ -898,3 +898,4 @@
 [2026-07-21 06:07:17 UTC] (456adafd) fix: correct broken link in navigation
 [2026-07-21 06:37:26 UTC] (eb2a6432) chore: add editor config settings
 [2026-07-21 07:20:03 UTC] (abe11e4a) chore: clean up build artifacts
+[2026-07-21 07:20:03 UTC] (bf33b4b5) docs: add usage examples
