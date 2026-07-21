@@ -890,3 +890,4 @@
 [2026-07-21 04:35:14 UTC] (c87b52cd) docs: update README with setup steps
 [2026-07-21 04:35:14 UTC] (46ded494) perf: defer non-critical scripts
 [2026-07-21 05:20:10 UTC] (4cf79326) chore: clean up build artifacts
+[2026-07-21 05:37:27 UTC] (8471c877) chore: reorganize folder structure
