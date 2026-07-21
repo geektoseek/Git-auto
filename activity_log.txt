@@ -882,3 +882,4 @@
 [2026-07-20 12:57:18 UTC] (d57ff0ac) perf: defer non-critical scripts
 [2026-07-20 13:26:56 UTC] (acb1698e) style: normalize quote style
 [2026-07-20 13:26:56 UTC] (1a6d654b) chore: sync lockfile
+[2026-07-21 03:34:09 UTC] (f97f346d) perf: compress background assets
