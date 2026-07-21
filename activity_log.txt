@@ -895,3 +895,4 @@
 [2026-07-21 05:37:27 UTC] (799d2c52) chore: update CI pipeline notes
 [2026-07-21 06:07:17 UTC] (f436fe71) fix: patch scroll position reset
 [2026-07-21 06:07:17 UTC] (ec0e2db0) chore: refresh environment config
+[2026-07-21 06:07:17 UTC] (456adafd) fix: correct broken link in navigation
