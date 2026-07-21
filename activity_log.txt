@@ -884,3 +884,4 @@
 [2026-07-20 13:26:56 UTC] (1a6d654b) chore: sync lockfile
 [2026-07-21 03:34:09 UTC] (f97f346d) perf: compress background assets
 [2026-07-21 03:59:47 UTC] (04a822aa) style: adjust line breaks in components
+[2026-07-21 03:59:47 UTC] (bb2d6b7a) chore: remove unused imports
