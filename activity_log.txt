@@ -888,3 +888,4 @@
 [2026-07-21 03:59:47 UTC] (670a4d8c) style: reorganize import order
 [2026-07-21 04:35:14 UTC] (b1d21646) chore: update dependencies
 [2026-07-21 04:35:14 UTC] (c87b52cd) docs: update README with setup steps
+[2026-07-21 04:35:14 UTC] (46ded494) perf: defer non-critical scripts
