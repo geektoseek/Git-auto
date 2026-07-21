@@ -907,3 +907,4 @@
 [2026-07-21 09:25:13 UTC] (f9ef66ed) perf: defer non-critical scripts
 [2026-07-21 09:58:37 UTC] (8a0f0ea8) feat: add smooth scroll behavior
 [2026-07-21 10:32:18 UTC] (baf41915) style: reformat CSS variables section
+[2026-07-21 10:47:43 UTC] (fb1c4b60) docs: improve changelog entries
