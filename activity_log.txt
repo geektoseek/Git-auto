@@ -904,3 +904,4 @@
 [2026-07-21 08:42:08 UTC] (572acf37) feat: implement dynamic content loading
 [2026-07-21 09:25:13 UTC] (c79d499f) fix: patch overflow on small screens
 [2026-07-21 09:25:13 UTC] (47629ab6) feat: implement dynamic content loading
+[2026-07-21 09:25:13 UTC] (f9ef66ed) perf: defer non-critical scripts
