@@ -885,3 +885,4 @@
 [2026-07-21 03:34:09 UTC] (f97f346d) perf: compress background assets
 [2026-07-21 03:59:47 UTC] (04a822aa) style: adjust line breaks in components
 [2026-07-21 03:59:47 UTC] (bb2d6b7a) chore: remove unused imports
+[2026-07-21 03:59:47 UTC] (670a4d8c) style: reorganize import order
