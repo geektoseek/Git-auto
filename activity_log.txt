@@ -949,3 +949,4 @@
 [2026-07-22 10:49:39 UTC] (08a24c92) docs: add project structure notes
 [2026-07-22 11:25:21 UTC] (5dd1ef88) fix: fix transition timing mismatch
 [2026-07-22 11:25:21 UTC] (50e20781) style: clean up unused class names
+[2026-07-22 11:25:21 UTC] (6acf9499) chore: reorganize folder structure
