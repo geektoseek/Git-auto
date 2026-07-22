@@ -936,3 +936,4 @@
 [2026-07-22 07:21:19 UTC] (de48e52e) style: align table formatting in docs
 [2026-07-22 07:55:22 UTC] (17552678) fix: correct broken link in navigation
 [2026-07-22 08:41:51 UTC] (7ee40575) fix: patch scroll position reset
+[2026-07-22 08:41:51 UTC] (a8a2edfd) docs: update contact information
