@@ -934,3 +934,4 @@
 [2026-07-22 07:21:19 UTC] (5b5750db) feat: add hover animation effects
 [2026-07-22 07:21:19 UTC] (1812ef64) chore: bump package version
 [2026-07-22 07:21:19 UTC] (de48e52e) style: align table formatting in docs
+[2026-07-22 07:55:22 UTC] (17552678) fix: correct broken link in navigation
