@@ -981,3 +981,4 @@
 [2026-07-23 12:14:39 UTC] (fca44dfb) fix: fix image aspect ratio on Safari
 [2026-07-23 12:14:39 UTC] (d76beeb7) style: clean up trailing whitespace
 [2026-07-23 13:03:21 UTC] (a8f2e7b3) perf: improve scroll event throttling
+[2026-07-23 13:03:21 UTC] (4f8cb9ef) refactor: reduce component nesting
