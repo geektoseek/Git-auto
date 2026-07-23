@@ -952,3 +952,4 @@
 [2026-07-22 11:25:21 UTC] (6acf9499) chore: reorganize folder structure
 [2026-07-23 00:01:24 UTC] (c69025ca) feat: improve mobile navigation flow
 [2026-07-23 00:01:24 UTC] (66b4445d) docs: clarify installation instructions
+[2026-07-23 00:01:24 UTC] (747b9655) refactor: clean up legacy code
