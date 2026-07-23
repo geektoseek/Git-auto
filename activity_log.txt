@@ -961,3 +961,4 @@
 [2026-07-23 05:41:07 UTC] (fae42f11) docs: add usage examples
 [2026-07-23 05:41:07 UTC] (676f9dcc) chore: update dependencies
 [2026-07-23 06:11:20 UTC] (a1cdddce) refactor: split large component into smaller parts
+[2026-07-23 06:37:18 UTC] (a5d402fc) refactor: move constants to config file
