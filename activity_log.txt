@@ -971,3 +971,4 @@
 [2026-07-23 09:23:07 UTC] (6dac17f8) docs: clarify installation instructions
 [2026-07-23 09:23:07 UTC] (a0d34585) style: normalize quote style
 [2026-07-23 09:44:46 UTC] (d58b09be) refactor: split large component into smaller parts
+[2026-07-23 09:44:46 UTC] (b5d11fd8) refactor: optimize asset references
