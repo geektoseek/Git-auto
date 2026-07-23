@@ -979,3 +979,4 @@
 [2026-07-23 11:24:43 UTC] (1d043c22) perf: cache static asset headers
 [2026-07-23 12:05:02 UTC] (6e1986a0) feat: improve hero section visuals
 [2026-07-23 12:14:39 UTC] (fca44dfb) fix: fix image aspect ratio on Safari
+[2026-07-23 12:14:39 UTC] (d76beeb7) style: clean up trailing whitespace
