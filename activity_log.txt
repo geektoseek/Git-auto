@@ -980,3 +980,4 @@
 [2026-07-23 12:05:02 UTC] (6e1986a0) feat: improve hero section visuals
 [2026-07-23 12:14:39 UTC] (fca44dfb) fix: fix image aspect ratio on Safari
 [2026-07-23 12:14:39 UTC] (d76beeb7) style: clean up trailing whitespace
+[2026-07-23 13:03:21 UTC] (a8f2e7b3) perf: improve scroll event throttling
