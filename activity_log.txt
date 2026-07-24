@@ -994,3 +994,4 @@
 [2026-07-24 06:05:22 UTC] (75d42bed) chore: update CI pipeline notes
 [2026-07-24 06:35:18 UTC] (4ec1720f) chore: refresh environment config
 [2026-07-24 06:35:18 UTC] (c77dc6e7) style: apply consistent naming convention
+[2026-07-24 06:35:18 UTC] (905b4762) chore: reorganize folder structure
