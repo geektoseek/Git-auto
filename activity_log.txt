@@ -1008,3 +1008,4 @@
 [2026-07-24 10:27:21 UTC] (58096278) style: adjust line breaks in components
 [2026-07-24 10:37:05 UTC] (2825753d) fix: resolve button hover state bug
 [2026-07-24 10:37:05 UTC] (0702107b) style: improve code readability
+[2026-07-24 10:37:05 UTC] (dd16f3a5) feat: add smooth scroll behavior
