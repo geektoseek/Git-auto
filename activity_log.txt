@@ -1006,3 +1006,4 @@
 [2026-07-24 09:41:55 UTC] (c1034664) perf: preload critical fonts
 [2026-07-24 10:27:21 UTC] (c6247ebd) feat: improve mobile navigation flow
 [2026-07-24 10:27:21 UTC] (58096278) style: adjust line breaks in components
+[2026-07-24 10:37:05 UTC] (2825753d) fix: resolve button hover state bug
