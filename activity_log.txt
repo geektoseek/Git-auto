@@ -1000,3 +1000,4 @@
 [2026-07-24 07:55:17 UTC] (d8e9c056) perf: lazy load below-fold sections
 [2026-07-24 08:39:16 UTC] (9a79a304) docs: update deployment notes
 [2026-07-24 08:39:16 UTC] (8bd3f880) perf: optimize image loading strategy
+[2026-07-24 08:39:16 UTC] (e1176d2c) feat: improve hero section visuals
