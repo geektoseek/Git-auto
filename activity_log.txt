@@ -999,3 +999,4 @@
 [2026-07-24 07:17:22 UTC] (7bba860e) style: reformat CSS variables section
 [2026-07-24 07:55:17 UTC] (d8e9c056) perf: lazy load below-fold sections
 [2026-07-24 08:39:16 UTC] (9a79a304) docs: update deployment notes
+[2026-07-24 08:39:16 UTC] (8bd3f880) perf: optimize image loading strategy
