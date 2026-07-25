@@ -1015,3 +1015,4 @@
 [2026-07-25 03:54:09 UTC] (8052af0d) style: apply consistent naming convention
 [2026-07-25 03:54:09 UTC] (d24b0fb1) docs: add project structure notes
 [2026-07-25 04:31:19 UTC] (4e6bb116) feat: improve hero section visuals
+[2026-07-25 04:31:19 UTC] (3a28dbfc) docs: update README with setup steps
