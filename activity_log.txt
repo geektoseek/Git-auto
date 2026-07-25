@@ -1033,3 +1033,4 @@
 [2026-07-25 08:58:54 UTC] (838b0e98) refactor: consolidate repeated styles
 [2026-07-25 09:16:34 UTC] (f5511ae8) perf: minify inline SVGs
 [2026-07-25 09:16:34 UTC] (2c7cee1b) docs: clarify installation instructions
+[2026-07-25 09:58:22 UTC] (da5c8d0e) feat: add responsive layout improvements
