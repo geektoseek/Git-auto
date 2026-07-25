@@ -1040,3 +1040,4 @@
 [2026-07-25 10:15:02 UTC] (6afac866) fix: correct z-index layering issue
 [2026-07-25 10:52:48 UTC] (8950c175) fix: patch overflow on small screens
 [2026-07-25 11:37:55 UTC] (9b5f8058) feat: add responsive layout improvements
+[2026-07-25 11:37:55 UTC] (1bec0236) feat: add footer link updates
