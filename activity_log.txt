@@ -1037,3 +1037,4 @@
 [2026-07-25 09:58:22 UTC] (38bc0fef) refactor: improve variable naming
 [2026-07-25 09:58:22 UTC] (6358afcc) style: adjust line breaks in components
 [2026-07-25 10:15:02 UTC] (23fa46b6) feat: add hover animation effects
+[2026-07-25 10:15:02 UTC] (6afac866) fix: correct z-index layering issue
