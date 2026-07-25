@@ -1014,3 +1014,4 @@
 [2026-07-25 03:31:08 UTC] (973e7c97) perf: preload critical fonts
 [2026-07-25 03:54:09 UTC] (8052af0d) style: apply consistent naming convention
 [2026-07-25 03:54:09 UTC] (d24b0fb1) docs: add project structure notes
+[2026-07-25 04:31:19 UTC] (4e6bb116) feat: improve hero section visuals
