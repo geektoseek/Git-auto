@@ -1023,3 +1023,4 @@
 [2026-07-25 05:59:02 UTC] (5b0489a0) perf: cache static asset headers
 [2026-07-25 06:25:51 UTC] (97e79ba8) style: format code with consistent spacing
 [2026-07-25 07:03:10 UTC] (db7dd391) perf: improve scroll event throttling
+[2026-07-25 07:03:10 UTC] (81df6cc4) fix: resolve CSS specificity conflict
