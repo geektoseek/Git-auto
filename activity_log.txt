@@ -1009,3 +1009,4 @@
 [2026-07-24 10:37:05 UTC] (2825753d) fix: resolve button hover state bug
 [2026-07-24 10:37:05 UTC] (0702107b) style: improve code readability
 [2026-07-24 10:37:05 UTC] (dd16f3a5) feat: add smooth scroll behavior
+[2026-07-25 00:05:43 UTC] (8484cb41) feat: add footer link updates
