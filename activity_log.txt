@@ -1018,3 +1018,4 @@
 [2026-07-25 04:31:19 UTC] (3a28dbfc) docs: update README with setup steps
 [2026-07-25 04:31:19 UTC] (73431e7a) style: format code with consistent spacing
 [2026-07-25 05:14:31 UTC] (9517ed64) docs: add inline code comments
+[2026-07-25 05:31:25 UTC] (ce585e72) fix: fix image aspect ratio on Safari
