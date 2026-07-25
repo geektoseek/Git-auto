@@ -1038,3 +1038,4 @@
 [2026-07-25 09:58:22 UTC] (6358afcc) style: adjust line breaks in components
 [2026-07-25 10:15:02 UTC] (23fa46b6) feat: add hover animation effects
 [2026-07-25 10:15:02 UTC] (6afac866) fix: correct z-index layering issue
+[2026-07-25 10:52:48 UTC] (8950c175) fix: patch overflow on small screens
