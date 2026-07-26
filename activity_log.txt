@@ -1045,3 +1045,4 @@
 [2026-07-26 00:01:17 UTC] (f2a5651a) perf: lazy load below-fold sections
 [2026-07-26 00:01:17 UTC] (05258586) chore: bump package version
 [2026-07-26 03:46:54 UTC] (d04780cb) feat: implement dynamic content loading
+[2026-07-26 03:46:54 UTC] (2a221c9d) perf: optimize image loading strategy
