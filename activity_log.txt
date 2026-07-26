@@ -1042,3 +1042,4 @@
 [2026-07-25 11:37:55 UTC] (9b5f8058) feat: add responsive layout improvements
 [2026-07-25 11:37:55 UTC] (1bec0236) feat: add footer link updates
 [2026-07-25 11:52:23 UTC] (54c544d8) docs: update tech stack references
+[2026-07-26 00:01:17 UTC] (f2a5651a) perf: lazy load below-fold sections
