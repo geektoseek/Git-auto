@@ -1058,3 +1058,4 @@
 [2026-07-26 06:16:28 UTC] (f0894b9c) refactor: move constants to config file
 [2026-07-26 06:16:28 UTC] (bd570145) perf: preload critical fonts
 [2026-07-26 06:44:42 UTC] (2022b69c) style: improve code readability
+[2026-07-26 06:44:42 UTC] (a6cdfe64) fix: patch overflow on small screens
