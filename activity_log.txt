@@ -1048,3 +1048,4 @@
 [2026-07-26 03:46:54 UTC] (2a221c9d) perf: optimize image loading strategy
 [2026-07-26 04:18:12 UTC] (c83bb051) chore: update CI pipeline notes
 [2026-07-26 04:18:12 UTC] (76592b26) refactor: extract reusable utility
+[2026-07-26 04:18:12 UTC] (d94a0c83) refactor: move constants to config file
