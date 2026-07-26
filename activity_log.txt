@@ -1051,3 +1051,4 @@
 [2026-07-26 04:18:12 UTC] (d94a0c83) refactor: move constants to config file
 [2026-07-26 04:45:42 UTC] (49e7d524) perf: minify inline SVGs
 [2026-07-26 04:45:42 UTC] (49a31298) docs: update tech stack references
+[2026-07-26 04:45:42 UTC] (aefc90b2) refactor: move constants to config file
