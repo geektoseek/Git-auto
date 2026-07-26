@@ -1055,3 +1055,4 @@
 [2026-07-26 05:31:17 UTC] (545b8002) chore: add editor config settings
 [2026-07-26 05:48:05 UTC] (71572374) chore: reorganize folder structure
 [2026-07-26 05:48:05 UTC] (5d3df406) feat: add new section styles
+[2026-07-26 06:16:28 UTC] (f0894b9c) refactor: move constants to config file
