@@ -1084,3 +1084,4 @@
 [2026-07-27 08:56:04 UTC] (5e6f728c) chore: clean up build artifacts
 [2026-07-27 08:56:04 UTC] (28b5e293) feat: enhance UI component structure
 [2026-07-27 10:06:39 UTC] (310ab8fd) perf: improve scroll event throttling
+[2026-07-27 10:06:39 UTC] (b0921a21) style: normalize quote style
