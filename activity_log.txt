@@ -1096,3 +1096,4 @@
 [2026-07-27 11:56:32 UTC] (9e52b3dc) fix: fix image aspect ratio on Safari
 [2026-07-27 12:42:30 UTC] (bd3499fb) docs: add inline code comments
 [2026-07-27 13:22:48 UTC] (125ad782) fix: correct z-index layering issue
+[2026-07-27 13:30:26 UTC] (194f9110) docs: add project structure notes
