@@ -1075,3 +1075,4 @@
 [2026-07-27 05:49:57 UTC] (4a591718) refactor: consolidate repeated styles
 [2026-07-27 05:49:57 UTC] (646c2036) chore: refresh environment config
 [2026-07-27 06:13:25 UTC] (20d03026) perf: preload critical fonts
+[2026-07-27 06:13:25 UTC] (b8d840c8) chore: add editor config settings
