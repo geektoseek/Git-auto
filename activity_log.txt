@@ -1089,3 +1089,4 @@
 [2026-07-27 10:53:05 UTC] (535c8b35) perf: improve scroll event throttling
 [2026-07-27 10:53:05 UTC] (e6960044) fix: fix font loading fallback
 [2026-07-27 11:35:38 UTC] (d8ff876d) refactor: split large component into smaller parts
+[2026-07-27 11:35:38 UTC] (a5e30434) feat: improve hero section visuals
