@@ -1094,3 +1094,4 @@
 [2026-07-27 11:56:32 UTC] (a4ae5fbd) refactor: optimize asset references
 [2026-07-27 11:56:32 UTC] (36989ada) docs: update tech stack references
 [2026-07-27 11:56:32 UTC] (9e52b3dc) fix: fix image aspect ratio on Safari
+[2026-07-27 12:42:30 UTC] (bd3499fb) docs: add inline code comments
