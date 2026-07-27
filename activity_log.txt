@@ -1078,3 +1078,4 @@
 [2026-07-27 06:13:25 UTC] (b8d840c8) chore: add editor config settings
 [2026-07-27 06:43:52 UTC] (dfb27feb) chore: update CI pipeline notes
 [2026-07-27 07:43:04 UTC] (d011fd6d) style: normalize quote style
+[2026-07-27 07:43:04 UTC] (37fec727) perf: compress background assets
