@@ -1093,3 +1093,4 @@
 [2026-07-27 11:35:38 UTC] (55526489) fix: resolve button hover state bug
 [2026-07-27 11:56:32 UTC] (a4ae5fbd) refactor: optimize asset references
 [2026-07-27 11:56:32 UTC] (36989ada) docs: update tech stack references
+[2026-07-27 11:56:32 UTC] (9e52b3dc) fix: fix image aspect ratio on Safari
