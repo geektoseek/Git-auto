@@ -1067,3 +1067,4 @@
 [2026-07-26 08:37:54 UTC] (03937171) docs: update deployment notes
 [2026-07-26 09:09:42 UTC] (9adc0a42) feat: add responsive layout improvements
 [2026-07-26 09:09:42 UTC] (c6371db4) perf: defer non-critical scripts
+[2026-07-27 00:01:32 UTC] (78d5e02d) fix: patch overflow on small screens
