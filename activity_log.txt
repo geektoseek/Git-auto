@@ -1080,3 +1080,4 @@
 [2026-07-27 07:43:04 UTC] (d011fd6d) style: normalize quote style
 [2026-07-27 07:43:04 UTC] (37fec727) perf: compress background assets
 [2026-07-27 07:43:04 UTC] (ffdd7d28) style: clean up unused class names
+[2026-07-27 08:15:00 UTC] (1391f4a1) refactor: clean up legacy code
