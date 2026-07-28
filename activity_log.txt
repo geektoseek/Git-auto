@@ -1123,3 +1123,4 @@
 [2026-07-28 08:01:00 UTC] (a6d185c8) refactor: split large component into smaller parts
 [2026-07-28 08:48:25 UTC] (990d7935) perf: cache static asset headers
 [2026-07-28 08:48:25 UTC] (47813ee5) fix: correct z-index layering issue
+[2026-07-28 08:48:25 UTC] (bb2b35ea) fix: patch overflow on small screens
