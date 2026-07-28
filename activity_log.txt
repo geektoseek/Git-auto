@@ -1115,3 +1115,4 @@
 [2026-07-28 06:04:33 UTC] (84d4a315) fix: resolve alignment issue on mobile
 [2026-07-28 06:04:33 UTC] (fcd980a6) perf: lazy load below-fold sections
 [2026-07-28 06:35:31 UTC] (21e19eb6) perf: minify inline SVGs
+[2026-07-28 06:35:31 UTC] (adf5bbc6) docs: add inline code comments
