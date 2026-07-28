@@ -1121,3 +1121,4 @@
 [2026-07-28 07:24:15 UTC] (438db68a) chore: clean up build artifacts
 [2026-07-28 07:24:15 UTC] (6c42dcfb) chore: refresh environment config
 [2026-07-28 08:01:00 UTC] (a6d185c8) refactor: split large component into smaller parts
+[2026-07-28 08:48:25 UTC] (990d7935) perf: cache static asset headers
