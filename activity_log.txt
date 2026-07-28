@@ -1107,3 +1107,4 @@
 [2026-07-28 04:30:40 UTC] (04594a62) chore: refresh environment config
 [2026-07-28 04:30:40 UTC] (55d8664a) fix: correct broken link in navigation
 [2026-07-28 05:14:11 UTC] (18e97af0) docs: improve changelog entries
+[2026-07-28 05:14:11 UTC] (be48dd38) fix: patch scroll position reset
