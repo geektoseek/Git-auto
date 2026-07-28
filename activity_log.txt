@@ -1125,3 +1125,4 @@
 [2026-07-28 08:48:25 UTC] (47813ee5) fix: correct z-index layering issue
 [2026-07-28 08:48:25 UTC] (bb2b35ea) fix: patch overflow on small screens
 [2026-07-28 09:34:03 UTC] (7ef4b22c) fix: patch scroll position reset
+[2026-07-28 09:34:03 UTC] (7ea18883) refactor: reduce component nesting
