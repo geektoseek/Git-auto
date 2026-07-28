@@ -1128,3 +1128,4 @@
 [2026-07-28 09:34:03 UTC] (7ea18883) refactor: reduce component nesting
 [2026-07-28 10:03:15 UTC] (f9c7ef0c) docs: update contact information
 [2026-07-28 10:03:15 UTC] (9bcbf4c5) perf: preload critical fonts
+[2026-07-28 10:43:28 UTC] (5102c15a) feat: add smooth scroll behavior
