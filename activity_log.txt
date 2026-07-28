@@ -1129,3 +1129,4 @@
 [2026-07-28 10:03:15 UTC] (f9c7ef0c) docs: update contact information
 [2026-07-28 10:03:15 UTC] (9bcbf4c5) perf: preload critical fonts
 [2026-07-28 10:43:28 UTC] (5102c15a) feat: add smooth scroll behavior
+[2026-07-28 10:43:28 UTC] (6213dea2) chore: update dependencies
