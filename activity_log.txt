@@ -1113,3 +1113,4 @@
 [2026-07-28 05:34:10 UTC] (8fe0986f) refactor: extract reusable utility
 [2026-07-28 06:04:33 UTC] (6cb81e96) feat: add footer link updates
 [2026-07-28 06:04:33 UTC] (84d4a315) fix: resolve alignment issue on mobile
+[2026-07-28 06:04:33 UTC] (fcd980a6) perf: lazy load below-fold sections
