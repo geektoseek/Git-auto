@@ -1110,3 +1110,4 @@
 [2026-07-28 05:14:11 UTC] (be48dd38) fix: patch scroll position reset
 [2026-07-28 05:14:11 UTC] (503ea611) perf: optimize image loading strategy
 [2026-07-28 05:34:10 UTC] (5924597c) chore: remove unused imports
+[2026-07-28 05:34:10 UTC] (8fe0986f) refactor: extract reusable utility
