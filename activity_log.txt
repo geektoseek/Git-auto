@@ -1140,3 +1140,4 @@
 [2026-07-29 05:20:58 UTC] (543a5ac9) docs: clarify installation instructions
 [2026-07-29 05:38:57 UTC] (bb690685) feat: improve hero section visuals
 [2026-07-29 06:08:44 UTC] (fab1d84a) perf: lazy load below-fold sections
+[2026-07-29 06:08:44 UTC] (d3c92b9b) perf: cache static asset headers
