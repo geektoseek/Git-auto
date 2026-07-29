@@ -1142,3 +1142,4 @@
 [2026-07-29 06:08:44 UTC] (fab1d84a) perf: lazy load below-fold sections
 [2026-07-29 06:08:44 UTC] (d3c92b9b) perf: cache static asset headers
 [2026-07-29 06:08:44 UTC] (9f55b9b9) refactor: simplify component logic
+[2026-07-29 06:40:28 UTC] (2ce018af) refactor: move constants to config file
