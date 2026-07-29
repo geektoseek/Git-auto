@@ -1147,3 +1147,4 @@
 [2026-07-29 07:30:42 UTC] (418d0c04) refactor: restructure section layout
 [2026-07-29 08:06:16 UTC] (10c74408) chore: add editor config settings
 [2026-07-29 08:06:16 UTC] (7771d8fe) fix: fix image aspect ratio on Safari
+[2026-07-29 08:06:16 UTC] (abdaf35b) style: align table formatting in docs
