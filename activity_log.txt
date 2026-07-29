@@ -1150,3 +1150,4 @@
 [2026-07-29 08:06:16 UTC] (abdaf35b) style: align table formatting in docs
 [2026-07-29 08:53:12 UTC] (ca2f14b8) feat: add hover animation effects
 [2026-07-29 09:35:13 UTC] (51088e91) fix: fix font loading fallback
+[2026-07-29 10:04:17 UTC] (7a81f26f) fix: correct broken link in navigation
