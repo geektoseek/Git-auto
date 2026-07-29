@@ -1148,3 +1148,4 @@
 [2026-07-29 08:06:16 UTC] (10c74408) chore: add editor config settings
 [2026-07-29 08:06:16 UTC] (7771d8fe) fix: fix image aspect ratio on Safari
 [2026-07-29 08:06:16 UTC] (abdaf35b) style: align table formatting in docs
+[2026-07-29 08:53:12 UTC] (ca2f14b8) feat: add hover animation effects
