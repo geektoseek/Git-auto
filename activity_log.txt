@@ -1136,3 +1136,4 @@
 [2026-07-29 03:55:22 UTC] (503dc120) docs: clarify installation instructions
 [2026-07-29 04:33:36 UTC] (7b24f472) docs: improve component documentation
 [2026-07-29 05:20:58 UTC] (70167e60) chore: sync lockfile
+[2026-07-29 05:20:58 UTC] (e8065891) fix: correct z-index layering issue
