@@ -1130,3 +1130,4 @@
 [2026-07-28 10:03:15 UTC] (9bcbf4c5) perf: preload critical fonts
 [2026-07-28 10:43:28 UTC] (5102c15a) feat: add smooth scroll behavior
 [2026-07-28 10:43:28 UTC] (6213dea2) chore: update dependencies
+[2026-07-29 03:28:22 UTC] (e47be1b5) refactor: consolidate repeated styles
