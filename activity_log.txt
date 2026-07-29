@@ -1133,3 +1133,4 @@
 [2026-07-29 03:28:22 UTC] (e47be1b5) refactor: consolidate repeated styles
 [2026-07-29 03:55:21 UTC] (1d0966c5) feat: implement dynamic content loading
 [2026-07-29 03:55:22 UTC] (90e7b522) perf: defer non-critical scripts
+[2026-07-29 03:55:22 UTC] (503dc120) docs: clarify installation instructions
