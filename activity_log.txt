@@ -1177,3 +1177,4 @@
 [2026-07-30 07:19:38 UTC] (5c39fbfc) feat: improve mobile navigation flow
 [2026-07-30 07:19:38 UTC] (621dfc7c) refactor: clean up legacy code
 [2026-07-30 07:19:38 UTC] (db688648) fix: fix image aspect ratio on Safari
+[2026-07-30 07:55:26 UTC] (4cf9e193) docs: update README with setup steps
