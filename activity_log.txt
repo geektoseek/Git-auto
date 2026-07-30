@@ -1166,3 +1166,4 @@
 [2026-07-30 04:23:26 UTC] (bab1b2a8) chore: clean up build artifacts
 [2026-07-30 04:57:34 UTC] (446dac48) chore: add editor config settings
 [2026-07-30 05:27:37 UTC] (3cdd2aff) feat: add responsive layout improvements
+[2026-07-30 05:27:37 UTC] (420e5075) fix: patch scroll position reset
