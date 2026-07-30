@@ -1175,3 +1175,4 @@
 [2026-07-30 06:36:36 UTC] (8a087924) chore: reorganize folder structure
 [2026-07-30 06:36:36 UTC] (60c6ad18) style: clean up trailing whitespace
 [2026-07-30 07:19:38 UTC] (5c39fbfc) feat: improve mobile navigation flow
+[2026-07-30 07:19:38 UTC] (621dfc7c) refactor: clean up legacy code
