@@ -1161,3 +1161,4 @@
 [2026-07-30 03:16:07 UTC] (b8dd423c) refactor: simplify component logic
 [2026-07-30 03:16:07 UTC] (959c07a8) style: format code with consistent spacing
 [2026-07-30 03:46:05 UTC] (405b860c) perf: reduce bundle size
+[2026-07-30 03:46:05 UTC] (8a9d1082) fix: fix image aspect ratio on Safari
