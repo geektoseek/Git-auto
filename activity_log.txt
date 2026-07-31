@@ -1209,3 +1209,4 @@
 [2026-07-31 10:03:51 UTC] (9ab39a3b) style: reorganize import order
 [2026-07-31 10:03:51 UTC] (034d5bc2) perf: lazy load below-fold sections
 [2026-07-31 10:49:14 UTC] (5abd1e0e) fix: fix transition timing mismatch
+[2026-07-31 10:49:14 UTC] (1fbfb311) fix: resolve alignment issue on mobile
