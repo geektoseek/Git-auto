@@ -1212,3 +1212,4 @@
 [2026-07-31 10:49:14 UTC] (1fbfb311) fix: resolve alignment issue on mobile
 [2026-07-31 10:49:14 UTC] (fb47a9ce) refactor: reduce component nesting
 [2026-07-31 11:10:54 UTC] (c808e938) feat: add footer link updates
+[2026-07-31 11:10:54 UTC] (b9102007) chore: bump package version
