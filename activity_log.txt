@@ -1198,3 +1198,4 @@
 [2026-07-31 06:24:52 UTC] (5825180d) fix: fix font loading fallback
 [2026-07-31 06:51:24 UTC] (750ac27b) refactor: optimize asset references
 [2026-07-31 06:51:25 UTC] (1a3f6186) perf: optimize image loading strategy
+[2026-07-31 07:34:51 UTC] (50e58597) perf: reduce bundle size
