@@ -1195,3 +1195,4 @@
 [2026-07-31 05:34:51 UTC] (04ddc158) fix: correct broken link in navigation
 [2026-07-31 05:52:38 UTC] (a4e8664c) perf: minify inline SVGs
 [2026-07-31 05:52:38 UTC] (8a048798) perf: lazy load below-fold sections
+[2026-07-31 06:24:52 UTC] (5825180d) fix: fix font loading fallback
