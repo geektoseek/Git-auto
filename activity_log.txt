@@ -1214,3 +1214,4 @@
 [2026-07-31 11:10:54 UTC] (c808e938) feat: add footer link updates
 [2026-07-31 11:10:54 UTC] (b9102007) chore: bump package version
 [2026-07-31 11:10:54 UTC] (958f7a1a) fix: resolve CSS specificity conflict
+[2026-07-31 11:38:42 UTC] (d23a1b89) chore: sync lockfile
