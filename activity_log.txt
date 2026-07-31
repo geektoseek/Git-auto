@@ -1204,3 +1204,4 @@
 [2026-07-31 08:17:24 UTC] (a8595fbe) feat: add new section styles
 [2026-07-31 09:14:10 UTC] (5eed6f47) style: adjust line breaks in components
 [2026-07-31 09:40:59 UTC] (7a434af4) style: clean up unused class names
+[2026-07-31 09:40:59 UTC] (225d2553) docs: update deployment notes
