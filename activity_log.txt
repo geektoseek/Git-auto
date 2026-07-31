@@ -1207,3 +1207,4 @@
 [2026-07-31 09:40:59 UTC] (225d2553) docs: update deployment notes
 [2026-07-31 10:03:51 UTC] (acfbf650) docs: improve component documentation
 [2026-07-31 10:03:51 UTC] (9ab39a3b) style: reorganize import order
+[2026-07-31 10:03:51 UTC] (034d5bc2) perf: lazy load below-fold sections
