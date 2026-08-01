@@ -1220,3 +1220,4 @@
 [2026-07-31 13:15:23 UTC] (17f5deec) style: reorganize import order
 [2026-08-01 00:02:48 UTC] (bccab7fe) refactor: move constants to config file
 [2026-08-01 00:02:48 UTC] (6f49a7b4) fix: correct z-index layering issue
+[2026-08-01 03:42:12 UTC] (5a47c151) docs: add inline code comments
