@@ -1226,3 +1226,4 @@
 [2026-08-01 04:40:01 UTC] (f6e1a4d6) fix: correct z-index layering issue
 [2026-08-01 05:26:19 UTC] (26aee379) chore: update .gitignore entries
 [2026-08-01 05:26:19 UTC] (a1e9f05e) chore: update dependencies
+[2026-08-01 05:26:19 UTC] (528dd4c0) refactor: simplify component logic
