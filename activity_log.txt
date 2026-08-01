@@ -1245,3 +1245,4 @@
 [2026-08-01 10:07:42 UTC] (1e58b101) feat: improve hero section visuals
 [2026-08-01 10:07:42 UTC] (9aa40dca) docs: add inline code comments
 [2026-08-01 10:19:47 UTC] (d86fc5be) perf: lazy load below-fold sections
+[2026-08-01 10:19:47 UTC] (f3f36b8c) refactor: reduce component nesting
