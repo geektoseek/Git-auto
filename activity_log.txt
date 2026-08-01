@@ -1238,3 +1238,4 @@
 [2026-08-01 06:37:38 UTC] (a7968091) chore: reorganize folder structure
 [2026-08-01 07:15:06 UTC] (0aeb7835) perf: defer non-critical scripts
 [2026-08-01 07:43:11 UTC] (57a091cb) perf: preload critical fonts
+[2026-08-01 08:32:18 UTC] (cc8c0d00) chore: add editor config settings
