@@ -1227,3 +1227,4 @@
 [2026-08-01 05:26:19 UTC] (26aee379) chore: update .gitignore entries
 [2026-08-01 05:26:19 UTC] (a1e9f05e) chore: update dependencies
 [2026-08-01 05:26:19 UTC] (528dd4c0) refactor: simplify component logic
+[2026-08-01 05:42:43 UTC] (553cea0e) docs: improve component documentation
