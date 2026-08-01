@@ -1246,3 +1246,4 @@
 [2026-08-01 10:07:42 UTC] (9aa40dca) docs: add inline code comments
 [2026-08-01 10:19:47 UTC] (d86fc5be) perf: lazy load below-fold sections
 [2026-08-01 10:19:47 UTC] (f3f36b8c) refactor: reduce component nesting
+[2026-08-01 10:19:47 UTC] (d5794c2a) fix: fix font loading fallback
