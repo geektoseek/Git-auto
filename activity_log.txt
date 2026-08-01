@@ -1244,3 +1244,4 @@
 [2026-08-01 09:30:25 UTC] (9391f5a2) perf: minify inline SVGs
 [2026-08-01 10:07:42 UTC] (1e58b101) feat: improve hero section visuals
 [2026-08-01 10:07:42 UTC] (9aa40dca) docs: add inline code comments
+[2026-08-01 10:19:47 UTC] (d86fc5be) perf: lazy load below-fold sections
