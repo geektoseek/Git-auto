@@ -1243,3 +1243,4 @@
 [2026-08-01 09:30:25 UTC] (0d7e4b73) docs: add project structure notes
 [2026-08-01 09:30:25 UTC] (9391f5a2) perf: minify inline SVGs
 [2026-08-01 10:07:42 UTC] (1e58b101) feat: improve hero section visuals
+[2026-08-01 10:07:42 UTC] (9aa40dca) docs: add inline code comments
