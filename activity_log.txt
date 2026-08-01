@@ -1237,3 +1237,4 @@
 [2026-08-01 06:37:38 UTC] (8d75ddbd) docs: update contact information
 [2026-08-01 06:37:38 UTC] (a7968091) chore: reorganize folder structure
 [2026-08-01 07:15:06 UTC] (0aeb7835) perf: defer non-critical scripts
+[2026-08-01 07:43:11 UTC] (57a091cb) perf: preload critical fonts
