@@ -1268,3 +1268,4 @@
 [2026-08-02 06:17:03 UTC] (87307b0b) feat: add responsive layout improvements
 [2026-08-02 06:17:03 UTC] (2c045b33) feat: enhance card component design
 [2026-08-02 06:41:14 UTC] (6111a642) perf: reduce animation repaints
+[2026-08-02 06:41:14 UTC] (2a3f8f95) fix: fix transition timing mismatch
