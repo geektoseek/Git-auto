@@ -1276,3 +1276,4 @@
 [2026-08-02 08:35:26 UTC] (641524f4) docs: improve changelog entries
 [2026-08-02 08:35:26 UTC] (1b6e4aff) chore: reorganize folder structure
 [2026-08-02 09:06:52 UTC] (e4b28bfc) docs: add usage examples
+[2026-08-02 09:06:52 UTC] (38f4f490) fix: correct broken link in navigation
