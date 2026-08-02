@@ -1259,3 +1259,4 @@
 [2026-08-02 04:16:23 UTC] (1e9b85ee) refactor: optimize asset references
 [2026-08-02 04:16:23 UTC] (7d997747) refactor: reduce component nesting
 [2026-08-02 04:43:19 UTC] (c89f3614) feat: add responsive layout improvements
+[2026-08-02 04:43:19 UTC] (4b2a0908) docs: add project structure notes
