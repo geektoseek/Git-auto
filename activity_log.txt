@@ -1273,3 +1273,4 @@
 [2026-08-02 07:18:13 UTC] (559735bd) perf: compress background assets
 [2026-08-02 07:18:13 UTC] (5c9db059) chore: update .gitignore entries
 [2026-08-02 07:50:27 UTC] (db5724f6) perf: improve scroll event throttling
+[2026-08-02 08:35:26 UTC] (641524f4) docs: improve changelog entries
