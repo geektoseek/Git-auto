@@ -1256,3 +1256,4 @@
 [2026-08-02 03:41:52 UTC] (26827b7d) feat: enhance UI component structure
 [2026-08-02 03:41:52 UTC] (bd936107) perf: optimize image loading strategy
 [2026-08-02 04:16:23 UTC] (0cccf435) fix: fix image aspect ratio on Safari
+[2026-08-02 04:16:23 UTC] (1e9b85ee) refactor: optimize asset references
