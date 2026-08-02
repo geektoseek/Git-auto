@@ -1257,3 +1257,4 @@
 [2026-08-02 03:41:52 UTC] (bd936107) perf: optimize image loading strategy
 [2026-08-02 04:16:23 UTC] (0cccf435) fix: fix image aspect ratio on Safari
 [2026-08-02 04:16:23 UTC] (1e9b85ee) refactor: optimize asset references
+[2026-08-02 04:16:23 UTC] (7d997747) refactor: reduce component nesting
