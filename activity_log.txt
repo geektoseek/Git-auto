@@ -1255,3 +1255,4 @@
 [2026-08-01 11:49:47 UTC] (187cc137) refactor: split large component into smaller parts
 [2026-08-02 03:41:52 UTC] (26827b7d) feat: enhance UI component structure
 [2026-08-02 03:41:52 UTC] (bd936107) perf: optimize image loading strategy
+[2026-08-02 04:16:23 UTC] (0cccf435) fix: fix image aspect ratio on Safari
