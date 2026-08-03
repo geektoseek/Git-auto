@@ -1278,3 +1278,4 @@
 [2026-08-02 09:06:52 UTC] (e4b28bfc) docs: add usage examples
 [2026-08-02 09:06:52 UTC] (38f4f490) fix: correct broken link in navigation
 [2026-08-02 09:06:52 UTC] (35a2145b) chore: add editor config settings
+[2026-08-03 03:45:24 UTC] (b462f847) feat: improve mobile navigation flow
