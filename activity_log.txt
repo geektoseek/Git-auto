@@ -1287,3 +1287,4 @@
 [2026-08-03 04:50:34 UTC] (6577407a) style: apply consistent naming convention
 [2026-08-03 04:50:34 UTC] (28f7a724) perf: improve scroll event throttling
 [2026-08-03 05:41:13 UTC] (616cece3) perf: minify inline SVGs
+[2026-08-03 05:41:13 UTC] (eb29a682) perf: preload critical fonts
