@@ -1306,3 +1306,4 @@
 [2026-08-03 10:39:29 UTC] (11d283e9) fix: resolve CSS specificity conflict
 [2026-08-03 10:53:31 UTC] (2af9d99c) docs: update deployment notes
 [2026-08-03 10:53:31 UTC] (77c174f7) perf: reduce animation repaints
+[2026-08-03 10:53:31 UTC] (3481c804) docs: clarify installation instructions
