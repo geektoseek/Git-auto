@@ -1304,3 +1304,4 @@
 [2026-08-03 10:39:29 UTC] (5e482f7c) perf: optimize image loading strategy
 [2026-08-03 10:39:29 UTC] (9eee4c54) chore: refresh environment config
 [2026-08-03 10:39:29 UTC] (11d283e9) fix: resolve CSS specificity conflict
+[2026-08-03 10:53:31 UTC] (2af9d99c) docs: update deployment notes
