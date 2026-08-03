@@ -1294,3 +1294,4 @@
 [2026-08-03 06:38:04 UTC] (98912840) feat: implement dynamic content loading
 [2026-08-03 07:37:55 UTC] (d25c6140) docs: update tech stack references
 [2026-08-03 07:37:55 UTC] (83f64cc6) style: format code with consistent spacing
+[2026-08-03 07:37:55 UTC] (f9bef639) fix: correct broken link in navigation
