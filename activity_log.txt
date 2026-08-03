@@ -1282,3 +1282,4 @@
 [2026-08-03 03:45:24 UTC] (c9042fde) style: improve code readability
 [2026-08-03 03:45:24 UTC] (58b5632f) fix: fix transition timing mismatch
 [2026-08-03 04:20:25 UTC] (04654239) refactor: improve variable naming
+[2026-08-03 04:20:25 UTC] (11db34bf) docs: clarify installation instructions
