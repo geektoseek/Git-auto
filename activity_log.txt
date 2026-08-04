@@ -1323,3 +1323,4 @@
 [2026-08-04 07:23:23 UTC] (06823e56) feat: implement dynamic content loading
 [2026-08-04 08:02:41 UTC] (833267a2) style: align table formatting in docs
 [2026-08-04 08:02:41 UTC] (6f48216a) fix: patch scroll position reset
+[2026-08-04 08:02:41 UTC] (237a0a74) refactor: reduce component nesting
