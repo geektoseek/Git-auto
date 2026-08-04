@@ -1334,3 +1334,4 @@
 [2026-08-04 11:08:06 UTC] (743ce27a) style: clean up unused class names
 [2026-08-04 11:08:06 UTC] (af0480d2) refactor: optimize asset references
 [2026-08-04 11:08:06 UTC] (f3dfcbb4) fix: fix image aspect ratio on Safari
+[2026-08-04 11:39:56 UTC] (f029cbc4) perf: compress background assets
