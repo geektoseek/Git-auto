@@ -1321,3 +1321,4 @@
 [2026-08-04 06:36:13 UTC] (cfdc8b00) chore: bump package version
 [2026-08-04 06:36:13 UTC] (e50a7da2) docs: improve component documentation
 [2026-08-04 07:23:23 UTC] (06823e56) feat: implement dynamic content loading
+[2026-08-04 08:02:41 UTC] (833267a2) style: align table formatting in docs
