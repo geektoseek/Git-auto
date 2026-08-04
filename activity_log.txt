@@ -1325,3 +1325,4 @@
 [2026-08-04 08:02:41 UTC] (6f48216a) fix: patch scroll position reset
 [2026-08-04 08:02:41 UTC] (237a0a74) refactor: reduce component nesting
 [2026-08-04 08:51:32 UTC] (6f8dfad2) perf: reduce animation repaints
+[2026-08-04 09:37:00 UTC] (c6b4be9c) chore: reorganize folder structure
