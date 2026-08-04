@@ -1333,3 +1333,4 @@
 [2026-08-04 10:47:30 UTC] (9714a023) style: improve code readability
 [2026-08-04 11:08:06 UTC] (743ce27a) style: clean up unused class names
 [2026-08-04 11:08:06 UTC] (af0480d2) refactor: optimize asset references
+[2026-08-04 11:08:06 UTC] (f3dfcbb4) fix: fix image aspect ratio on Safari
