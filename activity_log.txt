@@ -1331,3 +1331,4 @@
 [2026-08-04 10:06:26 UTC] (6ec873c8) style: clean up trailing whitespace
 [2026-08-04 10:06:26 UTC] (8d4c681b) docs: improve component documentation
 [2026-08-04 10:47:30 UTC] (9714a023) style: improve code readability
+[2026-08-04 11:08:06 UTC] (743ce27a) style: clean up unused class names
