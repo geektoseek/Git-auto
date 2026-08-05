@@ -1338,3 +1338,4 @@
 [2026-08-04 11:39:56 UTC] (43c1b78b) refactor: clean up legacy code
 [2026-08-04 11:39:56 UTC] (6c9ba171) style: adjust line breaks in components
 [2026-08-05 00:04:21 UTC] (ed6b24b9) chore: refresh environment config
+[2026-08-05 00:04:21 UTC] (85376204) refactor: consolidate repeated styles
