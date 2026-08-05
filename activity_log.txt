@@ -1362,3 +1362,4 @@
 [2026-08-05 10:03:49 UTC] (0ac2f4ee) style: clean up unused class names
 [2026-08-05 10:03:49 UTC] (ba26b17b) refactor: improve variable naming
 [2026-08-05 10:44:33 UTC] (0b846ca0) chore: bump package version
+[2026-08-05 10:44:33 UTC] (a387f65c) chore: add editor config settings
