@@ -1364,3 +1364,4 @@
 [2026-08-05 10:44:33 UTC] (0b846ca0) chore: bump package version
 [2026-08-05 10:44:33 UTC] (a387f65c) chore: add editor config settings
 [2026-08-05 10:44:33 UTC] (483ee19d) docs: update tech stack references
+[2026-08-05 11:04:20 UTC] (7cc9ca98) fix: fix image aspect ratio on Safari
