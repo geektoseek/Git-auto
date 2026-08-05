@@ -1343,3 +1343,4 @@
 [2026-08-05 03:49:18 UTC] (d53b9a43) docs: update tech stack references
 [2026-08-05 03:49:18 UTC] (a71891d2) docs: add usage examples
 [2026-08-05 04:31:28 UTC] (77c1b301) docs: update deployment notes
+[2026-08-05 04:31:28 UTC] (fa509d64) perf: defer non-critical scripts
