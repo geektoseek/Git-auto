@@ -1341,3 +1341,4 @@
 [2026-08-05 00:04:21 UTC] (85376204) refactor: consolidate repeated styles
 [2026-08-05 03:24:10 UTC] (b0b08ca7) fix: fix image aspect ratio on Safari
 [2026-08-05 03:49:18 UTC] (d53b9a43) docs: update tech stack references
+[2026-08-05 03:49:18 UTC] (a71891d2) docs: add usage examples
