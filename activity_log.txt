@@ -1360,3 +1360,4 @@
 [2026-08-05 09:34:26 UTC] (af888e3f) fix: resolve CSS specificity conflict
 [2026-08-05 09:34:26 UTC] (e7f22650) docs: add usage examples
 [2026-08-05 10:03:49 UTC] (0ac2f4ee) style: clean up unused class names
+[2026-08-05 10:03:49 UTC] (ba26b17b) refactor: improve variable naming
