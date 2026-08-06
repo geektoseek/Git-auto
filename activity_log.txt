@@ -1375,3 +1375,4 @@
 [2026-08-06 03:54:11 UTC] (2f0b5232) style: format code with consistent spacing
 [2026-08-06 04:32:35 UTC] (e9c3f0ad) feat: improve mobile navigation flow
 [2026-08-06 04:32:35 UTC] (effe3729) docs: add inline code comments
+[2026-08-06 04:32:35 UTC] (d731f23b) fix: correct broken link in navigation
