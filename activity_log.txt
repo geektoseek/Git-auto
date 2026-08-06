@@ -1371,3 +1371,4 @@
 [2026-08-06 00:01:02 UTC] (2a905f5e) style: normalize quote style
 [2026-08-06 00:01:02 UTC] (a3d6d5e1) docs: add usage examples
 [2026-08-06 03:27:29 UTC] (f37b5a27) style: improve code readability
+[2026-08-06 03:54:11 UTC] (fb203a99) perf: minify inline SVGs
