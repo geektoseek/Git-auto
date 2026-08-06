@@ -1384,3 +1384,4 @@
 [2026-08-06 06:05:57 UTC] (1feb520a) chore: remove unused imports
 [2026-08-06 06:05:57 UTC] (e73d103f) perf: defer non-critical scripts
 [2026-08-06 06:05:57 UTC] (ff6a0960) style: improve code readability
+[2026-08-06 06:40:18 UTC] (d1dfb7bb) perf: compress background assets
