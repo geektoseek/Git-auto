@@ -1390,3 +1390,4 @@
 [2026-08-06 07:24:54 UTC] (1f165748) chore: sync lockfile
 [2026-08-06 07:24:54 UTC] (89eca8ea) refactor: reduce component nesting
 [2026-08-06 07:24:54 UTC] (e97db59d) refactor: optimize asset references
+[2026-08-06 08:01:47 UTC] (76ebadd7) fix: correct broken link in navigation
