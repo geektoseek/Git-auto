@@ -1369,3 +1369,4 @@
 [2026-08-05 12:19:42 UTC] (622bcd94) refactor: consolidate repeated styles
 [2026-08-06 00:01:02 UTC] (d8c8b7ef) docs: add inline code comments
 [2026-08-06 00:01:02 UTC] (2a905f5e) style: normalize quote style
+[2026-08-06 00:01:02 UTC] (a3d6d5e1) docs: add usage examples
