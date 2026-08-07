@@ -1425,3 +1425,4 @@
 [2026-08-07 04:43:57 UTC] (0d7c228d) fix: fix transition timing mismatch
 [2026-08-07 04:43:57 UTC] (98daabc3) feat: add footer link updates
 [2026-08-07 05:04:01 UTC] (d67b39ff) refactor: split large component into smaller parts
+[2026-08-07 05:04:01 UTC] (44da80e3) chore: reorganize folder structure
