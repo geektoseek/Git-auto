@@ -1408,3 +1408,4 @@
 [2026-08-07 00:45:09 UTC] (89bf2081) perf: compress background assets
 [2026-08-07 00:54:40 UTC] (7717456e) style: reformat CSS variables section
 [2026-08-07 00:54:40 UTC] (ede8c884) docs: update contact information
+[2026-08-07 00:58:45 UTC] (7b0dae49) perf: defer non-critical scripts
