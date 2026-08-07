@@ -1428,3 +1428,4 @@
 [2026-08-07 05:04:01 UTC] (44da80e3) chore: reorganize folder structure
 [2026-08-07 05:46:59 UTC] (58c3bd36) chore: reorganize folder structure
 [2026-08-07 05:46:59 UTC] (4ca8c5cd) style: normalize quote style
+[2026-08-07 05:46:59 UTC] (66189207) feat: add footer link updates
