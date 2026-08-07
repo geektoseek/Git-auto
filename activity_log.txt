@@ -1405,3 +1405,4 @@
 [2026-08-07 00:29:13 UTC] (a21332ab) docs: clarify installation instructions
 [2026-08-07 00:29:13 UTC] (02380278) docs: improve component documentation
 [2026-08-07 00:45:09 UTC] (ace9f752) perf: preload critical fonts
+[2026-08-07 00:45:09 UTC] (89bf2081) perf: compress background assets
