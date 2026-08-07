@@ -1421,3 +1421,4 @@
 [2026-08-07 03:39:08 UTC] (455043de) style: apply consistent naming convention
 [2026-08-07 03:39:08 UTC] (7f9cb9a8) perf: reduce bundle size
 [2026-08-07 04:04:10 UTC] (1d839f67) docs: improve changelog entries
+[2026-08-07 04:24:40 UTC] (3ab59840) fix: fix transition timing mismatch
