@@ -1417,3 +1417,4 @@
 [2026-08-07 01:41:46 UTC] (52e67783) refactor: extract reusable utility
 [2026-08-07 03:11:39 UTC] (d54f866c) docs: clarify installation instructions
 [2026-08-07 03:11:39 UTC] (7b9de049) style: clean up trailing whitespace
+[2026-08-07 03:11:39 UTC] (ae34e750) perf: lazy load below-fold sections
