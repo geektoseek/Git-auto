@@ -1420,3 +1420,4 @@
 [2026-08-07 03:11:39 UTC] (ae34e750) perf: lazy load below-fold sections
 [2026-08-07 03:39:08 UTC] (455043de) style: apply consistent naming convention
 [2026-08-07 03:39:08 UTC] (7f9cb9a8) perf: reduce bundle size
+[2026-08-07 04:04:10 UTC] (1d839f67) docs: improve changelog entries
