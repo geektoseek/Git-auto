@@ -1415,3 +1415,4 @@
 [2026-08-07 01:33:45 UTC] (9267aafc) docs: add inline code comments
 [2026-08-07 01:33:45 UTC] (0f2e243e) feat: add responsive layout improvements
 [2026-08-07 01:41:46 UTC] (52e67783) refactor: extract reusable utility
+[2026-08-07 03:11:39 UTC] (d54f866c) docs: clarify installation instructions
