@@ -1423,3 +1423,4 @@
 [2026-08-07 04:04:10 UTC] (1d839f67) docs: improve changelog entries
 [2026-08-07 04:24:40 UTC] (3ab59840) fix: fix transition timing mismatch
 [2026-08-07 04:43:57 UTC] (0d7c228d) fix: fix transition timing mismatch
+[2026-08-07 04:43:57 UTC] (98daabc3) feat: add footer link updates
