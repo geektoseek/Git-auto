@@ -1403,3 +1403,4 @@
 [2026-08-06 11:05:38 UTC] (8c488db1) refactor: improve variable naming
 [2026-08-06 11:05:38 UTC] (51a562e8) perf: minify inline SVGs
 [2026-08-07 00:29:13 UTC] (a21332ab) docs: clarify installation instructions
+[2026-08-07 00:29:13 UTC] (02380278) docs: improve component documentation
