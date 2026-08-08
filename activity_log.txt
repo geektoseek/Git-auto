@@ -1447,3 +1447,4 @@
 [2026-08-08 05:06:23 UTC] (04f4f7f1) refactor: move constants to config file
 [2026-08-08 05:25:25 UTC] (a8b650c4) fix: resolve alignment issue on mobile
 [2026-08-08 05:25:25 UTC] (a51b9fe4) refactor: move constants to config file
+[2026-08-08 06:08:19 UTC] (08d18cc5) docs: update deployment notes
