@@ -1452,3 +1452,4 @@
 [2026-08-08 07:10:26 UTC] (ddbdf3ee) feat: implement dynamic content loading
 [2026-08-08 07:10:26 UTC] (63a6fdbc) perf: minify inline SVGs
 [2026-08-08 07:10:26 UTC] (84200992) fix: correct z-index layering issue
+[2026-08-08 07:45:56 UTC] (d3981653) feat: add smooth scroll behavior
