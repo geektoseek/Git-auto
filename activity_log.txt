@@ -1450,3 +1450,4 @@
 [2026-08-08 06:08:19 UTC] (08d18cc5) docs: update deployment notes
 [2026-08-08 06:08:19 UTC] (b6bed39a) fix: correct broken link in navigation
 [2026-08-08 07:10:26 UTC] (ddbdf3ee) feat: implement dynamic content loading
+[2026-08-08 07:10:26 UTC] (63a6fdbc) perf: minify inline SVGs
