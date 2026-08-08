@@ -1444,3 +1444,4 @@
 [2026-08-08 04:29:40 UTC] (57dac177) style: reorganize import order
 [2026-08-08 05:06:23 UTC] (1b0bd1a4) perf: optimize image loading strategy
 [2026-08-08 05:06:23 UTC] (3347db06) chore: add editor config settings
+[2026-08-08 05:06:23 UTC] (04f4f7f1) refactor: move constants to config file
