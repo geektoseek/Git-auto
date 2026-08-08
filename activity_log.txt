@@ -1436,3 +1436,4 @@
 [2026-08-08 03:01:03 UTC] (5fe7b212) perf: cache static asset headers
 [2026-08-08 03:01:03 UTC] (a2532ba5) perf: improve scroll event throttling
 [2026-08-08 03:01:03 UTC] (74d0971a) feat: enhance card component design
+[2026-08-08 03:23:57 UTC] (765dd830) chore: add editor config settings
