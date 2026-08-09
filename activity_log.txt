@@ -1469,3 +1469,4 @@
 [2026-08-09 03:40:53 UTC] (ec90484d) style: apply consistent naming convention
 [2026-08-09 03:40:53 UTC] (166683a5) refactor: reduce component nesting
 [2026-08-09 03:40:53 UTC] (86e2a962) style: adjust line breaks in components
+[2026-08-09 04:04:21 UTC] (2654e60d) docs: add project structure notes
