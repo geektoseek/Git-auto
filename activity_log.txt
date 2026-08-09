@@ -1471,3 +1471,4 @@
 [2026-08-09 03:40:53 UTC] (86e2a962) style: adjust line breaks in components
 [2026-08-09 04:04:21 UTC] (2654e60d) docs: add project structure notes
 [2026-08-09 04:38:20 UTC] (7a93313e) fix: resolve CSS specificity conflict
+[2026-08-09 05:13:07 UTC] (101f6e42) docs: update deployment notes
