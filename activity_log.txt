@@ -1486,3 +1486,4 @@
 [2026-08-09 09:21:30 UTC] (db1fb2b2) feat: improve hero section visuals
 [2026-08-09 09:21:30 UTC] (de398813) perf: optimize image loading strategy
 [2026-08-09 09:21:30 UTC] (19e25a61) perf: defer non-critical scripts
+[2026-08-09 10:05:09 UTC] (b149e7df) perf: reduce animation repaints
