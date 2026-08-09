@@ -1482,3 +1482,4 @@
 [2026-08-09 08:06:04 UTC] (ce12f655) docs: clarify installation instructions
 [2026-08-09 08:06:04 UTC] (7c4e5015) feat: add hover animation effects
 [2026-08-09 08:56:56 UTC] (65bfdc96) fix: fix image aspect ratio on Safari
+[2026-08-09 08:56:56 UTC] (5425d3ae) docs: improve changelog entries
