@@ -1485,3 +1485,4 @@
 [2026-08-09 08:56:56 UTC] (5425d3ae) docs: improve changelog entries
 [2026-08-09 09:21:30 UTC] (db1fb2b2) feat: improve hero section visuals
 [2026-08-09 09:21:30 UTC] (de398813) perf: optimize image loading strategy
+[2026-08-09 09:21:30 UTC] (19e25a61) perf: defer non-critical scripts
