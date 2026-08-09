@@ -1477,3 +1477,4 @@
 [2026-08-09 05:34:47 UTC] (adff0c87) chore: clean up build artifacts
 [2026-08-09 06:10:11 UTC] (66772914) refactor: extract reusable utility
 [2026-08-09 07:12:09 UTC] (108998f0) docs: add project structure notes
+[2026-08-09 07:51:20 UTC] (2c3ccd62) fix: correct broken link in navigation
