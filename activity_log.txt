@@ -1460,3 +1460,4 @@
 [2026-08-08 09:20:24 UTC] (47235582) fix: patch scroll position reset
 [2026-08-08 10:03:11 UTC] (78735f8c) fix: correct z-index layering issue
 [2026-08-08 10:54:05 UTC] (ebd1150b) perf: defer non-critical scripts
+[2026-08-09 02:21:40 UTC] (d98ade53) fix: patch overflow on small screens
