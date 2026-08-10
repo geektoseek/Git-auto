@@ -1508,3 +1508,4 @@
 [2026-08-10 08:00:34 UTC] (8f4c7ac2) fix: fix image aspect ratio on Safari
 [2026-08-10 08:00:34 UTC] (e61874c5) feat: enhance UI component structure
 [2026-08-10 08:24:45 UTC] (5a6c478d) chore: add editor config settings
+[2026-08-10 08:24:45 UTC] (bcc5f2b4) chore: clean up build artifacts
