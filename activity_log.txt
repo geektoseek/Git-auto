@@ -1510,3 +1510,4 @@
 [2026-08-10 08:24:45 UTC] (5a6c478d) chore: add editor config settings
 [2026-08-10 08:24:45 UTC] (bcc5f2b4) chore: clean up build artifacts
 [2026-08-10 08:55:13 UTC] (9fe9e625) style: align table formatting in docs
+[2026-08-10 09:43:56 UTC] (ac8e1d8b) perf: compress background assets
