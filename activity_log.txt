@@ -1506,3 +1506,4 @@
 [2026-08-10 06:52:42 UTC] (6cad112c) refactor: reduce component nesting
 [2026-08-10 08:00:34 UTC] (77b056a4) chore: remove unused imports
 [2026-08-10 08:00:34 UTC] (8f4c7ac2) fix: fix image aspect ratio on Safari
+[2026-08-10 08:00:34 UTC] (e61874c5) feat: enhance UI component structure
