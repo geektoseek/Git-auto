@@ -1493,3 +1493,4 @@
 [2026-08-10 02:26:47 UTC] (c1119cb2) perf: improve scroll event throttling
 [2026-08-10 02:59:37 UTC] (84c98250) fix: fix transition timing mismatch
 [2026-08-10 03:19:10 UTC] (b31fdfb7) style: reorganize import order
+[2026-08-10 03:19:10 UTC] (c4bb701e) style: align table formatting in docs
