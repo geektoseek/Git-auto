@@ -1501,3 +1501,4 @@
 [2026-08-10 05:40:04 UTC] (102bd10e) fix: correct z-index layering issue
 [2026-08-10 05:40:04 UTC] (f5831e38) style: clean up unused class names
 [2026-08-10 06:01:42 UTC] (5e20af2d) fix: correct z-index layering issue
+[2026-08-10 06:01:42 UTC] (b0278c51) feat: add smooth scroll behavior
