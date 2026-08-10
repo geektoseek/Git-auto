@@ -1517,3 +1517,4 @@
 [2026-08-10 11:28:09 UTC] (87eefdc5) fix: fix font loading fallback
 [2026-08-10 11:28:09 UTC] (51f60147) style: clean up unused class names
 [2026-08-10 11:28:09 UTC] (100eba99) feat: enhance UI component structure
+[2026-08-10 11:35:25 UTC] (98ba3bb1) refactor: simplify component logic
