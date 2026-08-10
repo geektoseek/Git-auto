@@ -1515,3 +1515,4 @@
 [2026-08-10 10:00:48 UTC] (bcca194d) refactor: improve variable naming
 [2026-08-10 10:43:34 UTC] (33c1449f) docs: update tech stack references
 [2026-08-10 11:28:09 UTC] (87eefdc5) fix: fix font loading fallback
+[2026-08-10 11:28:09 UTC] (51f60147) style: clean up unused class names
