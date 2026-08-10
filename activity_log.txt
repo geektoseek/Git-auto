@@ -1496,3 +1496,4 @@
 [2026-08-10 03:19:10 UTC] (c4bb701e) style: align table formatting in docs
 [2026-08-10 03:53:08 UTC] (8b8bb2ac) fix: patch overflow on small screens
 [2026-08-10 04:18:31 UTC] (1f9ce651) chore: update .gitignore entries
+[2026-08-10 04:56:34 UTC] (cd500df2) style: normalize quote style
