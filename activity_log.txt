@@ -1494,3 +1494,4 @@
 [2026-08-10 02:59:37 UTC] (84c98250) fix: fix transition timing mismatch
 [2026-08-10 03:19:10 UTC] (b31fdfb7) style: reorganize import order
 [2026-08-10 03:19:10 UTC] (c4bb701e) style: align table formatting in docs
+[2026-08-10 03:53:08 UTC] (8b8bb2ac) fix: patch overflow on small screens
