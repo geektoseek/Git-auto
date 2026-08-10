@@ -1499,3 +1499,4 @@
 [2026-08-10 04:56:34 UTC] (cd500df2) style: normalize quote style
 [2026-08-10 04:56:34 UTC] (70e18708) perf: optimize image loading strategy
 [2026-08-10 05:40:04 UTC] (102bd10e) fix: correct z-index layering issue
+[2026-08-10 05:40:04 UTC] (f5831e38) style: clean up unused class names
