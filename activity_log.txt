@@ -1537,3 +1537,4 @@
 [2026-08-11 05:17:07 UTC] (c495fe11) perf: minify inline SVGs
 [2026-08-11 05:41:19 UTC] (5ae21b5e) chore: bump package version
 [2026-08-11 06:29:09 UTC] (0500819f) perf: reduce bundle size
+[2026-08-11 06:29:09 UTC] (cf720f7c) perf: optimize image loading strategy
