@@ -1540,3 +1540,4 @@
 [2026-08-11 06:29:09 UTC] (cf720f7c) perf: optimize image loading strategy
 [2026-08-11 06:29:09 UTC] (e919af34) feat: add smooth scroll behavior
 [2026-08-11 07:32:38 UTC] (001fb816) style: adjust line breaks in components
+[2026-08-11 07:32:38 UTC] (292ae3ed) fix: fix transition timing mismatch
