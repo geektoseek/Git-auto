@@ -1524,3 +1524,4 @@
 [2026-08-11 02:53:03 UTC] (132194f7) perf: optimize image loading strategy
 [2026-08-11 02:53:03 UTC] (0ec667c7) feat: add footer link updates
 [2026-08-11 02:53:03 UTC] (7a182446) refactor: move constants to config file
+[2026-08-11 03:12:00 UTC] (3eb0a942) fix: correct broken link in navigation
