@@ -1544,3 +1544,4 @@
 [2026-08-11 07:32:38 UTC] (65c52f38) perf: defer non-critical scripts
 [2026-08-11 08:07:58 UTC] (5973f299) perf: reduce animation repaints
 [2026-08-11 08:07:58 UTC] (b8276b3d) feat: improve hero section visuals
+[2026-08-11 08:29:05 UTC] (ca42c848) style: clean up trailing whitespace
