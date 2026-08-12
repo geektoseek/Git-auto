@@ -1560,3 +1560,4 @@
 [2026-08-12 04:28:12 UTC] (a96780f7) style: reformat CSS variables section
 [2026-08-12 04:28:12 UTC] (678a0585) feat: add new section styles
 [2026-08-12 05:04:36 UTC] (433ddd78) perf: defer non-critical scripts
+[2026-08-12 05:04:36 UTC] (b2f63e02) perf: improve scroll event throttling
