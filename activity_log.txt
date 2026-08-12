@@ -1571,3 +1571,4 @@
 [2026-08-12 06:54:38 UTC] (0e4aed90) style: improve code readability
 [2026-08-12 07:47:33 UTC] (730e7e5e) refactor: optimize asset references
 [2026-08-12 07:47:33 UTC] (7eb2c1e9) style: clean up trailing whitespace
+[2026-08-12 08:14:06 UTC] (018d814c) feat: improve hero section visuals
