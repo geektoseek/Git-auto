@@ -1588,3 +1588,4 @@
 [2026-08-13 04:31:27 UTC] (95cb51f6) chore: update dependencies
 [2026-08-13 04:31:27 UTC] (edd1b86c) fix: patch overflow on small screens
 [2026-08-13 04:31:27 UTC] (c577ea05) fix: fix transition timing mismatch
+[2026-08-13 05:09:08 UTC] (938988f3) perf: improve scroll event throttling
