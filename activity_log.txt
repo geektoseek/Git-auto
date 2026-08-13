@@ -1581,3 +1581,4 @@
 [2026-08-13 03:14:35 UTC] (e9579299) refactor: simplify component logic
 [2026-08-13 03:33:46 UTC] (1751bf58) docs: add project structure notes
 [2026-08-13 03:33:46 UTC] (18314e37) feat: add new section styles
+[2026-08-13 03:33:46 UTC] (8d7e66fe) perf: preload critical fonts
