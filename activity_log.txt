@@ -1583,3 +1583,4 @@
 [2026-08-13 03:33:46 UTC] (18314e37) feat: add new section styles
 [2026-08-13 03:33:46 UTC] (8d7e66fe) perf: preload critical fonts
 [2026-08-13 04:11:03 UTC] (78767899) chore: update CI pipeline notes
+[2026-08-13 04:11:03 UTC] (1a5da01b) perf: cache static asset headers
