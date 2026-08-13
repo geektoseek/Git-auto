@@ -1579,3 +1579,4 @@
 [2026-08-13 02:36:46 UTC] (e08031d7) fix: fix font loading fallback
 [2026-08-13 02:36:46 UTC] (bb690d4c) perf: improve scroll event throttling
 [2026-08-13 03:14:35 UTC] (e9579299) refactor: simplify component logic
+[2026-08-13 03:33:46 UTC] (1751bf58) docs: add project structure notes
