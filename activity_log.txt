@@ -1601,3 +1601,4 @@
 [2026-08-13 07:48:34 UTC] (9fb7369e) fix: patch scroll position reset
 [2026-08-13 07:48:34 UTC] (4ae8fad5) refactor: optimize asset references
 [2026-08-13 07:48:34 UTC] (1a22d23a) fix: fix image aspect ratio on Safari
+[2026-08-13 08:17:15 UTC] (b2baeb04) fix: correct z-index layering issue
