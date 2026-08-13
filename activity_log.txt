@@ -1600,3 +1600,4 @@
 [2026-08-13 06:58:37 UTC] (b52cb042) feat: add new section styles
 [2026-08-13 07:48:34 UTC] (9fb7369e) fix: patch scroll position reset
 [2026-08-13 07:48:34 UTC] (4ae8fad5) refactor: optimize asset references
+[2026-08-13 07:48:34 UTC] (1a22d23a) fix: fix image aspect ratio on Safari
