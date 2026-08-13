@@ -1598,3 +1598,4 @@
 [2026-08-13 06:58:37 UTC] (598cb34e) perf: preload critical fonts
 [2026-08-13 06:58:37 UTC] (045ffb1c) refactor: extract reusable utility
 [2026-08-13 06:58:37 UTC] (b52cb042) feat: add new section styles
+[2026-08-13 07:48:34 UTC] (9fb7369e) fix: patch scroll position reset
