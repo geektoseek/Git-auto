@@ -1576,3 +1576,4 @@
 [2026-08-12 08:44:27 UTC] (df102a3a) chore: update .gitignore entries
 [2026-08-12 08:44:27 UTC] (5ec8203c) feat: add footer link updates
 [2026-08-12 08:44:27 UTC] (9cab2390) refactor: restructure section layout
+[2026-08-13 02:36:46 UTC] (e08031d7) fix: fix font loading fallback
