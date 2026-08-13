@@ -1595,3 +1595,4 @@
 [2026-08-13 06:05:20 UTC] (24a5f04f) perf: reduce bundle size
 [2026-08-13 06:05:20 UTC] (5b970fb9) perf: compress background assets
 [2026-08-13 06:05:20 UTC] (07923ed5) chore: reorganize folder structure
+[2026-08-13 06:58:37 UTC] (598cb34e) perf: preload critical fonts
