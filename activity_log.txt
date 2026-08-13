@@ -1578,3 +1578,4 @@
 [2026-08-12 08:44:27 UTC] (9cab2390) refactor: restructure section layout
 [2026-08-13 02:36:46 UTC] (e08031d7) fix: fix font loading fallback
 [2026-08-13 02:36:46 UTC] (bb690d4c) perf: improve scroll event throttling
+[2026-08-13 03:14:35 UTC] (e9579299) refactor: simplify component logic
