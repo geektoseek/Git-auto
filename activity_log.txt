@@ -1628,3 +1628,4 @@
 [2026-08-14 08:12:01 UTC] (414f5252) style: improve code readability
 [2026-08-14 08:12:01 UTC] (3a776e64) style: reformat CSS variables section
 [2026-08-14 08:12:01 UTC] (3c69d6fe) fix: fix font loading fallback
+[2026-08-14 08:41:42 UTC] (5299acc0) chore: bump package version
