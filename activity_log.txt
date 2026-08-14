@@ -1631,3 +1631,4 @@
 [2026-08-14 08:41:42 UTC] (5299acc0) chore: bump package version
 [2026-08-14 08:41:42 UTC] (dfcfcb8c) chore: update .gitignore entries
 [2026-08-14 09:16:23 UTC] (5568b540) fix: resolve button hover state bug
+[2026-08-14 09:41:49 UTC] (1beb9cfd) perf: minify inline SVGs
