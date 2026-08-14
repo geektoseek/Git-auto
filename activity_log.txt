@@ -1614,3 +1614,4 @@
 [2026-08-14 04:07:27 UTC] (35b594bd) perf: improve scroll event throttling
 [2026-08-14 04:07:27 UTC] (eaaa037e) fix: fix image aspect ratio on Safari
 [2026-08-14 04:29:54 UTC] (def5312f) refactor: restructure section layout
+[2026-08-14 04:29:54 UTC] (91ae2fb2) perf: minify inline SVGs
