@@ -1612,3 +1612,4 @@
 [2026-08-14 03:30:58 UTC] (7df1f4ba) fix: correct broken link in navigation
 [2026-08-14 03:30:58 UTC] (16be3e24) chore: update CI pipeline notes
 [2026-08-14 04:07:27 UTC] (35b594bd) perf: improve scroll event throttling
+[2026-08-14 04:07:27 UTC] (eaaa037e) fix: fix image aspect ratio on Safari
