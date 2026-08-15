@@ -1655,3 +1655,4 @@
 [2026-08-15 05:01:57 UTC] (a5157386) fix: resolve button hover state bug
 [2026-08-15 05:52:40 UTC] (49cb7a38) docs: add project structure notes
 [2026-08-15 05:52:40 UTC] (81abb898) perf: reduce bundle size
+[2026-08-15 06:55:07 UTC] (73457eb1) feat: improve mobile navigation flow
