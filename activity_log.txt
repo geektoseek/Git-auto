@@ -1644,3 +1644,4 @@
 [2026-08-15 02:50:26 UTC] (d1b97320) style: adjust line breaks in components
 [2026-08-15 03:24:37 UTC] (a53943cc) fix: patch overflow on small screens
 [2026-08-15 03:24:37 UTC] (10f7fe26) refactor: clean up legacy code
+[2026-08-15 03:24:37 UTC] (8c208c7b) docs: improve component documentation
