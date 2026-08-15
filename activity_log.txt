@@ -1637,3 +1637,4 @@
 [2026-08-15 01:43:55 UTC] (790657d2) chore: clean up build artifacts
 [2026-08-15 01:43:55 UTC] (893c2092) style: align table formatting in docs
 [2026-08-15 02:03:44 UTC] (ab12d230) style: clean up unused class names
+[2026-08-15 02:03:44 UTC] (3fbe86a7) chore: add editor config settings
