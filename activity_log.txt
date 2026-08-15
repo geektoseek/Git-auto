@@ -1657,3 +1657,4 @@
 [2026-08-15 05:52:40 UTC] (81abb898) perf: reduce bundle size
 [2026-08-15 06:55:07 UTC] (73457eb1) feat: improve mobile navigation flow
 [2026-08-15 06:55:07 UTC] (caa1ab15) docs: improve component documentation
+[2026-08-15 07:27:10 UTC] (67495201) refactor: clean up legacy code
