@@ -1662,3 +1662,4 @@
 [2026-08-15 07:27:10 UTC] (58134e68) style: reformat CSS variables section
 [2026-08-15 07:50:09 UTC] (b600544e) refactor: improve variable naming
 [2026-08-15 08:41:07 UTC] (97c6fd27) fix: correct z-index layering issue
+[2026-08-15 08:41:07 UTC] (8cba08ad) docs: update contact information
