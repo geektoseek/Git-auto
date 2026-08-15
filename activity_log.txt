@@ -1636,3 +1636,4 @@
 [2026-08-14 09:41:49 UTC] (a3a68e2b) docs: add usage examples
 [2026-08-15 01:43:55 UTC] (790657d2) chore: clean up build artifacts
 [2026-08-15 01:43:55 UTC] (893c2092) style: align table formatting in docs
+[2026-08-15 02:03:44 UTC] (ab12d230) style: clean up unused class names
