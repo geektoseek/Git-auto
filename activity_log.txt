@@ -1674,3 +1674,4 @@
 [2026-08-16 02:35:03 UTC] (478fed2c) fix: fix image aspect ratio on Safari
 [2026-08-16 02:35:03 UTC] (1e711b45) docs: update README with setup steps
 [2026-08-16 02:35:03 UTC] (31417e97) feat: add hover animation effects
+[2026-08-16 02:58:24 UTC] (436701b4) refactor: clean up legacy code
