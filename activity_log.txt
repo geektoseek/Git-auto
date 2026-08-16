@@ -1686,3 +1686,4 @@
 [2026-08-16 05:05:19 UTC] (32949ec7) refactor: consolidate repeated styles
 [2026-08-16 05:05:19 UTC] (e64fd87f) refactor: consolidate repeated styles
 [2026-08-16 05:55:16 UTC] (f414cf7c) perf: compress background assets
+[2026-08-16 05:55:16 UTC] (f87f27a7) docs: clarify installation instructions
