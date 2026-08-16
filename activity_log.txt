@@ -1667,3 +1667,4 @@
 [2026-08-15 09:50:07 UTC] (242fc7f0) docs: clarify installation instructions
 [2026-08-15 09:50:07 UTC] (6d609932) feat: add responsive layout improvements
 [2026-08-16 01:51:53 UTC] (b282f6ae) chore: sync lockfile
+[2026-08-16 01:51:53 UTC] (782baf68) refactor: extract reusable utility
