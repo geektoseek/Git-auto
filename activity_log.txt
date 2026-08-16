@@ -1694,3 +1694,4 @@
 [2026-08-16 07:52:28 UTC] (c9d25e09) refactor: consolidate repeated styles
 [2026-08-16 07:52:28 UTC] (92085acd) perf: reduce animation repaints
 [2026-08-16 07:52:28 UTC] (b8cb5645) perf: preload critical fonts
+[2026-08-16 08:43:17 UTC] (7ea0dcca) perf: compress background assets
