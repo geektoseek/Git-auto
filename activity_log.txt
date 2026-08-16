@@ -1669,3 +1669,4 @@
 [2026-08-16 01:51:53 UTC] (b282f6ae) chore: sync lockfile
 [2026-08-16 01:51:53 UTC] (782baf68) refactor: extract reusable utility
 [2026-08-16 02:10:45 UTC] (929f74b3) feat: add smooth scroll behavior
+[2026-08-16 02:10:45 UTC] (b3abe13a) perf: preload critical fonts
