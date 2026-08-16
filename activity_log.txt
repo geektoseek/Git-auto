@@ -1690,3 +1690,4 @@
 [2026-08-16 05:55:16 UTC] (0495c1e0) refactor: split large component into smaller parts
 [2026-08-16 06:56:12 UTC] (009be492) chore: update dependencies
 [2026-08-16 07:27:34 UTC] (7726662e) docs: update deployment notes
+[2026-08-16 07:27:34 UTC] (5e6ce5b7) perf: optimize image loading strategy
