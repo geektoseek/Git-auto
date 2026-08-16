@@ -1673,3 +1673,4 @@
 [2026-08-16 02:10:45 UTC] (c83a6085) style: normalize quote style
 [2026-08-16 02:35:03 UTC] (478fed2c) fix: fix image aspect ratio on Safari
 [2026-08-16 02:35:03 UTC] (1e711b45) docs: update README with setup steps
+[2026-08-16 02:35:03 UTC] (31417e97) feat: add hover animation effects
