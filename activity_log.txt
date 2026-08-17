@@ -1716,3 +1716,4 @@
 [2026-08-17 04:52:54 UTC] (afaff295) docs: add usage examples
 [2026-08-17 05:20:46 UTC] (926fcec0) fix: fix font loading fallback
 [2026-08-17 05:20:46 UTC] (aeb5caf8) docs: update contact information
+[2026-08-17 05:20:46 UTC] (4d33ffbc) chore: refresh environment config
