@@ -1698,3 +1698,4 @@
 [2026-08-16 09:00:46 UTC] (78c1b4dc) chore: sync lockfile
 [2026-08-16 09:51:31 UTC] (96fb7a56) style: clean up trailing whitespace
 [2026-08-17 01:49:08 UTC] (bff3feeb) refactor: extract reusable utility
+[2026-08-17 01:49:08 UTC] (efa1c73f) chore: reorganize folder structure
