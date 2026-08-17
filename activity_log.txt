@@ -1718,3 +1718,4 @@
 [2026-08-17 05:20:46 UTC] (aeb5caf8) docs: update contact information
 [2026-08-17 05:20:46 UTC] (4d33ffbc) chore: refresh environment config
 [2026-08-17 06:01:53 UTC] (285464c3) chore: add editor config settings
+[2026-08-17 06:01:53 UTC] (9b6853d2) docs: improve changelog entries
