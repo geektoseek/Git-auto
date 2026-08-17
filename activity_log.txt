@@ -1719,3 +1719,4 @@
 [2026-08-17 05:20:46 UTC] (4d33ffbc) chore: refresh environment config
 [2026-08-17 06:01:53 UTC] (285464c3) chore: add editor config settings
 [2026-08-17 06:01:53 UTC] (9b6853d2) docs: improve changelog entries
+[2026-08-17 07:12:58 UTC] (9d418cd5) refactor: move constants to config file
