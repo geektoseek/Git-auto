@@ -1714,3 +1714,4 @@
 [2026-08-17 04:52:54 UTC] (586b3922) chore: update CI pipeline notes
 [2026-08-17 04:52:54 UTC] (2e353c8e) fix: patch overflow on small screens
 [2026-08-17 04:52:54 UTC] (afaff295) docs: add usage examples
+[2026-08-17 05:20:46 UTC] (926fcec0) fix: fix font loading fallback
