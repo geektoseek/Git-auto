@@ -1703,3 +1703,4 @@
 [2026-08-17 02:08:57 UTC] (33d80d67) fix: patch overflow on small screens
 [2026-08-17 02:08:57 UTC] (a05d3be7) perf: compress background assets
 [2026-08-17 02:08:57 UTC] (942e9974) docs: improve changelog entries
+[2026-08-17 02:35:01 UTC] (ec607f03) perf: optimize image loading strategy
