@@ -1741,3 +1741,4 @@
 [2026-08-18 05:12:55 UTC] (1b11bdf0) chore: update dependencies
 [2026-08-18 05:12:55 UTC] (2b0367a0) perf: cache static asset headers
 [2026-08-18 05:56:07 UTC] (f7a05366) feat: add new section styles
+[2026-08-18 05:56:07 UTC] (351ff9fd) perf: minify inline SVGs
