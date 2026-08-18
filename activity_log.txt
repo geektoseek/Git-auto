@@ -1739,3 +1739,4 @@
 [2026-08-18 04:44:46 UTC] (aacc040d) perf: minify inline SVGs
 [2026-08-18 04:44:46 UTC] (358362d5) fix: correct broken link in navigation
 [2026-08-18 05:12:55 UTC] (1b11bdf0) chore: update dependencies
+[2026-08-18 05:12:55 UTC] (2b0367a0) perf: cache static asset headers
