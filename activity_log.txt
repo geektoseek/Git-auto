@@ -1756,3 +1756,4 @@
 [2026-08-18 09:06:58 UTC] (42dfcbf5) refactor: clean up legacy code
 [2026-08-18 09:06:58 UTC] (3c12d851) feat: add hover animation effects
 [2026-08-18 09:58:39 UTC] (07ebc295) perf: minify inline SVGs
+[2026-08-18 10:49:29 UTC] (08b28e55) style: clean up unused class names
