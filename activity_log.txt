@@ -1744,3 +1744,4 @@
 [2026-08-18 05:56:07 UTC] (351ff9fd) perf: minify inline SVGs
 [2026-08-18 05:56:07 UTC] (053d1b57) style: apply consistent naming convention
 [2026-08-18 07:00:41 UTC] (3987aaac) fix: correct broken link in navigation
+[2026-08-18 07:00:42 UTC] (cd3f07b8) refactor: clean up legacy code
