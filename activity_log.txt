@@ -1737,3 +1737,4 @@
 [2026-08-18 03:59:39 UTC] (557f1fe7) feat: add new section styles
 [2026-08-18 03:59:39 UTC] (6fd9ae93) docs: improve component documentation
 [2026-08-18 04:44:46 UTC] (aacc040d) perf: minify inline SVGs
+[2026-08-18 04:44:46 UTC] (358362d5) fix: correct broken link in navigation
