@@ -1748,3 +1748,4 @@
 [2026-08-18 07:34:27 UTC] (b3d30a15) chore: reorganize folder structure
 [2026-08-18 08:00:29 UTC] (b698e638) docs: update contact information
 [2026-08-18 08:00:29 UTC] (9f2acd8d) fix: resolve button hover state bug
+[2026-08-18 08:00:29 UTC] (5c0f7757) refactor: optimize asset references
