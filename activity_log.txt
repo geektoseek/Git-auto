@@ -1782,3 +1782,4 @@
 [2026-08-19 08:50:31 UTC] (5312b51c) refactor: restructure section layout
 [2026-08-19 08:50:31 UTC] (958b565c) fix: patch overflow on small screens
 [2026-08-19 09:15:02 UTC] (fdf8675c) fix: fix transition timing mismatch
+[2026-08-19 09:15:02 UTC] (095c8c77) perf: cache static asset headers
