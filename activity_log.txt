@@ -1786,3 +1786,4 @@
 [2026-08-19 09:15:02 UTC] (745a6871) perf: lazy load below-fold sections
 [2026-08-19 09:58:35 UTC] (56e53498) chore: remove unused imports
 [2026-08-19 09:58:35 UTC] (3cece8d4) fix: fix image aspect ratio on Safari
+[2026-08-19 09:58:35 UTC] (244710e6) style: apply consistent naming convention
