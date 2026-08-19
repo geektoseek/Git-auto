@@ -1774,3 +1774,4 @@
 [2026-08-19 05:57:53 UTC] (09f6b786) style: clean up trailing whitespace
 [2026-08-19 05:57:53 UTC] (03bf2ae2) chore: reorganize folder structure
 [2026-08-19 07:01:29 UTC] (049de812) chore: update CI pipeline notes
+[2026-08-19 07:01:29 UTC] (8ca6d4fb) fix: resolve alignment issue on mobile
