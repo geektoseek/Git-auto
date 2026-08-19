@@ -1770,3 +1770,4 @@
 [2026-08-19 04:45:35 UTC] (bf7ac219) docs: improve component documentation
 [2026-08-19 04:45:35 UTC] (ca6de1cc) docs: update contact information
 [2026-08-19 05:13:30 UTC] (b48cf2fb) docs: update tech stack references
+[2026-08-19 05:13:30 UTC] (32e0eb43) docs: update README with setup steps
