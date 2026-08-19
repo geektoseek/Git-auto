@@ -1758,3 +1758,4 @@
 [2026-08-18 09:58:39 UTC] (07ebc295) perf: minify inline SVGs
 [2026-08-18 10:49:29 UTC] (08b28e55) style: clean up unused class names
 [2026-08-19 01:46:19 UTC] (09c3c4ba) style: reorganize import order
+[2026-08-19 01:46:19 UTC] (51ea989b) docs: update README with setup steps
