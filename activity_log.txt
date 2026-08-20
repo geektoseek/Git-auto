@@ -1793,3 +1793,4 @@
 [2026-08-20 01:44:47 UTC] (73ee0f30) fix: correct broken link in navigation
 [2026-08-20 01:44:47 UTC] (76fde757) fix: fix font loading fallback
 [2026-08-20 02:06:40 UTC] (61403336) perf: cache static asset headers
+[2026-08-20 02:06:40 UTC] (895b327f) perf: optimize image loading strategy
