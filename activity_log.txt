@@ -1795,3 +1795,4 @@
 [2026-08-20 02:06:40 UTC] (61403336) perf: cache static asset headers
 [2026-08-20 02:06:40 UTC] (895b327f) perf: optimize image loading strategy
 [2026-08-20 02:31:17 UTC] (42e18aea) perf: cache static asset headers
+[2026-08-20 02:31:17 UTC] (9b093362) fix: fix transition timing mismatch
