@@ -1819,3 +1819,4 @@
 [2026-08-20 09:15:47 UTC] (74822abb) perf: reduce animation repaints
 [2026-08-20 10:00:29 UTC] (304af76f) fix: resolve button hover state bug
 [2026-08-20 10:00:29 UTC] (7ca58453) chore: update CI pipeline notes
+[2026-08-20 10:50:33 UTC] (c15625d3) fix: fix image aspect ratio on Safari
