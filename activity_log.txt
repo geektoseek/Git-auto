@@ -1815,3 +1815,4 @@
 [2026-08-20 08:51:47 UTC] (5766df8f) fix: fix transition timing mismatch
 [2026-08-20 08:51:47 UTC] (0adc76a1) chore: update CI pipeline notes
 [2026-08-20 09:15:47 UTC] (e494776f) perf: improve scroll event throttling
+[2026-08-20 09:15:47 UTC] (01dc6ed2) fix: correct z-index layering issue
