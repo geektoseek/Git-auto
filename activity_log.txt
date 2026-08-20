@@ -1790,3 +1790,4 @@
 [2026-08-19 10:48:57 UTC] (eb518a34) feat: enhance UI component structure
 [2026-08-19 10:48:57 UTC] (8b25370c) perf: defer non-critical scripts
 [2026-08-20 01:44:47 UTC] (e387666f) docs: update tech stack references
+[2026-08-20 01:44:47 UTC] (73ee0f30) fix: correct broken link in navigation
