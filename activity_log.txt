@@ -1849,3 +1849,4 @@
 [2026-08-21 08:03:47 UTC] (58878810) docs: update deployment notes
 [2026-08-21 08:03:47 UTC] (e13cf145) fix: patch scroll position reset
 [2026-08-21 08:03:47 UTC] (72bbb848) fix: resolve CSS specificity conflict
+[2026-08-21 08:53:52 UTC] (5000d28d) perf: optimize image loading strategy
