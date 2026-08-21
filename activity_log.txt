@@ -1833,3 +1833,4 @@
 [2026-08-21 03:36:22 UTC] (dd8aed09) refactor: split large component into smaller parts
 [2026-08-21 03:36:22 UTC] (d5f262b0) fix: fix font loading fallback
 [2026-08-21 04:03:05 UTC] (7f747e74) style: improve code readability
+[2026-08-21 04:03:05 UTC] (f57e809a) docs: improve component documentation
