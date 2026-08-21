@@ -1847,3 +1847,4 @@
 [2026-08-21 07:39:26 UTC] (554b20a1) feat: enhance card component design
 [2026-08-21 07:39:26 UTC] (a10ec055) fix: patch overflow on small screens
 [2026-08-21 08:03:47 UTC] (58878810) docs: update deployment notes
+[2026-08-21 08:03:47 UTC] (e13cf145) fix: patch scroll position reset
