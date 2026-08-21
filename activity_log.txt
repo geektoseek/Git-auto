@@ -1852,3 +1852,4 @@
 [2026-08-21 08:53:52 UTC] (5000d28d) perf: optimize image loading strategy
 [2026-08-21 09:18:43 UTC] (9b40b96b) docs: update README with setup steps
 [2026-08-21 10:00:53 UTC] (a6724d62) refactor: move constants to config file
+[2026-08-21 10:00:53 UTC] (56bb7180) refactor: simplify component logic
