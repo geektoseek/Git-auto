@@ -1828,3 +1828,4 @@
 [2026-08-21 02:12:34 UTC] (626ba128) perf: minify inline SVGs
 [2026-08-21 02:37:33 UTC] (9026b722) docs: clarify installation instructions
 [2026-08-21 02:37:33 UTC] (e6024951) docs: update README with setup steps
+[2026-08-21 03:01:05 UTC] (fc8062df) perf: reduce bundle size
