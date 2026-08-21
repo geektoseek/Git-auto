@@ -1826,3 +1826,4 @@
 [2026-08-21 01:50:03 UTC] (ecbeff7b) fix: resolve button hover state bug
 [2026-08-21 02:12:34 UTC] (5a031795) fix: correct broken link in navigation
 [2026-08-21 02:12:34 UTC] (626ba128) perf: minify inline SVGs
+[2026-08-21 02:37:33 UTC] (9026b722) docs: clarify installation instructions
