@@ -1831,3 +1831,4 @@
 [2026-08-21 03:01:05 UTC] (fc8062df) perf: reduce bundle size
 [2026-08-21 03:36:22 UTC] (8b03f664) chore: add editor config settings
 [2026-08-21 03:36:22 UTC] (dd8aed09) refactor: split large component into smaller parts
+[2026-08-21 03:36:22 UTC] (d5f262b0) fix: fix font loading fallback
