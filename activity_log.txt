@@ -1879,3 +1879,4 @@
 [2026-08-22 07:52:24 UTC] (edc2025a) style: normalize quote style
 [2026-08-22 08:42:58 UTC] (aa2102a2) perf: improve scroll event throttling
 [2026-08-22 08:42:58 UTC] (603104ff) fix: fix font loading fallback
+[2026-08-22 09:01:54 UTC] (1d2e970a) perf: cache static asset headers
