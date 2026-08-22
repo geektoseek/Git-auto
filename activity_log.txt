@@ -1869,3 +1869,4 @@
 [2026-08-22 05:54:55 UTC] (850c521b) fix: fix font loading fallback
 [2026-08-22 05:54:55 UTC] (1a20642b) chore: reorganize folder structure
 [2026-08-22 05:54:55 UTC] (6dbfb307) chore: bump package version
+[2026-08-22 06:56:32 UTC] (37c34ff0) fix: patch overflow on small screens
