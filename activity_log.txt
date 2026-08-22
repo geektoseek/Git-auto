@@ -1880,3 +1880,4 @@
 [2026-08-22 08:42:58 UTC] (aa2102a2) perf: improve scroll event throttling
 [2026-08-22 08:42:58 UTC] (603104ff) fix: fix font loading fallback
 [2026-08-22 09:01:54 UTC] (1d2e970a) perf: cache static asset headers
+[2026-08-22 09:01:54 UTC] (4a42e7fa) feat: add smooth scroll behavior
