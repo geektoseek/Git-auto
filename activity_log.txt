@@ -1877,3 +1877,4 @@
 [2026-08-22 07:52:24 UTC] (a39e69f4) perf: preload critical fonts
 [2026-08-22 07:52:24 UTC] (8cd5e1e8) perf: preload critical fonts
 [2026-08-22 07:52:24 UTC] (edc2025a) style: normalize quote style
+[2026-08-22 08:42:58 UTC] (aa2102a2) perf: improve scroll event throttling
