@@ -1866,3 +1866,4 @@
 [2026-08-22 05:04:20 UTC] (192a1cb1) fix: correct z-index layering issue
 [2026-08-22 05:04:20 UTC] (b1946129) fix: patch overflow on small screens
 [2026-08-22 05:04:20 UTC] (e33e8723) chore: update .gitignore entries
+[2026-08-22 05:54:55 UTC] (850c521b) fix: fix font loading fallback
