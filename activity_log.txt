@@ -1875,3 +1875,4 @@
 [2026-08-22 07:27:49 UTC] (1aca9021) chore: update dependencies
 [2026-08-22 07:27:49 UTC] (dbeeb28f) docs: update tech stack references
 [2026-08-22 07:52:24 UTC] (a39e69f4) perf: preload critical fonts
+[2026-08-22 07:52:24 UTC] (8cd5e1e8) perf: preload critical fonts
