@@ -1905,3 +1905,4 @@
 [2026-08-23 06:57:47 UTC] (325aa0cd) feat: add new section styles
 [2026-08-23 07:29:51 UTC] (0c41ba56) docs: update deployment notes
 [2026-08-23 07:54:34 UTC] (20296bee) perf: preload critical fonts
+[2026-08-23 07:54:34 UTC] (6aedb519) perf: minify inline SVGs
