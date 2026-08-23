@@ -1901,3 +1901,4 @@
 [2026-08-23 05:12:40 UTC] (5b3edc50) style: clean up trailing whitespace
 [2026-08-23 05:56:47 UTC] (bedbbbb5) style: adjust line breaks in components
 [2026-08-23 05:56:47 UTC] (685b85e7) docs: update deployment notes
+[2026-08-23 05:56:47 UTC] (ea17af9d) fix: fix image aspect ratio on Safari
