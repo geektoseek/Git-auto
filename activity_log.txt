@@ -1885,3 +1885,4 @@
 [2026-08-23 01:53:44 UTC] (073021be) docs: add usage examples
 [2026-08-23 01:53:44 UTC] (264cf4d7) style: clean up unused class names
 [2026-08-23 02:13:47 UTC] (31e87c16) perf: reduce bundle size
+[2026-08-23 02:13:47 UTC] (775ff1a8) fix: resolve CSS specificity conflict
