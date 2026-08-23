@@ -1903,3 +1903,4 @@
 [2026-08-23 05:56:47 UTC] (685b85e7) docs: update deployment notes
 [2026-08-23 05:56:47 UTC] (ea17af9d) fix: fix image aspect ratio on Safari
 [2026-08-23 06:57:47 UTC] (325aa0cd) feat: add new section styles
+[2026-08-23 07:29:51 UTC] (0c41ba56) docs: update deployment notes
