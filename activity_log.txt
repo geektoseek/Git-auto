@@ -1894,3 +1894,4 @@
 [2026-08-23 03:36:07 UTC] (40660f5c) style: normalize quote style
 [2026-08-23 04:03:15 UTC] (6c0b4451) feat: add footer link updates
 [2026-08-23 04:03:15 UTC] (3f1f91ba) fix: fix font loading fallback
+[2026-08-23 04:47:08 UTC] (a6b364c8) feat: add responsive layout improvements
