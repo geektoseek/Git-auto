@@ -1882,3 +1882,4 @@
 [2026-08-22 09:01:54 UTC] (1d2e970a) perf: cache static asset headers
 [2026-08-22 09:01:54 UTC] (4a42e7fa) feat: add smooth scroll behavior
 [2026-08-23 01:53:44 UTC] (203b0938) perf: optimize image loading strategy
+[2026-08-23 01:53:44 UTC] (073021be) docs: add usage examples
