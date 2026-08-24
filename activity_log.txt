@@ -1943,3 +1943,4 @@
 [2026-08-24 09:28:18 UTC] (f09c9756) style: clean up trailing whitespace
 [2026-08-24 10:10:50 UTC] (e1906873) perf: minify inline SVGs
 [2026-08-24 10:56:28 UTC] (ba5d9591) feat: add smooth scroll behavior
+[2026-08-24 10:56:28 UTC] (d6e966dc) docs: clarify installation instructions
