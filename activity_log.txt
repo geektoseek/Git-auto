@@ -1914,3 +1914,4 @@
 [2026-08-23 10:44:09 UTC] (33f6ed18) style: align table formatting in docs
 [2026-08-24 01:51:10 UTC] (838949f6) fix: resolve CSS specificity conflict
 [2026-08-24 01:51:10 UTC] (943b2b59) perf: defer non-critical scripts
+[2026-08-24 02:12:01 UTC] (e01bf348) fix: resolve alignment issue on mobile
