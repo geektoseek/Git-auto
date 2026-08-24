@@ -1928,3 +1928,4 @@
 [2026-08-24 04:55:15 UTC] (da36d7ec) style: reorganize import order
 [2026-08-24 05:24:23 UTC] (3b55492f) perf: reduce bundle size
 [2026-08-24 06:05:04 UTC] (fec5cc13) style: improve code readability
+[2026-08-24 06:05:04 UTC] (3ed252a9) chore: sync lockfile
