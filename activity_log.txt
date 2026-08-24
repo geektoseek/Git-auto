@@ -1940,3 +1940,4 @@
 [2026-08-24 08:09:56 UTC] (5580cc17) fix: resolve CSS specificity conflict
 [2026-08-24 08:59:37 UTC] (4c8d9b76) fix: resolve button hover state bug
 [2026-08-24 09:28:18 UTC] (330968b4) docs: add usage examples
+[2026-08-24 09:28:18 UTC] (f09c9756) style: clean up trailing whitespace
