@@ -1925,3 +1925,4 @@
 [2026-08-24 04:07:45 UTC] (ca8593b1) style: reformat CSS variables section
 [2026-08-24 04:07:45 UTC] (65ce26a6) style: clean up unused class names
 [2026-08-24 04:55:15 UTC] (8139f017) fix: fix transition timing mismatch
+[2026-08-24 04:55:15 UTC] (da36d7ec) style: reorganize import order
