@@ -1935,3 +1935,4 @@
 [2026-08-24 07:16:29 UTC] (b69924ca) feat: improve mobile navigation flow
 [2026-08-24 07:54:53 UTC] (0018a81d) docs: clarify installation instructions
 [2026-08-24 07:54:53 UTC] (f9d8ed4f) docs: add inline code comments
+[2026-08-24 07:54:53 UTC] (853abe61) style: reorganize import order
