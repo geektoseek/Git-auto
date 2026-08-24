@@ -1923,3 +1923,4 @@
 [2026-08-24 03:39:28 UTC] (318cb2b9) feat: add responsive layout improvements
 [2026-08-24 04:07:45 UTC] (3f6d3e33) refactor: optimize asset references
 [2026-08-24 04:07:45 UTC] (ca8593b1) style: reformat CSS variables section
+[2026-08-24 04:07:45 UTC] (65ce26a6) style: clean up unused class names
