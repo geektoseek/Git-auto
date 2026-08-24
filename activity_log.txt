@@ -1926,3 +1926,4 @@
 [2026-08-24 04:07:45 UTC] (65ce26a6) style: clean up unused class names
 [2026-08-24 04:55:15 UTC] (8139f017) fix: fix transition timing mismatch
 [2026-08-24 04:55:15 UTC] (da36d7ec) style: reorganize import order
+[2026-08-24 05:24:23 UTC] (3b55492f) perf: reduce bundle size
