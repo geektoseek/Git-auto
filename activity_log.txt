@@ -1932,3 +1932,4 @@
 [2026-08-24 06:05:04 UTC] (9eb95c54) style: clean up unused class names
 [2026-08-24 07:16:29 UTC] (6ae49bca) chore: reorganize folder structure
 [2026-08-24 07:16:29 UTC] (cbb65054) style: align table formatting in docs
+[2026-08-24 07:16:29 UTC] (b69924ca) feat: improve mobile navigation flow
