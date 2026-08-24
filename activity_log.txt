@@ -1936,3 +1936,4 @@
 [2026-08-24 07:54:53 UTC] (0018a81d) docs: clarify installation instructions
 [2026-08-24 07:54:53 UTC] (f9d8ed4f) docs: add inline code comments
 [2026-08-24 07:54:53 UTC] (853abe61) style: reorganize import order
+[2026-08-24 08:09:56 UTC] (c48fb08d) style: clean up trailing whitespace
