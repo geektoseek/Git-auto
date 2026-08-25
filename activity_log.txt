@@ -1955,3 +1955,4 @@
 [2026-08-25 02:57:11 UTC] (07a48d9f) refactor: clean up legacy code
 [2026-08-25 02:57:11 UTC] (5e757a18) chore: refresh environment config
 [2026-08-25 02:57:11 UTC] (af3a7cfc) chore: sync lockfile
+[2026-08-25 03:33:17 UTC] (f96d92ea) refactor: reduce component nesting
