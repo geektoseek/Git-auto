@@ -1968,3 +1968,4 @@
 [2026-08-25 07:05:02 UTC] (796a7dea) docs: add project structure notes
 [2026-08-25 07:05:02 UTC] (2c69b38e) perf: reduce bundle size
 [2026-08-25 07:05:02 UTC] (23ddcc0d) docs: add inline code comments
+[2026-08-25 07:40:29 UTC] (5184fc9c) fix: patch scroll position reset
