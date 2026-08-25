@@ -1965,3 +1965,4 @@
 [2026-08-25 05:59:36 UTC] (0093aaf9) perf: compress background assets
 [2026-08-25 05:59:36 UTC] (aedc6cfe) perf: lazy load below-fold sections
 [2026-08-25 05:59:37 UTC] (f021f21e) style: format code with consistent spacing
+[2026-08-25 07:05:02 UTC] (796a7dea) docs: add project structure notes
