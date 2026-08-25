@@ -1961,3 +1961,4 @@
 [2026-08-25 04:48:18 UTC] (6b9e8611) perf: minify inline SVGs
 [2026-08-25 04:48:18 UTC] (1d8a0fdb) docs: add project structure notes
 [2026-08-25 04:48:18 UTC] (3042b9ed) feat: improve mobile navigation flow
+[2026-08-25 05:16:51 UTC] (aeb0eb1c) chore: update .gitignore entries
