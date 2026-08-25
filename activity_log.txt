@@ -1947,3 +1947,4 @@
 [2026-08-25 01:45:36 UTC] (95ee1aef) perf: lazy load below-fold sections
 [2026-08-25 01:45:36 UTC] (affffb87) style: align table formatting in docs
 [2026-08-25 02:08:06 UTC] (b1b33f1d) style: format code with consistent spacing
+[2026-08-25 02:08:06 UTC] (af98ee39) docs: update README with setup steps
