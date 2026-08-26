@@ -1985,3 +1985,4 @@
 [2026-08-26 04:49:52 UTC] (e21825c4) perf: preload critical fonts
 [2026-08-26 04:49:52 UTC] (d2a027fd) docs: update tech stack references
 [2026-08-26 05:16:10 UTC] (c3fb16fb) style: align table formatting in docs
+[2026-08-26 06:01:17 UTC] (cb41445d) docs: clarify installation instructions
