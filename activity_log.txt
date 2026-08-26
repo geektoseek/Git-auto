@@ -1996,3 +1996,4 @@
 [2026-08-26 09:23:01 UTC] (97ea0508) style: clean up trailing whitespace
 [2026-08-26 09:23:01 UTC] (f426ecde) feat: enhance UI component structure
 [2026-08-26 10:05:42 UTC] (ac6a16f1) fix: fix image aspect ratio on Safari
+[2026-08-26 10:53:34 UTC] (071ff8e1) perf: reduce animation repaints
