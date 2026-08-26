@@ -1984,3 +1984,4 @@
 [2026-08-26 04:49:52 UTC] (d7d5061e) docs: update README with setup steps
 [2026-08-26 04:49:52 UTC] (e21825c4) perf: preload critical fonts
 [2026-08-26 04:49:52 UTC] (d2a027fd) docs: update tech stack references
+[2026-08-26 05:16:10 UTC] (c3fb16fb) style: align table formatting in docs
