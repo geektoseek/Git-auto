@@ -1998,3 +1998,4 @@
 [2026-08-26 10:05:42 UTC] (ac6a16f1) fix: fix image aspect ratio on Safari
 [2026-08-26 10:53:34 UTC] (071ff8e1) perf: reduce animation repaints
 [2026-08-26 11:14:31 UTC] (821bc416) feat: improve mobile navigation flow
+[2026-08-26 11:14:31 UTC] (069f45ed) style: format code with consistent spacing
