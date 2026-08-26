@@ -1989,3 +1989,4 @@
 [2026-08-26 06:01:17 UTC] (41bf9e9b) style: reformat CSS variables section
 [2026-08-26 07:05:09 UTC] (e8736b82) feat: add hover animation effects
 [2026-08-26 07:42:06 UTC] (b0e9c157) perf: improve scroll event throttling
+[2026-08-26 07:42:06 UTC] (d9673af7) fix: fix transition timing mismatch
