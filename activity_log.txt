@@ -1983,3 +1983,4 @@
 [2026-08-26 04:04:25 UTC] (b0445445) feat: add new section styles
 [2026-08-26 04:49:52 UTC] (d7d5061e) docs: update README with setup steps
 [2026-08-26 04:49:52 UTC] (e21825c4) perf: preload critical fonts
+[2026-08-26 04:49:52 UTC] (d2a027fd) docs: update tech stack references
