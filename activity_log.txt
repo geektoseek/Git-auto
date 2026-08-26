@@ -1974,3 +1974,4 @@
 [2026-08-26 02:13:55 UTC] (0a1fc26d) fix: fix font loading fallback
 [2026-08-26 02:13:55 UTC] (55b7bd93) feat: add responsive layout improvements
 [2026-08-26 02:40:00 UTC] (4a801ac6) perf: compress background assets
+[2026-08-26 03:03:17 UTC] (417e6230) perf: improve scroll event throttling
