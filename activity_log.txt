@@ -2005,3 +2005,4 @@
 [2026-08-27 01:01:25 UTC] (03487c31) fix: correct broken link in navigation
 [2026-08-27 01:01:25 UTC] (f57595c8) refactor: split large component into smaller parts
 [2026-08-27 03:19:58 UTC] (4919560a) docs: update tech stack references
+[2026-08-27 03:19:58 UTC] (38b74778) feat: improve mobile navigation flow
