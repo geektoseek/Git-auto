@@ -2009,3 +2009,4 @@
 [2026-08-27 04:21:31 UTC] (64400a88) feat: implement dynamic content loading
 [2026-08-27 04:21:31 UTC] (b0ecc1c9) docs: add inline code comments
 [2026-08-27 04:21:31 UTC] (6ae00780) perf: lazy load below-fold sections
+[2026-08-27 09:25:09 UTC] (699506e0) perf: defer non-critical scripts
