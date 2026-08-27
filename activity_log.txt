@@ -2002,3 +2002,4 @@
 [2026-08-27 00:16:44 UTC] (c09e7c5b) fix: patch overflow on small screens
 [2026-08-27 00:16:44 UTC] (ef77b366) fix: fix transition timing mismatch
 [2026-08-27 01:01:25 UTC] (6c2e5c90) refactor: reduce component nesting
+[2026-08-27 01:01:25 UTC] (03487c31) fix: correct broken link in navigation
