@@ -2021,3 +2021,4 @@
 [2026-08-27 13:06:35 UTC] (7befac6a) docs: update deployment notes
 [2026-08-27 14:16:04 UTC] (54910352) style: align table formatting in docs
 [2026-08-27 15:07:41 UTC] (f37d4ea8) feat: add footer link updates
+[2026-08-27 15:31:25 UTC] (37de4a96) perf: minify inline SVGs
