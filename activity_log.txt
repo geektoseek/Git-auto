@@ -2028,3 +2028,4 @@
 [2026-08-27 18:03:47 UTC] (a317abff) style: clean up unused class names
 [2026-08-27 18:20:44 UTC] (57c4e2b4) docs: update contact information
 [2026-08-27 18:20:44 UTC] (9cfd3f35) docs: update README with setup steps
+[2026-08-27 18:20:44 UTC] (5c2a535b) chore: reorganize folder structure
