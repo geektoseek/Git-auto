@@ -2015,3 +2015,4 @@
 [2026-08-27 10:34:21 UTC] (6aac3fae) fix: fix transition timing mismatch
 [2026-08-27 10:34:21 UTC] (fd9ecc63) feat: add new section styles
 [2026-08-27 11:13:25 UTC] (a3d35fa1) perf: improve scroll event throttling
+[2026-08-27 11:13:25 UTC] (caf9cf07) feat: add footer link updates
