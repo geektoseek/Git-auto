@@ -2004,3 +2004,4 @@
 [2026-08-27 01:01:25 UTC] (6c2e5c90) refactor: reduce component nesting
 [2026-08-27 01:01:25 UTC] (03487c31) fix: correct broken link in navigation
 [2026-08-27 01:01:25 UTC] (f57595c8) refactor: split large component into smaller parts
+[2026-08-27 03:19:58 UTC] (4919560a) docs: update tech stack references
