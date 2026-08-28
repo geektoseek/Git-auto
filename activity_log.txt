@@ -2040,3 +2040,4 @@
 [2026-08-28 00:35:29 UTC] (271e83b0) style: apply consistent naming convention
 [2026-08-28 00:35:29 UTC] (03627ec0) chore: add editor config settings
 [2026-08-28 00:56:48 UTC] (2657be2c) chore: bump package version
+[2026-08-28 00:56:48 UTC] (b3a8c423) docs: add usage examples
