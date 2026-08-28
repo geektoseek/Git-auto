@@ -2064,3 +2064,4 @@
 [2026-08-28 12:14:49 UTC] (0f82d03b) docs: update deployment notes
 [2026-08-28 12:14:49 UTC] (4d48a812) perf: reduce animation repaints
 [2026-08-28 12:56:53 UTC] (38a6c061) perf: reduce bundle size
+[2026-08-28 12:56:53 UTC] (e13148dc) docs: update tech stack references
