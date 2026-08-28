@@ -2056,3 +2056,4 @@
 [2026-08-28 06:08:22 UTC] (0ee334f2) style: clean up trailing whitespace
 [2026-08-28 06:08:22 UTC] (59e87b71) feat: improve hero section visuals
 [2026-08-28 06:08:22 UTC] (30f3d620) perf: compress background assets
+[2026-08-28 06:47:50 UTC] (6e20476f) fix: resolve alignment issue on mobile
