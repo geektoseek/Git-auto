@@ -2061,3 +2061,4 @@
 [2026-08-28 11:12:03 UTC] (a563bbc5) fix: patch overflow on small screens
 [2026-08-28 11:12:03 UTC] (35a98e86) feat: add responsive layout improvements
 [2026-08-28 11:12:03 UTC] (5b1ee6a4) style: adjust line breaks in components
+[2026-08-28 12:14:49 UTC] (0f82d03b) docs: update deployment notes
