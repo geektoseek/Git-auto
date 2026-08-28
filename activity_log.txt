@@ -2042,3 +2042,4 @@
 [2026-08-28 00:56:48 UTC] (2657be2c) chore: bump package version
 [2026-08-28 00:56:48 UTC] (b3a8c423) docs: add usage examples
 [2026-08-28 01:22:03 UTC] (3e5e049f) docs: update README with setup steps
+[2026-08-28 01:22:03 UTC] (ae7140db) feat: improve hero section visuals
