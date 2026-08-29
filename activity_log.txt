@@ -2075,3 +2075,4 @@
 [2026-08-29 01:26:34 UTC] (7e1b2c28) docs: update contact information
 [2026-08-29 01:54:38 UTC] (df7c4598) docs: update deployment notes
 [2026-08-29 01:54:38 UTC] (bf4be7dd) style: clean up unused class names
+[2026-08-29 01:54:38 UTC] (f7cff530) fix: resolve CSS specificity conflict
