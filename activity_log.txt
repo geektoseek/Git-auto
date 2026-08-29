@@ -2082,3 +2082,4 @@
 [2026-08-29 02:47:09 UTC] (05f72801) refactor: restructure section layout
 [2026-08-29 02:54:59 UTC] (c884872c) feat: improve hero section visuals
 [2026-08-29 02:54:59 UTC] (fb06f83a) feat: add footer link updates
+[2026-08-29 02:54:59 UTC] (3bf617ee) fix: fix image aspect ratio on Safari
