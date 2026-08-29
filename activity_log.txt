@@ -2076,3 +2076,4 @@
 [2026-08-29 01:54:38 UTC] (df7c4598) docs: update deployment notes
 [2026-08-29 01:54:38 UTC] (bf4be7dd) style: clean up unused class names
 [2026-08-29 01:54:38 UTC] (f7cff530) fix: resolve CSS specificity conflict
+[2026-08-29 02:18:54 UTC] (a10a91d9) docs: update README with setup steps
