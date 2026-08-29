@@ -2085,3 +2085,4 @@
 [2026-08-29 02:54:59 UTC] (3bf617ee) fix: fix image aspect ratio on Safari
 [2026-08-29 03:20:56 UTC] (844d9f19) perf: optimize image loading strategy
 [2026-08-29 03:20:56 UTC] (908cb00d) perf: optimize image loading strategy
+[2026-08-29 03:43:19 UTC] (2d87dbf2) chore: update CI pipeline notes
