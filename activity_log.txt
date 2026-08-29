@@ -2096,3 +2096,4 @@
 [2026-08-29 06:56:46 UTC] (7541f80b) docs: improve component documentation
 [2026-08-29 07:25:12 UTC] (c15a5fd2) style: improve code readability
 [2026-08-29 07:54:13 UTC] (97c43d64) perf: cache static asset headers
+[2026-08-29 07:54:13 UTC] (99cac21e) feat: add footer link updates
