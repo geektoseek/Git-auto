@@ -2081,3 +2081,4 @@
 [2026-08-29 02:47:08 UTC] (9d7cdc68) docs: clarify installation instructions
 [2026-08-29 02:47:09 UTC] (05f72801) refactor: restructure section layout
 [2026-08-29 02:54:59 UTC] (c884872c) feat: improve hero section visuals
+[2026-08-29 02:54:59 UTC] (fb06f83a) feat: add footer link updates
