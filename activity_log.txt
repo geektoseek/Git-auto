@@ -2071,3 +2071,4 @@
 [2026-08-29 00:33:23 UTC] (2fc1f80e) fix: correct z-index layering issue
 [2026-08-29 00:53:22 UTC] (39d87bd1) style: normalize quote style
 [2026-08-29 00:53:22 UTC] (08293e84) chore: remove unused imports
+[2026-08-29 01:05:08 UTC] (49a6b598) refactor: optimize asset references
