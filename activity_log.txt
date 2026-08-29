@@ -2073,3 +2073,4 @@
 [2026-08-29 00:53:22 UTC] (08293e84) chore: remove unused imports
 [2026-08-29 01:05:08 UTC] (49a6b598) refactor: optimize asset references
 [2026-08-29 01:26:34 UTC] (7e1b2c28) docs: update contact information
+[2026-08-29 01:54:38 UTC] (df7c4598) docs: update deployment notes
