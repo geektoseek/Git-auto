@@ -2080,3 +2080,4 @@
 [2026-08-29 02:18:54 UTC] (48c61d66) refactor: reduce component nesting
 [2026-08-29 02:47:08 UTC] (9d7cdc68) docs: clarify installation instructions
 [2026-08-29 02:47:09 UTC] (05f72801) refactor: restructure section layout
+[2026-08-29 02:54:59 UTC] (c884872c) feat: improve hero section visuals
