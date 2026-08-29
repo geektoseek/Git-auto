@@ -2068,3 +2068,4 @@
 [2026-08-29 00:05:37 UTC] (5b4ccb46) refactor: consolidate repeated styles
 [2026-08-29 00:05:37 UTC] (434cf44b) chore: update dependencies
 [2026-08-29 00:33:23 UTC] (de1f2c30) fix: fix transition timing mismatch
+[2026-08-29 00:33:23 UTC] (2fc1f80e) fix: correct z-index layering issue
