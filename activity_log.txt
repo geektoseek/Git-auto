@@ -2099,3 +2099,4 @@
 [2026-08-29 07:54:13 UTC] (99cac21e) feat: add footer link updates
 [2026-08-30 00:21:54 UTC] (4cc9cf3e) style: normalize quote style
 [2026-08-30 01:08:26 UTC] (24d491be) feat: improve hero section visuals
+[2026-08-30 01:08:26 UTC] (156f856d) refactor: extract reusable utility
