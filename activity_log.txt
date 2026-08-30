@@ -2118,3 +2118,4 @@
 [2026-08-30 09:53:29 UTC] (86fd0695) docs: update README with setup steps
 [2026-08-30 09:53:29 UTC] (79b1a47a) fix: resolve button hover state bug
 [2026-08-30 09:53:29 UTC] (0a382e40) chore: remove unused imports
+[2026-08-30 10:07:09 UTC] (c6a196cb) docs: add project structure notes
