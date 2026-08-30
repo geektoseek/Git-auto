@@ -2120,3 +2120,4 @@
 [2026-08-30 09:53:29 UTC] (0a382e40) chore: remove unused imports
 [2026-08-30 10:07:09 UTC] (c6a196cb) docs: add project structure notes
 [2026-08-30 10:37:30 UTC] (c8ce988b) chore: clean up build artifacts
+[2026-08-30 10:37:30 UTC] (e46e2572) refactor: split large component into smaller parts
