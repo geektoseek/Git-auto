@@ -2103,3 +2103,4 @@
 [2026-08-30 05:11:59 UTC] (13e7aabf) chore: update dependencies
 [2026-08-30 05:11:59 UTC] (bf29f419) style: format code with consistent spacing
 [2026-08-30 05:11:59 UTC] (25a64c03) style: normalize quote style
+[2026-08-30 05:51:30 UTC] (e7886e24) refactor: extract reusable utility
