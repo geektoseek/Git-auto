@@ -2107,3 +2107,4 @@
 [2026-08-30 05:51:30 UTC] (cdbfb8b1) perf: defer non-critical scripts
 [2026-08-30 06:45:06 UTC] (b35dcccb) docs: improve changelog entries
 [2026-08-30 07:53:58 UTC] (bb3f9188) fix: resolve CSS specificity conflict
+[2026-08-30 07:53:58 UTC] (bfaaefbe) refactor: clean up legacy code
