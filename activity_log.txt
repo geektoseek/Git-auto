@@ -2137,3 +2137,4 @@
 [2026-08-31 08:55:01 UTC] (6918e062) perf: minify inline SVGs
 [2026-08-31 08:55:01 UTC] (57291dc8) perf: compress background assets
 [2026-08-31 08:55:01 UTC] (291371a6) perf: reduce animation repaints
+[2026-08-31 09:49:30 UTC] (26f0d089) docs: update tech stack references
