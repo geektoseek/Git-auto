@@ -2152,3 +2152,4 @@
 [2026-08-31 13:37:35 UTC] (d085a1a1) docs: add project structure notes
 [2026-08-31 14:48:15 UTC] (ae088dee) fix: resolve alignment issue on mobile
 [2026-08-31 14:48:15 UTC] (f11618cc) docs: update deployment notes
+[2026-08-31 15:14:07 UTC] (5cb7e10f) perf: improve scroll event throttling
