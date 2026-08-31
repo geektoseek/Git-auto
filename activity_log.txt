@@ -2124,3 +2124,4 @@
 [2026-08-30 11:50:11 UTC] (f11a43b7) docs: update tech stack references
 [2026-08-31 00:37:55 UTC] (3f2ea9ac) style: reformat CSS variables section
 [2026-08-31 01:09:13 UTC] (e137003a) feat: add hover animation effects
+[2026-08-31 01:09:13 UTC] (37e0ff94) perf: preload critical fonts
