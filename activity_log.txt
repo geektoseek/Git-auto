@@ -2146,3 +2146,4 @@
 [2026-08-31 11:09:05 UTC] (c005be43) feat: add footer link updates
 [2026-08-31 11:46:36 UTC] (bc9ced91) docs: clarify installation instructions
 [2026-08-31 11:46:36 UTC] (1afdf671) fix: fix image aspect ratio on Safari
+[2026-08-31 11:46:36 UTC] (2a0da39d) perf: lazy load below-fold sections
