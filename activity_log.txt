@@ -2148,3 +2148,4 @@
 [2026-08-31 11:46:36 UTC] (1afdf671) fix: fix image aspect ratio on Safari
 [2026-08-31 11:46:36 UTC] (2a0da39d) perf: lazy load below-fold sections
 [2026-08-31 13:37:35 UTC] (2ac70ee7) chore: reorganize folder structure
+[2026-08-31 13:37:35 UTC] (7df9feca) docs: improve changelog entries
