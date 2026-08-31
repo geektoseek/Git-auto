@@ -2139,3 +2139,4 @@
 [2026-08-31 08:55:01 UTC] (291371a6) perf: reduce animation repaints
 [2026-08-31 09:49:30 UTC] (26f0d089) docs: update tech stack references
 [2026-08-31 09:49:30 UTC] (e1669a41) refactor: optimize asset references
+[2026-08-31 09:49:30 UTC] (f83b52ec) style: align table formatting in docs
