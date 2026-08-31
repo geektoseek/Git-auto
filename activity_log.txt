@@ -2142,3 +2142,4 @@
 [2026-08-31 09:49:30 UTC] (f83b52ec) style: align table formatting in docs
 [2026-08-31 10:46:21 UTC] (c213d77f) style: apply consistent naming convention
 [2026-08-31 10:46:21 UTC] (b5b6ae82) docs: update contact information
+[2026-08-31 10:46:21 UTC] (a9a1834b) docs: add inline code comments
