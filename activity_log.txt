@@ -2151,3 +2151,4 @@
 [2026-08-31 13:37:35 UTC] (7df9feca) docs: improve changelog entries
 [2026-08-31 13:37:35 UTC] (d085a1a1) docs: add project structure notes
 [2026-08-31 14:48:15 UTC] (ae088dee) fix: resolve alignment issue on mobile
+[2026-08-31 14:48:15 UTC] (f11618cc) docs: update deployment notes
