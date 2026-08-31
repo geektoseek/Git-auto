@@ -2135,3 +2135,4 @@
 [2026-08-31 08:07:44 UTC] (8f00c268) fix: correct z-index layering issue
 [2026-08-31 08:07:44 UTC] (4583254e) refactor: reduce component nesting
 [2026-08-31 08:55:01 UTC] (6918e062) perf: minify inline SVGs
+[2026-08-31 08:55:01 UTC] (57291dc8) perf: compress background assets
