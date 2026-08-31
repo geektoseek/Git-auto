@@ -2149,3 +2149,4 @@
 [2026-08-31 11:46:36 UTC] (2a0da39d) perf: lazy load below-fold sections
 [2026-08-31 13:37:35 UTC] (2ac70ee7) chore: reorganize folder structure
 [2026-08-31 13:37:35 UTC] (7df9feca) docs: improve changelog entries
+[2026-08-31 13:37:35 UTC] (d085a1a1) docs: add project structure notes
