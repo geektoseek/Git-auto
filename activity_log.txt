@@ -2156,3 +2156,4 @@
 [2026-09-01 00:06:26 UTC] (77aaadac) feat: enhance card component design
 [2026-09-01 00:45:34 UTC] (ecbbfaf9) chore: clean up build artifacts
 [2026-09-01 00:45:34 UTC] (fdf5a800) perf: preload critical fonts
+[2026-09-01 00:45:34 UTC] (11774729) fix: patch scroll position reset
