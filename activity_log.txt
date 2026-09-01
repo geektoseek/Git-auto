@@ -2173,3 +2173,4 @@
 [2026-09-01 07:59:24 UTC] (4f7fa15e) docs: add inline code comments
 [2026-09-01 08:42:06 UTC] (558d97bc) docs: improve changelog entries
 [2026-09-01 08:42:06 UTC] (ef523dd1) style: reformat CSS variables section
+[2026-09-01 09:20:54 UTC] (acd09912) style: clean up unused class names
