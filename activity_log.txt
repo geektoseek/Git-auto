@@ -2178,3 +2178,4 @@
 [2026-09-01 09:36:10 UTC] (af7d5970) fix: resolve button hover state bug
 [2026-09-01 09:36:10 UTC] (d044496f) style: clean up trailing whitespace
 [2026-09-01 09:36:10 UTC] (57316189) refactor: extract reusable utility
+[2026-09-01 10:21:58 UTC] (a29327ba) perf: defer non-critical scripts
