@@ -2172,3 +2172,4 @@
 [2026-09-01 07:59:24 UTC] (bc045aa0) refactor: reduce component nesting
 [2026-09-01 07:59:24 UTC] (4f7fa15e) docs: add inline code comments
 [2026-09-01 08:42:06 UTC] (558d97bc) docs: improve changelog entries
+[2026-09-01 08:42:06 UTC] (ef523dd1) style: reformat CSS variables section
