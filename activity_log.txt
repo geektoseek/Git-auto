@@ -2161,3 +2161,4 @@
 [2026-09-01 01:42:09 UTC] (5aef0950) feat: improve hero section visuals
 [2026-09-01 04:54:19 UTC] (55e886f4) perf: reduce bundle size
 [2026-09-01 04:54:19 UTC] (141e86b0) chore: update .gitignore entries
+[2026-09-01 04:54:19 UTC] (9ce983e1) perf: cache static asset headers
