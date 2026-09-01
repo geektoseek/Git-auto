@@ -2158,3 +2158,4 @@
 [2026-09-01 00:45:34 UTC] (fdf5a800) perf: preload critical fonts
 [2026-09-01 00:45:34 UTC] (11774729) fix: patch scroll position reset
 [2026-09-01 01:18:38 UTC] (d074edce) docs: add usage examples
+[2026-09-01 01:42:09 UTC] (5aef0950) feat: improve hero section visuals
