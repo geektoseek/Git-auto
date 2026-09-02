@@ -2191,3 +2191,4 @@
 [2026-09-02 05:52:45 UTC] (8b67c738) chore: reorganize folder structure
 [2026-09-02 05:52:45 UTC] (c9e80ffa) feat: add smooth scroll behavior
 [2026-09-02 06:49:30 UTC] (69d1d0a6) perf: preload critical fonts
+[2026-09-02 07:19:50 UTC] (49ff49a0) feat: improve mobile navigation flow
