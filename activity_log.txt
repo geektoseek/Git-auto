@@ -2189,3 +2189,4 @@
 [2026-09-02 05:06:04 UTC] (9b748fb5) fix: correct broken link in navigation
 [2026-09-02 05:52:45 UTC] (71b60680) perf: minify inline SVGs
 [2026-09-02 05:52:45 UTC] (8b67c738) chore: reorganize folder structure
+[2026-09-02 05:52:45 UTC] (c9e80ffa) feat: add smooth scroll behavior
