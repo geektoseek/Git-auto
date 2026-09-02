@@ -2196,3 +2196,4 @@
 [2026-09-02 07:57:01 UTC] (9c96f0b7) chore: bump package version
 [2026-09-02 08:42:52 UTC] (6eb5fb60) feat: implement dynamic content loading
 [2026-09-02 08:42:52 UTC] (60134045) refactor: extract reusable utility
+[2026-09-02 09:03:50 UTC] (c058b54e) perf: improve scroll event throttling
