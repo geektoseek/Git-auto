@@ -2181,3 +2181,4 @@
 [2026-09-01 10:21:58 UTC] (a29327ba) perf: defer non-critical scripts
 [2026-09-01 10:21:58 UTC] (9ba3d1a2) fix: correct z-index layering issue
 [2026-09-02 00:16:23 UTC] (2d1235aa) feat: add hover animation effects
+[2026-09-02 00:52:09 UTC] (c8a87f5b) perf: compress background assets
