@@ -2186,3 +2186,4 @@
 [2026-09-02 04:16:00 UTC] (3518fc7f) chore: refresh environment config
 [2026-09-02 04:16:00 UTC] (1edcadb1) style: align table formatting in docs
 [2026-09-02 05:06:04 UTC] (d55c78c8) refactor: reduce component nesting
+[2026-09-02 05:06:04 UTC] (9b748fb5) fix: correct broken link in navigation
