@@ -2213,3 +2213,4 @@
 [2026-09-03 00:59:37 UTC] (4e58832e) chore: update dependencies
 [2026-09-03 00:59:37 UTC] (508e0394) perf: improve scroll event throttling
 [2026-09-03 04:10:41 UTC] (a86eb667) style: align table formatting in docs
+[2026-09-03 05:06:48 UTC] (c6164391) feat: add smooth scroll behavior
