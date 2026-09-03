@@ -2211,3 +2211,4 @@
 [2026-09-03 00:17:53 UTC] (ab4ca34a) style: format code with consistent spacing
 [2026-09-03 00:59:37 UTC] (67f86e30) fix: resolve alignment issue on mobile
 [2026-09-03 00:59:37 UTC] (4e58832e) chore: update dependencies
+[2026-09-03 00:59:37 UTC] (508e0394) perf: improve scroll event throttling
