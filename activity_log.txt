@@ -2224,3 +2224,4 @@
 [2026-09-03 08:06:11 UTC] (d2e4c400) perf: improve scroll event throttling
 [2026-09-03 08:51:46 UTC] (c89bbd59) refactor: improve variable naming
 [2026-09-03 08:51:47 UTC] (26939610) chore: reorganize folder structure
+[2026-09-03 08:51:47 UTC] (32717594) fix: correct broken link in navigation
