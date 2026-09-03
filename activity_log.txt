@@ -2228,3 +2228,4 @@
 [2026-09-03 09:12:08 UTC] (6edea0d3) feat: enhance UI component structure
 [2026-09-03 09:12:08 UTC] (6bcf9bcb) feat: enhance card component design
 [2026-09-03 10:02:03 UTC] (46870d2a) perf: reduce animation repaints
+[2026-09-03 10:02:03 UTC] (0b2f1d7a) fix: patch scroll position reset
