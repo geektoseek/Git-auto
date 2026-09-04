@@ -2252,3 +2252,4 @@
 [2026-09-04 08:46:55 UTC] (232b6297) perf: defer non-critical scripts
 [2026-09-04 08:46:55 UTC] (67aee1fc) docs: update deployment notes
 [2026-09-04 09:03:41 UTC] (d9de9e9e) fix: fix image aspect ratio on Safari
+[2026-09-04 09:03:41 UTC] (60ed4e5c) refactor: extract reusable utility
