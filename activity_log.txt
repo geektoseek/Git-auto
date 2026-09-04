@@ -2240,3 +2240,4 @@
 [2026-09-04 04:18:34 UTC] (605386b0) feat: implement dynamic content loading
 [2026-09-04 05:07:42 UTC] (1714f7fc) fix: fix image aspect ratio on Safari
 [2026-09-04 05:07:42 UTC] (e57957ec) fix: patch overflow on small screens
+[2026-09-04 05:58:31 UTC] (c575fd93) refactor: optimize asset references
