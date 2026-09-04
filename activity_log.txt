@@ -2234,3 +2234,4 @@
 [2026-09-04 00:07:37 UTC] (93bb065a) docs: update tech stack references
 [2026-09-04 00:49:59 UTC] (afa1cce1) refactor: simplify component logic
 [2026-09-04 00:49:59 UTC] (53bd13ca) fix: fix image aspect ratio on Safari
+[2026-09-04 00:49:59 UTC] (86c1cf9f) refactor: restructure section layout
