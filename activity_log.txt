@@ -2257,3 +2257,4 @@
 [2026-09-04 09:52:24 UTC] (de9b138a) fix: patch overflow on small screens
 [2026-09-04 09:52:24 UTC] (235b5c35) docs: improve component documentation
 [2026-09-04 09:52:24 UTC] (1fe2a07d) style: adjust line breaks in components
+[2026-09-04 11:11:41 UTC] (1603fb2d) docs: clarify installation instructions
