@@ -2231,3 +2231,4 @@
 [2026-09-03 10:02:03 UTC] (0b2f1d7a) fix: patch scroll position reset
 [2026-09-03 10:02:03 UTC] (170e420d) chore: update dependencies
 [2026-09-03 11:08:12 UTC] (309bab3b) style: clean up trailing whitespace
+[2026-09-04 00:07:37 UTC] (93bb065a) docs: update tech stack references
