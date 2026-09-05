@@ -2272,3 +2272,4 @@
 [2026-09-05 06:41:51 UTC] (6fffb1c5) docs: clarify installation instructions
 [2026-09-05 06:41:51 UTC] (0698686b) style: align table formatting in docs
 [2026-09-05 06:41:51 UTC] (9ed96b8d) fix: resolve button hover state bug
+[2026-09-05 07:07:02 UTC] (423395f6) perf: preload critical fonts
