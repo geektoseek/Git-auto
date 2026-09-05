@@ -2285,3 +2285,4 @@
 [2026-09-05 09:15:22 UTC] (85d89c27) chore: clean up build artifacts
 [2026-09-05 09:15:22 UTC] (e5750983) chore: update .gitignore entries
 [2026-09-05 09:15:22 UTC] (d630caa7) refactor: split large component into smaller parts
+[2026-09-05 10:29:54 UTC] (64604869) perf: optimize image loading strategy
