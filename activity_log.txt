@@ -2281,3 +2281,4 @@
 [2026-09-05 08:17:26 UTC] (0b65d625) fix: fix transition timing mismatch
 [2026-09-05 08:17:26 UTC] (ebdf53a2) perf: lazy load below-fold sections
 [2026-09-05 08:35:49 UTC] (f4f70de7) style: adjust line breaks in components
+[2026-09-05 08:35:49 UTC] (b357ed93) refactor: extract reusable utility
