@@ -2266,3 +2266,4 @@
 [2026-09-05 04:14:16 UTC] (b3b755e1) style: normalize quote style
 [2026-09-05 04:57:49 UTC] (27ed6195) perf: optimize image loading strategy
 [2026-09-05 04:57:49 UTC] (b2434e6b) feat: add smooth scroll behavior
+[2026-09-05 04:57:49 UTC] (8061b28b) docs: update README with setup steps
