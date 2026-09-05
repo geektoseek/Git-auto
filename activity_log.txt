@@ -2290,3 +2290,4 @@
 [2026-09-05 11:06:39 UTC] (a9ba362e) perf: lazy load below-fold sections
 [2026-09-05 11:06:39 UTC] (a829e253) fix: correct broken link in navigation
 [2026-09-05 11:19:37 UTC] (54f7a5bc) docs: improve component documentation
+[2026-09-05 11:19:37 UTC] (489a12ac) style: apply consistent naming convention
