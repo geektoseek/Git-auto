@@ -2270,3 +2270,4 @@
 [2026-09-05 05:49:13 UTC] (b8b704df) fix: correct z-index layering issue
 [2026-09-05 05:49:13 UTC] (e618da83) chore: update CI pipeline notes
 [2026-09-05 06:41:51 UTC] (6fffb1c5) docs: clarify installation instructions
+[2026-09-05 06:41:51 UTC] (0698686b) style: align table formatting in docs
