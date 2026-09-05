@@ -2268,3 +2268,4 @@
 [2026-09-05 04:57:49 UTC] (b2434e6b) feat: add smooth scroll behavior
 [2026-09-05 04:57:49 UTC] (8061b28b) docs: update README with setup steps
 [2026-09-05 05:49:13 UTC] (b8b704df) fix: correct z-index layering issue
+[2026-09-05 05:49:13 UTC] (e618da83) chore: update CI pipeline notes
