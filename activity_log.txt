@@ -2287,3 +2287,4 @@
 [2026-09-05 09:15:22 UTC] (d630caa7) refactor: split large component into smaller parts
 [2026-09-05 10:29:54 UTC] (64604869) perf: optimize image loading strategy
 [2026-09-05 10:29:54 UTC] (80984b84) style: reorganize import order
+[2026-09-05 11:06:39 UTC] (a9ba362e) perf: lazy load below-fold sections
