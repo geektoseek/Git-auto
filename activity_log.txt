@@ -2312,3 +2312,4 @@
 [2026-09-06 09:36:46 UTC] (35ad5809) chore: clean up build artifacts
 [2026-09-06 10:50:37 UTC] (315035a8) docs: update README with setup steps
 [2026-09-06 11:29:38 UTC] (e5ea23f6) docs: add project structure notes
+[2026-09-06 11:42:14 UTC] (29c5bec8) perf: improve scroll event throttling
