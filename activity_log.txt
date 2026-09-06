@@ -2308,3 +2308,4 @@
 [2026-09-06 08:36:18 UTC] (1c5b2f23) fix: fix font loading fallback
 [2026-09-06 08:56:18 UTC] (cebc21ed) perf: optimize image loading strategy
 [2026-09-06 08:56:18 UTC] (f1ba5c5d) fix: fix image aspect ratio on Safari
+[2026-09-06 08:56:18 UTC] (d8e1b588) feat: enhance UI component structure
