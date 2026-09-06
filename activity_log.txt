@@ -2307,3 +2307,4 @@
 [2026-09-06 07:56:43 UTC] (d4bf9a72) feat: add new section styles
 [2026-09-06 08:36:18 UTC] (1c5b2f23) fix: fix font loading fallback
 [2026-09-06 08:56:18 UTC] (cebc21ed) perf: optimize image loading strategy
+[2026-09-06 08:56:18 UTC] (f1ba5c5d) fix: fix image aspect ratio on Safari
