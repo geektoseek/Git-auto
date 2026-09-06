@@ -2314,3 +2314,4 @@
 [2026-09-06 11:29:38 UTC] (e5ea23f6) docs: add project structure notes
 [2026-09-06 11:42:14 UTC] (29c5bec8) perf: improve scroll event throttling
 [2026-09-06 11:42:14 UTC] (c41ae0a8) chore: update CI pipeline notes
+[2026-09-06 11:42:14 UTC] (ce27b578) chore: reorganize folder structure
