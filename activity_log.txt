@@ -2299,3 +2299,4 @@
 [2026-09-06 06:00:36 UTC] (5a04cbd5) fix: resolve alignment issue on mobile
 [2026-09-06 06:00:36 UTC] (bc43dd68) refactor: extract reusable utility
 [2026-09-06 06:00:36 UTC] (e856c21a) fix: fix font loading fallback
+[2026-09-06 06:51:45 UTC] (1b0ba2e6) refactor: optimize asset references
