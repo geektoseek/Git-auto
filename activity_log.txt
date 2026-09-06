@@ -2298,3 +2298,4 @@
 [2026-09-06 05:06:44 UTC] (bb3532e1) fix: fix image aspect ratio on Safari
 [2026-09-06 06:00:36 UTC] (5a04cbd5) fix: resolve alignment issue on mobile
 [2026-09-06 06:00:36 UTC] (bc43dd68) refactor: extract reusable utility
+[2026-09-06 06:00:36 UTC] (e856c21a) fix: fix font loading fallback
