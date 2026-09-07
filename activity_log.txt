@@ -2333,3 +2333,4 @@
 [2026-09-07 10:39:38 UTC] (b40582a5) perf: compress background assets
 [2026-09-07 10:39:38 UTC] (4bd62f17) style: format code with consistent spacing
 [2026-09-07 10:39:38 UTC] (98971a00) chore: reorganize folder structure
+[2026-09-07 12:22:38 UTC] (00537f2a) fix: patch scroll position reset
