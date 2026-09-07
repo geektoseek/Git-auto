@@ -2340,3 +2340,4 @@
 [2026-09-07 13:35:40 UTC] (ce760950) docs: update README with setup steps
 [2026-09-07 13:35:40 UTC] (177a28e8) chore: bump package version
 [2026-09-07 14:12:29 UTC] (d9cb802e) docs: add inline code comments
+[2026-09-07 14:12:29 UTC] (58e8c906) refactor: consolidate repeated styles
