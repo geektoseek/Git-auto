@@ -2347,3 +2347,4 @@
 [2026-09-07 14:26:12 UTC] (65b9e6ce) perf: preload critical fonts
 [2026-09-07 15:08:58 UTC] (f8ed1159) perf: reduce bundle size
 [2026-09-07 15:08:58 UTC] (56a72e07) fix: patch overflow on small screens
+[2026-09-07 15:08:58 UTC] (0ea176e0) docs: update tech stack references
