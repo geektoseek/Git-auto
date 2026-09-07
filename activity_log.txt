@@ -2319,3 +2319,4 @@
 [2026-09-07 00:44:30 UTC] (44d8c6df) style: clean up trailing whitespace
 [2026-09-07 00:44:30 UTC] (50951e0b) style: align table formatting in docs
 [2026-09-07 00:44:30 UTC] (c75c9601) docs: improve component documentation
+[2026-09-07 04:22:01 UTC] (a0b75cc6) chore: add editor config settings
