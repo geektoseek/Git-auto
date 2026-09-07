@@ -2328,3 +2328,4 @@
 [2026-09-07 07:33:14 UTC] (80d504e0) style: apply consistent naming convention
 [2026-09-07 08:22:44 UTC] (a920fe41) refactor: restructure section layout
 [2026-09-07 09:14:58 UTC] (c7ad57f5) fix: fix font loading fallback
+[2026-09-07 09:14:58 UTC] (4c374d7c) fix: patch scroll position reset
