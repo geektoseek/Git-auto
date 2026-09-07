@@ -2317,3 +2317,4 @@
 [2026-09-06 11:42:14 UTC] (ce27b578) chore: reorganize folder structure
 [2026-09-06 12:06:36 UTC] (de42d5c1) docs: add inline code comments
 [2026-09-07 00:44:30 UTC] (44d8c6df) style: clean up trailing whitespace
+[2026-09-07 00:44:30 UTC] (50951e0b) style: align table formatting in docs
