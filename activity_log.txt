@@ -2344,3 +2344,4 @@
 [2026-09-07 14:12:29 UTC] (d19557f7) docs: clarify installation instructions
 [2026-09-07 14:26:12 UTC] (66c9b984) style: reorganize import order
 [2026-09-07 14:26:12 UTC] (387b5429) docs: update deployment notes
+[2026-09-07 14:26:12 UTC] (65b9e6ce) perf: preload critical fonts
