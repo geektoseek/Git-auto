@@ -2342,3 +2342,4 @@
 [2026-09-07 14:12:29 UTC] (d9cb802e) docs: add inline code comments
 [2026-09-07 14:12:29 UTC] (58e8c906) refactor: consolidate repeated styles
 [2026-09-07 14:12:29 UTC] (d19557f7) docs: clarify installation instructions
+[2026-09-07 14:26:12 UTC] (66c9b984) style: reorganize import order
