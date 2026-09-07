@@ -2338,3 +2338,4 @@
 [2026-09-07 13:15:04 UTC] (f276e2ed) docs: improve changelog entries
 [2026-09-07 13:15:04 UTC] (e3f0fdf6) perf: preload critical fonts
 [2026-09-07 13:35:40 UTC] (ce760950) docs: update README with setup steps
+[2026-09-07 13:35:40 UTC] (177a28e8) chore: bump package version
