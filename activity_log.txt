@@ -2345,3 +2345,4 @@
 [2026-09-07 14:26:12 UTC] (66c9b984) style: reorganize import order
 [2026-09-07 14:26:12 UTC] (387b5429) docs: update deployment notes
 [2026-09-07 14:26:12 UTC] (65b9e6ce) perf: preload critical fonts
+[2026-09-07 15:08:58 UTC] (f8ed1159) perf: reduce bundle size
