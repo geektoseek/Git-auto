@@ -2364,3 +2364,4 @@
 [2026-09-08 08:08:11 UTC] (7366b287) fix: resolve alignment issue on mobile
 [2026-09-08 08:48:34 UTC] (c268fd1d) perf: optimize image loading strategy
 [2026-09-08 08:48:34 UTC] (351fee7f) chore: reorganize folder structure
+[2026-09-08 09:06:00 UTC] (3426352f) perf: improve scroll event throttling
