@@ -2377,3 +2377,4 @@
 [2026-09-08 12:12:57 UTC] (86c08ebc) style: apply consistent naming convention
 [2026-09-08 12:50:08 UTC] (29b6facb) chore: update CI pipeline notes
 [2026-09-08 12:50:08 UTC] (7902fec0) chore: remove unused imports
+[2026-09-08 12:50:08 UTC] (34c352a4) perf: reduce animation repaints
