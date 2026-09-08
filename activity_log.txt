@@ -2353,3 +2353,4 @@
 [2026-09-08 00:58:30 UTC] (53992f2f) refactor: split large component into smaller parts
 [2026-09-08 04:22:24 UTC] (3d6dc1c7) style: normalize quote style
 [2026-09-08 04:22:24 UTC] (c0d1af60) fix: resolve CSS specificity conflict
+[2026-09-08 05:17:27 UTC] (d9d65c76) chore: update .gitignore entries
