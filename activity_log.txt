@@ -2360,3 +2360,4 @@
 [2026-09-08 07:26:32 UTC] (9ca796f6) fix: fix image aspect ratio on Safari
 [2026-09-08 07:26:32 UTC] (82b9efb0) style: normalize quote style
 [2026-09-08 07:26:32 UTC] (42d0f9f1) docs: update contact information
+[2026-09-08 08:08:11 UTC] (a1382c6a) refactor: simplify component logic
