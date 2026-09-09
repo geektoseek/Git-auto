@@ -2401,3 +2401,4 @@
 [2026-09-09 10:02:32 UTC] (7ea59d4d) docs: improve component documentation
 [2026-09-09 10:02:32 UTC] (23771312) refactor: restructure section layout
 [2026-09-09 11:15:36 UTC] (d83d6a77) chore: refresh environment config
+[2026-09-09 12:07:27 UTC] (7e336e14) refactor: move constants to config file
