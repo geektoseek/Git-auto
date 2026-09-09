@@ -2406,3 +2406,4 @@
 [2026-09-09 12:24:20 UTC] (57994558) refactor: reduce component nesting
 [2026-09-09 12:24:20 UTC] (56252179) refactor: split large component into smaller parts
 [2026-09-09 12:24:20 UTC] (2bd02c6c) refactor: clean up legacy code
+[2026-09-09 12:56:02 UTC] (e0589cf5) perf: reduce animation repaints
