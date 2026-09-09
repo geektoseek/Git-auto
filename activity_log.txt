@@ -2412,3 +2412,4 @@
 [2026-09-09 13:08:16 UTC] (6d9d1b63) chore: update CI pipeline notes
 [2026-09-09 13:08:16 UTC] (f1a66048) feat: add responsive layout improvements
 [2026-09-09 13:49:49 UTC] (b5aa8a46) fix: fix image aspect ratio on Safari
+[2026-09-09 13:49:49 UTC] (9596bdfc) perf: lazy load below-fold sections
