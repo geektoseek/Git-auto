@@ -2409,3 +2409,4 @@
 [2026-09-09 12:56:02 UTC] (e0589cf5) perf: reduce animation repaints
 [2026-09-09 12:56:02 UTC] (9ab9ffd2) docs: clarify installation instructions
 [2026-09-09 12:56:02 UTC] (479f2479) chore: update .gitignore entries
+[2026-09-09 13:08:16 UTC] (6d9d1b63) chore: update CI pipeline notes
