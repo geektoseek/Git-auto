@@ -2381,3 +2381,4 @@
 [2026-09-09 00:16:45 UTC] (10153821) feat: add new section styles
 [2026-09-09 00:16:45 UTC] (36c67915) chore: remove unused imports
 [2026-09-09 00:16:45 UTC] (f4f9a867) docs: add usage examples
+[2026-09-09 01:04:43 UTC] (19df63d8) fix: fix image aspect ratio on Safari
