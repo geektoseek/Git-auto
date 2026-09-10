@@ -2428,3 +2428,4 @@
 [2026-09-10 07:31:13 UTC] (c5f78254) docs: clarify installation instructions
 [2026-09-10 07:31:13 UTC] (7743d833) perf: optimize image loading strategy
 [2026-09-10 08:11:27 UTC] (db92cdca) feat: implement dynamic content loading
+[2026-09-10 08:11:27 UTC] (4bda9d09) style: clean up unused class names
