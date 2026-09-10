@@ -2435,3 +2435,4 @@
 [2026-09-10 09:11:20 UTC] (9f5a6225) feat: add hover animation effects
 [2026-09-10 09:11:20 UTC] (f10ac5b6) perf: compress background assets
 [2026-09-10 09:11:20 UTC] (60b7af2b) style: clean up trailing whitespace
+[2026-09-10 09:58:36 UTC] (8999aa52) chore: add editor config settings
