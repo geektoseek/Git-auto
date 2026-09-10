@@ -2431,3 +2431,4 @@
 [2026-09-10 08:11:27 UTC] (4bda9d09) style: clean up unused class names
 [2026-09-10 08:53:43 UTC] (fa79d112) feat: add hover animation effects
 [2026-09-10 08:53:43 UTC] (3222a540) fix: fix font loading fallback
+[2026-09-10 08:53:43 UTC] (6d13afac) chore: update CI pipeline notes
