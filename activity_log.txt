@@ -2454,3 +2454,4 @@
 [2026-09-11 07:00:52 UTC] (bb0f928f) chore: refresh environment config
 [2026-09-11 07:00:52 UTC] (5371cfe3) feat: improve mobile navigation flow
 [2026-09-11 07:29:08 UTC] (35a547a3) chore: reorganize folder structure
+[2026-09-11 07:29:08 UTC] (0f8a3bc2) fix: fix transition timing mismatch
