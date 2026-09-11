@@ -2448,3 +2448,4 @@
 [2026-09-11 05:17:34 UTC] (4b55e18b) style: apply consistent naming convention
 [2026-09-11 05:17:34 UTC] (2e9a0768) docs: update contact information
 [2026-09-11 06:04:39 UTC] (42465ecb) docs: clarify installation instructions
+[2026-09-11 06:04:39 UTC] (2829c984) chore: add editor config settings
