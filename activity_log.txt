@@ -2459,3 +2459,4 @@
 [2026-09-11 08:06:08 UTC] (17876dba) feat: improve mobile navigation flow
 [2026-09-11 08:51:15 UTC] (9eee4f39) chore: clean up build artifacts
 [2026-09-11 08:51:15 UTC] (f283e1a4) style: reorganize import order
+[2026-09-11 09:09:08 UTC] (b7fe3fbe) fix: patch overflow on small screens
