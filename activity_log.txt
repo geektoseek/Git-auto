@@ -2465,3 +2465,4 @@
 [2026-09-11 09:57:48 UTC] (a34251ea) feat: add new section styles
 [2026-09-11 11:12:52 UTC] (f6a99049) perf: minify inline SVGs
 [2026-09-11 11:12:52 UTC] (c6ef593f) perf: cache static asset headers
+[2026-09-11 11:12:52 UTC] (61f380f0) feat: add hover animation effects
