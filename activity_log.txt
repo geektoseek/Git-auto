@@ -2468,3 +2468,4 @@
 [2026-09-11 11:12:52 UTC] (61f380f0) feat: add hover animation effects
 [2026-09-11 12:00:08 UTC] (7d03a3c4) chore: add editor config settings
 [2026-09-11 12:00:08 UTC] (cf4b8128) feat: add smooth scroll behavior
+[2026-09-11 12:16:16 UTC] (86ddb578) style: clean up unused class names
