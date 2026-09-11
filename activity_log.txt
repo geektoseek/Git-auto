@@ -2471,3 +2471,4 @@
 [2026-09-11 12:16:16 UTC] (86ddb578) style: clean up unused class names
 [2026-09-11 12:16:16 UTC] (e07af68c) docs: update README with setup steps
 [2026-09-11 12:16:16 UTC] (fdf6b1be) docs: improve changelog entries
+[2026-09-11 12:47:24 UTC] (36936b4c) style: improve code readability
