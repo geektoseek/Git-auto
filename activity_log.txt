@@ -2452,3 +2452,4 @@
 [2026-09-11 06:04:39 UTC] (802b71a3) docs: update README with setup steps
 [2026-09-11 07:00:52 UTC] (b89cf8ab) fix: fix image aspect ratio on Safari
 [2026-09-11 07:00:52 UTC] (bb0f928f) chore: refresh environment config
+[2026-09-11 07:00:52 UTC] (5371cfe3) feat: improve mobile navigation flow
