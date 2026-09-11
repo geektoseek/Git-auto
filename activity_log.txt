@@ -2472,3 +2472,4 @@
 [2026-09-11 12:16:16 UTC] (e07af68c) docs: update README with setup steps
 [2026-09-11 12:16:16 UTC] (fdf6b1be) docs: improve changelog entries
 [2026-09-11 12:47:24 UTC] (36936b4c) style: improve code readability
+[2026-09-11 13:00:00 UTC] (7701e7e2) style: adjust line breaks in components
