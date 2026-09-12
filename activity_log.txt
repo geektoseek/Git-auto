@@ -2490,3 +2490,4 @@
 [2026-09-12 07:21:11 UTC] (89d16669) refactor: simplify component logic
 [2026-09-12 07:21:11 UTC] (2557d98c) chore: clean up build artifacts
 [2026-09-12 07:57:41 UTC] (2eb5c6f4) chore: add editor config settings
+[2026-09-12 07:57:41 UTC] (fb7a42f9) fix: patch scroll position reset
