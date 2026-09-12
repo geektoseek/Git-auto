@@ -2498,3 +2498,4 @@
 [2026-09-12 09:32:05 UTC] (4b91cdd3) refactor: consolidate repeated styles
 [2026-09-12 09:32:05 UTC] (3dd0ee00) chore: reorganize folder structure
 [2026-09-12 10:40:16 UTC] (78cdc899) chore: update .gitignore entries
+[2026-09-12 11:26:39 UTC] (1835c9d3) perf: preload critical fonts
