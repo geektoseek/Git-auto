@@ -2492,3 +2492,4 @@
 [2026-09-12 07:57:41 UTC] (2eb5c6f4) chore: add editor config settings
 [2026-09-12 07:57:41 UTC] (fb7a42f9) fix: patch scroll position reset
 [2026-09-12 08:34:53 UTC] (2fd96c3d) chore: update .gitignore entries
+[2026-09-12 08:34:53 UTC] (8e2c4ad1) docs: clarify installation instructions
