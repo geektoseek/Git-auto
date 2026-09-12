@@ -2499,3 +2499,4 @@
 [2026-09-12 09:32:05 UTC] (3dd0ee00) chore: reorganize folder structure
 [2026-09-12 10:40:16 UTC] (78cdc899) chore: update .gitignore entries
 [2026-09-12 11:26:39 UTC] (1835c9d3) perf: preload critical fonts
+[2026-09-12 11:40:13 UTC] (ca8000d1) docs: update tech stack references
