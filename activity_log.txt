@@ -2501,3 +2501,4 @@
 [2026-09-12 11:26:39 UTC] (1835c9d3) perf: preload critical fonts
 [2026-09-12 11:40:13 UTC] (ca8000d1) docs: update tech stack references
 [2026-09-12 11:40:13 UTC] (93242b05) fix: correct z-index layering issue
+[2026-09-12 11:40:13 UTC] (6e17be61) chore: reorganize folder structure
