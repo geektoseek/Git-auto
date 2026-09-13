@@ -2513,3 +2513,4 @@
 [2026-09-13 05:23:20 UTC] (7a9582db) feat: improve hero section visuals
 [2026-09-13 06:15:47 UTC] (e6035563) perf: optimize image loading strategy
 [2026-09-13 07:11:08 UTC] (867877d5) feat: add footer link updates
+[2026-09-13 07:39:43 UTC] (b317e933) fix: patch overflow on small screens
