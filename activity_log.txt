@@ -2510,3 +2510,4 @@
 [2026-09-13 00:39:31 UTC] (fe56bcf0) perf: cache static asset headers
 [2026-09-13 04:36:01 UTC] (5ec58674) refactor: optimize asset references
 [2026-09-13 04:36:01 UTC] (3fc64593) fix: patch scroll position reset
+[2026-09-13 05:23:20 UTC] (7a9582db) feat: improve hero section visuals
