@@ -2535,3 +2535,4 @@
 [2026-09-13 13:16:43 UTC] (50c9cedf) fix: resolve CSS specificity conflict
 [2026-09-13 13:16:43 UTC] (c0ee576f) style: reorganize import order
 [2026-09-13 13:16:43 UTC] (817c3720) docs: add inline code comments
+[2026-09-13 13:27:25 UTC] (5ca6413a) style: clean up unused class names
