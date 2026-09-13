@@ -2504,3 +2504,4 @@
 [2026-09-12 11:40:13 UTC] (6e17be61) chore: reorganize folder structure
 [2026-09-12 12:07:47 UTC] (78b784a5) style: apply consistent naming convention
 [2026-09-13 00:00:51 UTC] (4b908517) fix: resolve CSS specificity conflict
+[2026-09-13 00:00:51 UTC] (c9153815) docs: improve changelog entries
