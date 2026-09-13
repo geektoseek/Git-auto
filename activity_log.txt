@@ -2533,3 +2533,4 @@
 [2026-09-13 12:47:17 UTC] (4e095e3f) refactor: restructure section layout
 [2026-09-13 12:47:17 UTC] (edbe752e) docs: improve changelog entries
 [2026-09-13 13:16:43 UTC] (50c9cedf) fix: resolve CSS specificity conflict
+[2026-09-13 13:16:43 UTC] (c0ee576f) style: reorganize import order
