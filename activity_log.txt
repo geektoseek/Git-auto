@@ -2525,3 +2525,4 @@
 [2026-09-13 10:32:35 UTC] (13288d9b) feat: add hover animation effects
 [2026-09-13 10:32:35 UTC] (e8d3ad8a) refactor: optimize asset references
 [2026-09-13 11:43:53 UTC] (30949915) refactor: optimize asset references
+[2026-09-13 11:43:53 UTC] (ea8df4da) feat: add footer link updates
