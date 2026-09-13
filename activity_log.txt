@@ -2531,3 +2531,4 @@
 [2026-09-13 12:30:57 UTC] (3344b9d5) docs: update deployment notes
 [2026-09-13 12:47:16 UTC] (df13541d) fix: resolve button hover state bug
 [2026-09-13 12:47:17 UTC] (4e095e3f) refactor: restructure section layout
+[2026-09-13 12:47:17 UTC] (edbe752e) docs: improve changelog entries
