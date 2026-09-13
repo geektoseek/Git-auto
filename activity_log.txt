@@ -2528,3 +2528,4 @@
 [2026-09-13 11:43:53 UTC] (ea8df4da) feat: add footer link updates
 [2026-09-13 11:43:53 UTC] (5ae72577) docs: clarify installation instructions
 [2026-09-13 12:30:57 UTC] (5d1e3dce) feat: improve mobile navigation flow
+[2026-09-13 12:30:57 UTC] (3344b9d5) docs: update deployment notes
