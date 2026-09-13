@@ -2519,3 +2519,4 @@
 [2026-09-13 08:21:46 UTC] (1f5dfd20) fix: fix image aspect ratio on Safari
 [2026-09-13 09:25:31 UTC] (0ccfbf90) style: reformat CSS variables section
 [2026-09-13 09:25:31 UTC] (05dcab18) style: clean up unused class names
+[2026-09-13 09:25:31 UTC] (74be60fe) style: apply consistent naming convention
