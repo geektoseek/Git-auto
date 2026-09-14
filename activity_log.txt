@@ -2556,3 +2556,4 @@
 [2026-09-14 08:07:08 UTC] (f8a68cc5) style: reorganize import order
 [2026-09-14 08:07:08 UTC] (5963a849) perf: improve scroll event throttling
 [2026-09-14 08:59:48 UTC] (b203d572) style: improve code readability
+[2026-09-14 08:59:48 UTC] (0247cfb5) refactor: restructure section layout
