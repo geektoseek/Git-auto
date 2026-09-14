@@ -2549,3 +2549,4 @@
 [2026-09-14 06:23:22 UTC] (f2657100) chore: update dependencies
 [2026-09-14 06:23:22 UTC] (4f97e477) perf: minify inline SVGs
 [2026-09-14 06:23:22 UTC] (b2b1ac8a) chore: sync lockfile
+[2026-09-14 07:34:53 UTC] (6ca96b27) perf: optimize image loading strategy
