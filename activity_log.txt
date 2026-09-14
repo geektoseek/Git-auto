@@ -2551,3 +2551,4 @@
 [2026-09-14 06:23:22 UTC] (b2b1ac8a) chore: sync lockfile
 [2026-09-14 07:34:53 UTC] (6ca96b27) perf: optimize image loading strategy
 [2026-09-14 07:34:53 UTC] (0c76faec) feat: add new section styles
+[2026-09-14 07:34:53 UTC] (4fb14d82) fix: resolve alignment issue on mobile
