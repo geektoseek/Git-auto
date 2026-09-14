@@ -2540,3 +2540,4 @@
 [2026-09-13 13:51:26 UTC] (02f0b0b6) refactor: restructure section layout
 [2026-09-14 00:13:19 UTC] (f3ce2840) refactor: extract reusable utility
 [2026-09-14 00:13:19 UTC] (cbfb44c6) fix: correct z-index layering issue
+[2026-09-14 00:13:19 UTC] (14b3a1d9) docs: update README with setup steps
