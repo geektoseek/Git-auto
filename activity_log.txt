@@ -2561,3 +2561,4 @@
 [2026-09-14 10:07:43 UTC] (33bec45e) fix: patch scroll position reset
 [2026-09-14 10:07:43 UTC] (7a88c9e9) refactor: consolidate repeated styles
 [2026-09-14 10:55:28 UTC] (20dc3637) refactor: improve variable naming
+[2026-09-14 10:55:28 UTC] (0b6adf51) chore: update CI pipeline notes
