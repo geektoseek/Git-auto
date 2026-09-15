@@ -2584,3 +2584,4 @@
 [2026-09-15 09:21:16 UTC] (bca0f17d) refactor: extract reusable utility
 [2026-09-15 09:21:16 UTC] (c9aad30c) style: clean up trailing whitespace
 [2026-09-15 09:21:16 UTC] (d9dfb61f) style: format code with consistent spacing
+[2026-09-15 09:36:07 UTC] (4bfad62e) docs: add usage examples
