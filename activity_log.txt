@@ -2593,3 +2593,4 @@
 [2026-09-15 12:26:00 UTC] (28564e25) feat: add new section styles
 [2026-09-15 12:45:47 UTC] (5f3619f5) style: reorganize import order
 [2026-09-15 13:28:11 UTC] (161893ea) docs: add usage examples
+[2026-09-15 13:28:11 UTC] (df28203d) refactor: clean up legacy code
