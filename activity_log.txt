@@ -2570,3 +2570,4 @@
 [2026-09-15 00:39:47 UTC] (02c809fe) refactor: clean up legacy code
 [2026-09-15 01:14:20 UTC] (16b73c41) docs: clarify installation instructions
 [2026-09-15 01:14:20 UTC] (dec398df) perf: lazy load below-fold sections
+[2026-09-15 04:43:09 UTC] (5dc13bb1) docs: add project structure notes
