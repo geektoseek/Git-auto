@@ -2579,3 +2579,4 @@
 [2026-09-15 08:01:56 UTC] (6dfb9e37) feat: add responsive layout improvements
 [2026-09-15 08:01:56 UTC] (7408b89f) chore: add editor config settings
 [2026-09-15 08:44:01 UTC] (f56251c0) fix: resolve CSS specificity conflict
+[2026-09-15 08:44:01 UTC] (efcf6ed9) style: normalize quote style
