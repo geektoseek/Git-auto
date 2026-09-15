@@ -2576,3 +2576,4 @@
 [2026-09-15 07:12:55 UTC] (45f6eee9) fix: patch overflow on small screens
 [2026-09-15 07:12:55 UTC] (1964575e) chore: bump package version
 [2026-09-15 08:01:56 UTC] (6e57168b) feat: add hover animation effects
+[2026-09-15 08:01:56 UTC] (6dfb9e37) feat: add responsive layout improvements
