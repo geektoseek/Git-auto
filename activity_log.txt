@@ -2591,3 +2591,4 @@
 [2026-09-15 11:38:06 UTC] (a8f25027) chore: sync lockfile
 [2026-09-15 11:38:06 UTC] (d1e73508) refactor: optimize asset references
 [2026-09-15 12:26:00 UTC] (28564e25) feat: add new section styles
+[2026-09-15 12:45:47 UTC] (5f3619f5) style: reorganize import order
