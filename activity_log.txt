@@ -2573,3 +2573,4 @@
 [2026-09-15 04:43:09 UTC] (5dc13bb1) docs: add project structure notes
 [2026-09-15 05:24:45 UTC] (ce06deae) perf: optimize image loading strategy
 [2026-09-15 06:11:47 UTC] (09c508b1) fix: correct z-index layering issue
+[2026-09-15 07:12:55 UTC] (45f6eee9) fix: patch overflow on small screens
