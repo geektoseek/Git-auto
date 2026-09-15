@@ -2586,3 +2586,4 @@
 [2026-09-15 09:21:16 UTC] (d9dfb61f) style: format code with consistent spacing
 [2026-09-15 09:36:07 UTC] (4bfad62e) docs: add usage examples
 [2026-09-15 09:36:07 UTC] (090301d8) style: format code with consistent spacing
+[2026-09-15 10:21:08 UTC] (b672d988) refactor: reduce component nesting
