@@ -2582,3 +2582,4 @@
 [2026-09-15 08:44:01 UTC] (efcf6ed9) style: normalize quote style
 [2026-09-15 08:44:01 UTC] (853af620) docs: update deployment notes
 [2026-09-15 09:21:16 UTC] (bca0f17d) refactor: extract reusable utility
+[2026-09-15 09:21:16 UTC] (c9aad30c) style: clean up trailing whitespace
