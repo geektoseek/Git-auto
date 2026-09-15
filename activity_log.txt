@@ -2567,3 +2567,4 @@
 [2026-09-14 13:35:59 UTC] (712a66d8) chore: update CI pipeline notes
 [2026-09-14 13:35:59 UTC] (39ea7e60) docs: update deployment notes
 [2026-09-14 13:35:59 UTC] (6803fe86) refactor: split large component into smaller parts
+[2026-09-15 00:39:47 UTC] (02c809fe) refactor: clean up legacy code
