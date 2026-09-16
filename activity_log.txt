@@ -2625,3 +2625,4 @@
 [2026-09-16 12:40:48 UTC] (84c05c69) feat: enhance card component design
 [2026-09-16 12:40:48 UTC] (b4738335) chore: reorganize folder structure
 [2026-09-16 12:40:48 UTC] (8bf84a3c) chore: update .gitignore entries
+[2026-09-16 13:27:01 UTC] (7618aa77) fix: resolve CSS specificity conflict
