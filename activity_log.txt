@@ -2619,3 +2619,4 @@
 [2026-09-16 10:14:27 UTC] (98563200) perf: compress background assets
 [2026-09-16 10:14:27 UTC] (80a70fad) perf: reduce bundle size
 [2026-09-16 11:25:33 UTC] (78e600df) style: reorganize import order
+[2026-09-16 11:25:33 UTC] (d43ee54e) docs: improve changelog entries
