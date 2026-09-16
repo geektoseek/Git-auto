@@ -2615,3 +2615,4 @@
 [2026-09-16 09:14:12 UTC] (d7270ef5) style: improve code readability
 [2026-09-16 09:14:12 UTC] (07c2e4d2) fix: fix image aspect ratio on Safari
 [2026-09-16 09:31:20 UTC] (952b2c38) refactor: clean up legacy code
+[2026-09-16 09:31:20 UTC] (5fa288ef) feat: add new section styles
