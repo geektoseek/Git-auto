@@ -2621,3 +2621,4 @@
 [2026-09-16 11:25:33 UTC] (78e600df) style: reorganize import order
 [2026-09-16 11:25:33 UTC] (d43ee54e) docs: improve changelog entries
 [2026-09-16 11:25:33 UTC] (482c0894) style: improve code readability
+[2026-09-16 12:23:50 UTC] (8fc39d5c) refactor: restructure section layout
