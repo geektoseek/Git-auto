@@ -2607,3 +2607,4 @@
 [2026-09-16 06:06:39 UTC] (21ab4059) fix: patch scroll position reset
 [2026-09-16 06:06:39 UTC] (a36e4d7d) chore: sync lockfile
 [2026-09-16 07:15:50 UTC] (37785354) chore: sync lockfile
+[2026-09-16 07:15:50 UTC] (41f7bcd3) style: adjust line breaks in components
