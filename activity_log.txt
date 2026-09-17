@@ -2650,3 +2650,4 @@
 [2026-09-17 10:19:52 UTC] (df8d392d) style: normalize quote style
 [2026-09-17 11:34:41 UTC] (49bbdbeb) feat: add smooth scroll behavior
 [2026-09-17 11:34:41 UTC] (5de3193a) chore: reorganize folder structure
+[2026-09-17 11:34:42 UTC] (ec1a067d) perf: minify inline SVGs
