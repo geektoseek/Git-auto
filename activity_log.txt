@@ -2651,3 +2651,4 @@
 [2026-09-17 11:34:41 UTC] (49bbdbeb) feat: add smooth scroll behavior
 [2026-09-17 11:34:41 UTC] (5de3193a) chore: reorganize folder structure
 [2026-09-17 11:34:42 UTC] (ec1a067d) perf: minify inline SVGs
+[2026-09-17 12:23:34 UTC] (784c570d) fix: correct z-index layering issue
