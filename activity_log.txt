@@ -2648,3 +2648,4 @@
 [2026-09-17 09:39:29 UTC] (60e174db) perf: optimize image loading strategy
 [2026-09-17 10:19:52 UTC] (2b31faa5) feat: add hover animation effects
 [2026-09-17 10:19:52 UTC] (df8d392d) style: normalize quote style
+[2026-09-17 11:34:41 UTC] (49bbdbeb) feat: add smooth scroll behavior
