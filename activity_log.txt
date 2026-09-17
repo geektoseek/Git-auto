@@ -2641,3 +2641,4 @@
 [2026-09-17 07:11:06 UTC] (2d84866f) fix: patch scroll position reset
 [2026-09-17 07:59:07 UTC] (58bf59d4) fix: fix font loading fallback
 [2026-09-17 08:42:30 UTC] (cf25b169) fix: fix image aspect ratio on Safari
+[2026-09-17 09:22:35 UTC] (2206f755) style: clean up unused class names
