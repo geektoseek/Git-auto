@@ -2634,3 +2634,4 @@
 [2026-09-17 01:07:41 UTC] (04e4c5e7) refactor: clean up legacy code
 [2026-09-17 04:42:46 UTC] (ad5ea6b4) style: reformat CSS variables section
 [2026-09-17 04:42:46 UTC] (76f0af4d) chore: refresh environment config
+[2026-09-17 04:42:46 UTC] (aac8b6fc) chore: update CI pipeline notes
