@@ -2639,3 +2639,4 @@
 [2026-09-17 05:26:52 UTC] (acd38ccb) refactor: consolidate repeated styles
 [2026-09-17 06:10:48 UTC] (a2e80cb2) feat: improve mobile navigation flow
 [2026-09-17 07:11:06 UTC] (2d84866f) fix: patch scroll position reset
+[2026-09-17 07:59:07 UTC] (58bf59d4) fix: fix font loading fallback
