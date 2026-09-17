@@ -2643,3 +2643,4 @@
 [2026-09-17 08:42:30 UTC] (cf25b169) fix: fix image aspect ratio on Safari
 [2026-09-17 09:22:35 UTC] (2206f755) style: clean up unused class names
 [2026-09-17 09:22:35 UTC] (60213f23) refactor: extract reusable utility
+[2026-09-17 09:22:35 UTC] (e6266ae7) chore: remove unused imports
