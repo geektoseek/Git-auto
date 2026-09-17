@@ -2657,3 +2657,4 @@
 [2026-09-17 12:39:42 UTC] (747919de) perf: preload critical fonts
 [2026-09-17 12:39:42 UTC] (ca2284fd) refactor: reduce component nesting
 [2026-09-17 13:22:57 UTC] (9cb5e999) feat: add new section styles
+[2026-09-17 13:22:57 UTC] (94dda404) feat: add smooth scroll behavior
