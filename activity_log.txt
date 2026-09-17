@@ -2628,3 +2628,4 @@
 [2026-09-16 13:27:01 UTC] (7618aa77) fix: resolve CSS specificity conflict
 [2026-09-16 13:43:14 UTC] (a58fe9dc) chore: bump package version
 [2026-09-17 00:33:47 UTC] (1b0ff93a) refactor: split large component into smaller parts
+[2026-09-17 00:33:47 UTC] (c706aaec) feat: improve mobile navigation flow
