@@ -2655,3 +2655,4 @@
 [2026-09-17 12:23:34 UTC] (9de2d6e2) style: align table formatting in docs
 [2026-09-17 12:39:42 UTC] (9fb3cbd7) docs: improve changelog entries
 [2026-09-17 12:39:42 UTC] (747919de) perf: preload critical fonts
+[2026-09-17 12:39:42 UTC] (ca2284fd) refactor: reduce component nesting
