@@ -2630,3 +2630,4 @@
 [2026-09-17 00:33:47 UTC] (1b0ff93a) refactor: split large component into smaller parts
 [2026-09-17 00:33:47 UTC] (c706aaec) feat: improve mobile navigation flow
 [2026-09-17 01:07:41 UTC] (ebb6846e) style: align table formatting in docs
+[2026-09-17 01:07:41 UTC] (08d6a393) chore: update .gitignore entries
