@@ -2687,3 +2687,4 @@
 [2026-09-18 12:02:54 UTC] (ad926418) chore: update .gitignore entries
 [2026-09-18 12:02:54 UTC] (e4b41988) refactor: consolidate repeated styles
 [2026-09-18 12:17:42 UTC] (f9a94da2) fix: fix image aspect ratio on Safari
+[2026-09-18 12:17:42 UTC] (37fd4f97) perf: cache static asset headers
