@@ -2663,3 +2663,4 @@
 [2026-09-17 14:24:03 UTC] (3736060b) chore: update dependencies
 [2026-09-17 14:24:03 UTC] (7178e5ee) feat: add responsive layout improvements
 [2026-09-18 00:21:28 UTC] (e366a209) fix: resolve alignment issue on mobile
+[2026-09-18 01:05:22 UTC] (b54ee412) refactor: reduce component nesting
