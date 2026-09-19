@@ -2712,3 +2712,4 @@
 [2026-09-19 08:59:08 UTC] (9b53cfa6) docs: improve changelog entries
 [2026-09-19 09:41:12 UTC] (34b1f657) perf: minify inline SVGs
 [2026-09-19 10:51:57 UTC] (20bc7994) feat: add hover animation effects
+[2026-09-19 10:51:57 UTC] (4518d511) feat: improve mobile navigation flow
