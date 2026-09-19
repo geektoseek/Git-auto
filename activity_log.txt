@@ -2691,3 +2691,4 @@
 [2026-09-18 12:17:42 UTC] (f3d096e4) style: improve code readability
 [2026-09-19 00:22:24 UTC] (b73c1d40) perf: lazy load below-fold sections
 [2026-09-19 01:00:27 UTC] (0791c83e) feat: improve hero section visuals
+[2026-09-19 01:00:27 UTC] (e3d6f0c9) refactor: consolidate repeated styles
