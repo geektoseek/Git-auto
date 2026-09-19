@@ -2704,3 +2704,4 @@
 [2026-09-19 07:32:43 UTC] (4bd7f05c) chore: update .gitignore entries
 [2026-09-19 07:32:43 UTC] (67a788fa) chore: update CI pipeline notes
 [2026-09-19 07:32:43 UTC] (b0f6ad8e) perf: preload critical fonts
+[2026-09-19 08:06:12 UTC] (cef12976) feat: add smooth scroll behavior
