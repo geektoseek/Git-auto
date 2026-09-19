@@ -2710,3 +2710,4 @@
 [2026-09-19 08:44:41 UTC] (82c7f822) style: clean up trailing whitespace
 [2026-09-19 08:59:08 UTC] (51dba5e4) fix: correct z-index layering issue
 [2026-09-19 08:59:08 UTC] (9b53cfa6) docs: improve changelog entries
+[2026-09-19 09:41:12 UTC] (34b1f657) perf: minify inline SVGs
