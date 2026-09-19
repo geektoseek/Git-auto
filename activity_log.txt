@@ -2697,3 +2697,4 @@
 [2026-09-19 04:26:23 UTC] (9ad4e518) style: clean up trailing whitespace
 [2026-09-19 04:26:23 UTC] (1d8ac17e) docs: add project structure notes
 [2026-09-19 05:06:46 UTC] (144840d0) refactor: reduce component nesting
+[2026-09-19 05:57:55 UTC] (db5ddf93) perf: lazy load below-fold sections
