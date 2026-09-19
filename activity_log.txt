@@ -2700,3 +2700,4 @@
 [2026-09-19 05:57:55 UTC] (db5ddf93) perf: lazy load below-fold sections
 [2026-09-19 07:02:46 UTC] (2bec3d4d) fix: fix image aspect ratio on Safari
 [2026-09-19 07:02:46 UTC] (31db91b4) docs: add project structure notes
+[2026-09-19 07:02:46 UTC] (231f9431) style: align table formatting in docs
