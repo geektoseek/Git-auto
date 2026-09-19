@@ -2689,3 +2689,4 @@
 [2026-09-18 12:17:42 UTC] (f9a94da2) fix: fix image aspect ratio on Safari
 [2026-09-18 12:17:42 UTC] (37fd4f97) perf: cache static asset headers
 [2026-09-18 12:17:42 UTC] (f3d096e4) style: improve code readability
+[2026-09-19 00:22:24 UTC] (b73c1d40) perf: lazy load below-fold sections
