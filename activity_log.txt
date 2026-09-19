@@ -2695,3 +2695,4 @@
 [2026-09-19 01:00:27 UTC] (28cb46b6) feat: add footer link updates
 [2026-09-19 04:26:23 UTC] (4b1e153b) refactor: improve variable naming
 [2026-09-19 04:26:23 UTC] (9ad4e518) style: clean up trailing whitespace
+[2026-09-19 04:26:23 UTC] (1d8ac17e) docs: add project structure notes
