@@ -2701,3 +2701,4 @@
 [2026-09-19 07:02:46 UTC] (2bec3d4d) fix: fix image aspect ratio on Safari
 [2026-09-19 07:02:46 UTC] (31db91b4) docs: add project structure notes
 [2026-09-19 07:02:46 UTC] (231f9431) style: align table formatting in docs
+[2026-09-19 07:32:43 UTC] (4bd7f05c) chore: update .gitignore entries
