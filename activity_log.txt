@@ -2724,3 +2724,4 @@
 [2026-09-20 06:22:16 UTC] (3e9ef80f) refactor: reduce component nesting
 [2026-09-20 06:22:16 UTC] (f7bd576b) style: reorganize import order
 [2026-09-20 07:27:51 UTC] (28c3b961) refactor: improve variable naming
+[2026-09-20 07:27:51 UTC] (a04d341c) refactor: optimize asset references
