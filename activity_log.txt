@@ -2727,3 +2727,4 @@
 [2026-09-20 07:27:51 UTC] (a04d341c) refactor: optimize asset references
 [2026-09-20 07:27:51 UTC] (327ad0f1) feat: add responsive layout improvements
 [2026-09-20 07:55:40 UTC] (3c46c49d) style: align table formatting in docs
+[2026-09-20 07:55:40 UTC] (eecce97f) feat: improve hero section visuals
