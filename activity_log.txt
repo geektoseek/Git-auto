@@ -2733,3 +2733,4 @@
 [2026-09-20 09:13:36 UTC] (5af70209) perf: reduce animation repaints
 [2026-09-20 09:13:36 UTC] (76d78557) refactor: reduce component nesting
 [2026-09-20 09:27:34 UTC] (43962c79) docs: update deployment notes
+[2026-09-20 09:27:34 UTC] (2f61d675) style: clean up unused class names
