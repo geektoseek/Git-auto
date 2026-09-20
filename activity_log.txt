@@ -2717,3 +2717,4 @@
 [2026-09-20 00:09:11 UTC] (a35f9821) docs: update tech stack references
 [2026-09-20 00:09:11 UTC] (7c48c8ae) docs: improve changelog entries
 [2026-09-20 00:09:11 UTC] (515e6a69) chore: sync lockfile
+[2026-09-20 00:45:53 UTC] (c2405dca) chore: update .gitignore entries
