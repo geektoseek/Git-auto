@@ -2728,3 +2728,4 @@
 [2026-09-20 07:27:51 UTC] (327ad0f1) feat: add responsive layout improvements
 [2026-09-20 07:55:40 UTC] (3c46c49d) style: align table formatting in docs
 [2026-09-20 07:55:40 UTC] (eecce97f) feat: improve hero section visuals
+[2026-09-20 07:55:40 UTC] (ceda8679) fix: correct z-index layering issue
