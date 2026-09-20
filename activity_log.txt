@@ -2720,3 +2720,4 @@
 [2026-09-20 00:45:53 UTC] (c2405dca) chore: update .gitignore entries
 [2026-09-20 04:43:43 UTC] (9f8827de) perf: lazy load below-fold sections
 [2026-09-20 05:25:59 UTC] (94414b9a) style: improve code readability
+[2026-09-20 05:25:59 UTC] (258a1bb8) feat: add smooth scroll behavior
