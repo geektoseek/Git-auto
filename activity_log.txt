@@ -2755,3 +2755,4 @@
 [2026-09-21 05:31:17 UTC] (745d50ed) chore: add editor config settings
 [2026-09-21 05:31:17 UTC] (8b6231c0) docs: improve changelog entries
 [2026-09-21 06:27:04 UTC] (996d6f45) chore: sync lockfile
+[2026-09-21 06:27:04 UTC] (f81ecd19) feat: improve hero section visuals
