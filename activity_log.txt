@@ -2743,3 +2743,4 @@
 [2026-09-20 11:59:45 UTC] (0fb52bb3) fix: correct z-index layering issue
 [2026-09-20 11:59:45 UTC] (2fa5f0c2) fix: correct z-index layering issue
 [2026-09-20 12:31:39 UTC] (431755f4) chore: bump package version
+[2026-09-21 00:17:25 UTC] (930cec41) refactor: improve variable naming
