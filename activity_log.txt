@@ -2745,3 +2745,4 @@
 [2026-09-20 12:31:39 UTC] (431755f4) chore: bump package version
 [2026-09-21 00:17:25 UTC] (930cec41) refactor: improve variable naming
 [2026-09-21 00:17:25 UTC] (0c5218c5) refactor: move constants to config file
+[2026-09-21 00:17:25 UTC] (1b644d29) refactor: move constants to config file
