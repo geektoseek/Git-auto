@@ -2767,3 +2767,4 @@
 [2026-09-21 10:12:50 UTC] (2a2742c0) chore: remove unused imports
 [2026-09-21 11:00:23 UTC] (65c3a631) perf: minify inline SVGs
 [2026-09-21 11:00:23 UTC] (bc2cacaa) feat: add responsive layout improvements
+[2026-09-21 11:00:23 UTC] (57f197c3) perf: optimize image loading strategy
