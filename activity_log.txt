@@ -2760,3 +2760,4 @@
 [2026-09-21 07:38:35 UTC] (4d9aa0a0) chore: update .gitignore entries
 [2026-09-21 08:12:58 UTC] (8af48e4f) perf: defer non-critical scripts
 [2026-09-21 08:12:58 UTC] (63811ecb) fix: resolve CSS specificity conflict
+[2026-09-21 08:12:58 UTC] (e4a5f9bf) fix: fix font loading fallback
