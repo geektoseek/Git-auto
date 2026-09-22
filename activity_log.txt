@@ -2773,3 +2773,4 @@
 [2026-09-22 00:15:12 UTC] (40ce85b2) docs: improve changelog entries
 [2026-09-22 00:51:41 UTC] (dd54ee7d) perf: minify inline SVGs
 [2026-09-22 00:51:41 UTC] (acdcb5c4) fix: patch scroll position reset
+[2026-09-22 00:51:41 UTC] (4a977abf) style: apply consistent naming convention
