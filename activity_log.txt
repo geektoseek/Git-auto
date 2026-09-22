@@ -2794,3 +2794,4 @@
 [2026-09-22 09:28:53 UTC] (0003b67d) perf: optimize image loading strategy
 [2026-09-22 09:28:53 UTC] (79fa0ecb) feat: add smooth scroll behavior
 [2026-09-22 10:14:37 UTC] (2ef0dca8) fix: correct broken link in navigation
+[2026-09-22 10:14:37 UTC] (cfe3b1c6) chore: update dependencies
