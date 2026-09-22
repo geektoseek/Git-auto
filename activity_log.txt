@@ -2769,3 +2769,4 @@
 [2026-09-21 11:00:23 UTC] (bc2cacaa) feat: add responsive layout improvements
 [2026-09-21 11:00:23 UTC] (57f197c3) perf: optimize image loading strategy
 [2026-09-21 12:41:08 UTC] (79b65677) refactor: extract reusable utility
+[2026-09-22 00:15:12 UTC] (0e2102a3) docs: clarify installation instructions
