@@ -2786,3 +2786,4 @@
 [2026-09-22 07:57:19 UTC] (25e84aaa) docs: update README with setup steps
 [2026-09-22 07:57:19 UTC] (7db59bf0) style: align table formatting in docs
 [2026-09-22 07:57:19 UTC] (11d5da64) style: improve code readability
+[2026-09-22 08:35:50 UTC] (be04f857) refactor: extract reusable utility
