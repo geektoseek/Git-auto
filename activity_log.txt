@@ -2792,3 +2792,4 @@
 [2026-09-22 09:14:33 UTC] (ad1ba2ca) perf: preload critical fonts
 [2026-09-22 09:28:53 UTC] (cbd87de8) feat: improve hero section visuals
 [2026-09-22 09:28:53 UTC] (0003b67d) perf: optimize image loading strategy
+[2026-09-22 09:28:53 UTC] (79fa0ecb) feat: add smooth scroll behavior
