@@ -2778,3 +2778,4 @@
 [2026-09-22 01:28:30 UTC] (7714ea79) refactor: restructure section layout
 [2026-09-22 04:39:54 UTC] (066fe568) perf: minify inline SVGs
 [2026-09-22 05:24:30 UTC] (8c0f7828) perf: minify inline SVGs
+[2026-09-22 05:24:30 UTC] (64154315) perf: optimize image loading strategy
