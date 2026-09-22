@@ -2783,3 +2783,4 @@
 [2026-09-22 06:18:58 UTC] (19c10b61) docs: improve component documentation
 [2026-09-22 06:18:58 UTC] (ef7125ac) refactor: simplify component logic
 [2026-09-22 07:20:29 UTC] (0dbbb8bd) docs: update tech stack references
+[2026-09-22 07:57:19 UTC] (25e84aaa) docs: update README with setup steps
