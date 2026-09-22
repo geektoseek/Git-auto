@@ -2780,3 +2780,4 @@
 [2026-09-22 05:24:30 UTC] (8c0f7828) perf: minify inline SVGs
 [2026-09-22 05:24:30 UTC] (64154315) perf: optimize image loading strategy
 [2026-09-22 06:18:58 UTC] (186382fc) fix: fix image aspect ratio on Safari
+[2026-09-22 06:18:58 UTC] (19c10b61) docs: improve component documentation
