@@ -2796,3 +2796,4 @@
 [2026-09-22 10:14:37 UTC] (2ef0dca8) fix: correct broken link in navigation
 [2026-09-22 10:14:37 UTC] (cfe3b1c6) chore: update dependencies
 [2026-09-23 00:36:10 UTC] (da192877) chore: update .gitignore entries
+[2026-09-23 00:36:10 UTC] (7440dd10) style: apply consistent naming convention
