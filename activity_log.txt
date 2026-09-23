@@ -2811,3 +2811,4 @@
 [2026-09-23 07:21:56 UTC] (c9293863) perf: improve scroll event throttling
 [2026-09-23 07:21:56 UTC] (162d496a) perf: preload critical fonts
 [2026-09-23 07:58:43 UTC] (790cf54e) perf: reduce animation repaints
+[2026-09-23 07:58:43 UTC] (62e81329) feat: add smooth scroll behavior
