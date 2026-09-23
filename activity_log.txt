@@ -2814,3 +2814,4 @@
 [2026-09-23 07:58:43 UTC] (62e81329) feat: add smooth scroll behavior
 [2026-09-23 08:38:08 UTC] (34e6c22c) chore: bump package version
 [2026-09-23 08:38:08 UTC] (ef62a8a6) docs: improve component documentation
+[2026-09-23 09:14:41 UTC] (1ee12707) perf: compress background assets
