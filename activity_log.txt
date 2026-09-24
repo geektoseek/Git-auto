@@ -2827,3 +2827,4 @@
 [2026-09-24 01:11:25 UTC] (37d313a5) feat: add footer link updates
 [2026-09-24 04:33:15 UTC] (d5b3ed80) perf: reduce bundle size
 [2026-09-24 05:28:12 UTC] (d58f6b38) fix: patch scroll position reset
+[2026-09-24 05:28:12 UTC] (f26c0f84) fix: fix image aspect ratio on Safari
