@@ -2841,3 +2841,4 @@
 [2026-09-24 09:13:40 UTC] (da8f7b2a) perf: defer non-critical scripts
 [2026-09-24 09:13:40 UTC] (5ee72536) perf: defer non-critical scripts
 [2026-09-24 09:32:45 UTC] (019f374f) perf: preload critical fonts
+[2026-09-24 10:24:43 UTC] (0954a7be) docs: add project structure notes
