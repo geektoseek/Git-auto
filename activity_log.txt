@@ -2849,3 +2849,4 @@
 [2026-09-24 11:38:29 UTC] (f79442b1) perf: lazy load below-fold sections
 [2026-09-24 12:30:48 UTC] (d2d1e395) chore: update CI pipeline notes
 [2026-09-24 12:30:48 UTC] (67c184de) refactor: extract reusable utility
+[2026-09-24 12:47:39 UTC] (4bd5a88e) perf: preload critical fonts
