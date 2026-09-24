@@ -2830,3 +2830,4 @@
 [2026-09-24 05:28:12 UTC] (f26c0f84) fix: fix image aspect ratio on Safari
 [2026-09-24 06:13:07 UTC] (89e3a82d) style: format code with consistent spacing
 [2026-09-24 06:13:07 UTC] (0d5b888f) feat: enhance UI component structure
+[2026-09-24 06:13:07 UTC] (99d9c325) feat: improve hero section visuals
