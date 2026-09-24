@@ -2839,3 +2839,4 @@
 [2026-09-24 08:30:53 UTC] (dcfacd35) perf: reduce animation repaints
 [2026-09-24 09:13:40 UTC] (31600861) style: improve code readability
 [2026-09-24 09:13:40 UTC] (da8f7b2a) perf: defer non-critical scripts
+[2026-09-24 09:13:40 UTC] (5ee72536) perf: defer non-critical scripts
