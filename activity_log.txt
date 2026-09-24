@@ -2823,3 +2823,4 @@
 [2026-09-23 11:27:51 UTC] (1b66213c) perf: reduce animation repaints
 [2026-09-23 11:27:51 UTC] (9b10904e) chore: add editor config settings
 [2026-09-24 00:30:56 UTC] (e53d30e9) feat: add smooth scroll behavior
+[2026-09-24 00:30:56 UTC] (5bf8980e) fix: correct z-index layering issue
