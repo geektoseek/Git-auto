@@ -2832,3 +2832,4 @@
 [2026-09-24 06:13:07 UTC] (0d5b888f) feat: enhance UI component structure
 [2026-09-24 06:13:07 UTC] (99d9c325) feat: improve hero section visuals
 [2026-09-24 07:13:32 UTC] (eec37227) fix: resolve button hover state bug
+[2026-09-24 07:13:32 UTC] (f84d6b71) fix: fix image aspect ratio on Safari
