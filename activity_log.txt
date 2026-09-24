@@ -2852,3 +2852,4 @@
 [2026-09-24 12:47:39 UTC] (4bd5a88e) perf: preload critical fonts
 [2026-09-24 12:47:39 UTC] (0215095f) feat: improve mobile navigation flow
 [2026-09-24 13:30:32 UTC] (7cbb4119) docs: add usage examples
+[2026-09-24 13:30:32 UTC] (fd126cf4) perf: optimize image loading strategy
