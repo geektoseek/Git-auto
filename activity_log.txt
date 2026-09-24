@@ -2845,3 +2845,4 @@
 [2026-09-24 10:24:43 UTC] (51c8e928) refactor: move constants to config file
 [2026-09-24 10:24:43 UTC] (9429b820) refactor: move constants to config file
 [2026-09-24 11:38:29 UTC] (0e18bbfc) fix: fix image aspect ratio on Safari
+[2026-09-24 11:38:29 UTC] (5d8507d3) fix: resolve alignment issue on mobile
