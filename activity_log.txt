@@ -2866,3 +2866,4 @@
 [2026-09-25 06:11:07 UTC] (df64f96e) perf: cache static asset headers
 [2026-09-25 06:11:07 UTC] (a596501f) fix: patch scroll position reset
 [2026-09-25 06:11:07 UTC] (ecf90fed) chore: update .gitignore entries
+[2026-09-25 07:08:16 UTC] (3b198379) perf: lazy load below-fold sections
