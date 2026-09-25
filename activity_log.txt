@@ -2864,3 +2864,4 @@
 [2026-09-25 05:25:43 UTC] (7d8a92d7) docs: add usage examples
 [2026-09-25 05:25:43 UTC] (aa1b0d15) docs: update contact information
 [2026-09-25 06:11:07 UTC] (df64f96e) perf: cache static asset headers
+[2026-09-25 06:11:07 UTC] (a596501f) fix: patch scroll position reset
