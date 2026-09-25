@@ -2870,3 +2870,4 @@
 [2026-09-25 07:08:16 UTC] (2e41c4d4) perf: preload critical fonts
 [2026-09-25 08:11:52 UTC] (c144279c) feat: add hover animation effects
 [2026-09-25 08:11:52 UTC] (56724e5c) style: apply consistent naming convention
+[2026-09-25 08:52:45 UTC] (901e858b) docs: clarify installation instructions
