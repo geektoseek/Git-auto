@@ -2873,3 +2873,4 @@
 [2026-09-25 08:52:45 UTC] (901e858b) docs: clarify installation instructions
 [2026-09-25 08:52:45 UTC] (1ef3c919) refactor: reduce component nesting
 [2026-09-25 09:32:42 UTC] (6350c2dd) refactor: consolidate repeated styles
+[2026-09-25 09:32:42 UTC] (9b7dd567) style: normalize quote style
