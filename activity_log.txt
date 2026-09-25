@@ -2878,3 +2878,4 @@
 [2026-09-25 09:47:59 UTC] (ee86260c) chore: reorganize folder structure
 [2026-09-25 10:27:45 UTC] (d2dc255c) perf: optimize image loading strategy
 [2026-09-25 11:44:38 UTC] (3253fd88) refactor: simplify component logic
+[2026-09-25 12:32:03 UTC] (ebdfe7a2) fix: fix image aspect ratio on Safari
