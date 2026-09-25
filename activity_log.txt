@@ -2856,3 +2856,4 @@
 [2026-09-24 13:46:28 UTC] (a4e50d5a) refactor: split large component into smaller parts
 [2026-09-25 00:33:56 UTC] (ef469067) docs: clarify installation instructions
 [2026-09-25 00:33:56 UTC] (4656f114) perf: improve scroll event throttling
+[2026-09-25 01:12:22 UTC] (1d4f1d8d) feat: add footer link updates
