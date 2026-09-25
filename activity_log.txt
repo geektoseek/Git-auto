@@ -2854,3 +2854,4 @@
 [2026-09-24 13:30:32 UTC] (7cbb4119) docs: add usage examples
 [2026-09-24 13:30:32 UTC] (fd126cf4) perf: optimize image loading strategy
 [2026-09-24 13:46:28 UTC] (a4e50d5a) refactor: split large component into smaller parts
+[2026-09-25 00:33:56 UTC] (ef469067) docs: clarify installation instructions
