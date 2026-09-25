@@ -2861,3 +2861,4 @@
 [2026-09-25 04:44:02 UTC] (47c862a6) style: normalize quote style
 [2026-09-25 04:44:02 UTC] (5ce4cbaa) fix: fix transition timing mismatch
 [2026-09-25 04:44:02 UTC] (e3cc7609) style: normalize quote style
+[2026-09-25 05:25:43 UTC] (7d8a92d7) docs: add usage examples
