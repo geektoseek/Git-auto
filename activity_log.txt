@@ -2857,3 +2857,4 @@
 [2026-09-25 00:33:56 UTC] (ef469067) docs: clarify installation instructions
 [2026-09-25 00:33:56 UTC] (4656f114) perf: improve scroll event throttling
 [2026-09-25 01:12:22 UTC] (1d4f1d8d) feat: add footer link updates
+[2026-09-25 01:12:22 UTC] (2313cf57) fix: correct broken link in navigation
