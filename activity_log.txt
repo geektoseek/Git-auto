@@ -2903,3 +2903,4 @@
 [2026-09-26 09:31:55 UTC] (b352949e) docs: update tech stack references
 [2026-09-26 10:08:21 UTC] (0ac94b62) perf: defer non-critical scripts
 [2026-09-26 11:17:48 UTC] (1be121e6) refactor: clean up legacy code
+[2026-09-26 11:17:48 UTC] (7b2a209f) fix: correct z-index layering issue
