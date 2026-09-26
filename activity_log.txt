@@ -2883,3 +2883,4 @@
 [2026-09-26 00:07:29 UTC] (842c1095) docs: improve component documentation
 [2026-09-26 00:37:55 UTC] (3e209c9d) chore: remove unused imports
 [2026-09-26 01:14:54 UTC] (48a41c64) perf: preload critical fonts
+[2026-09-26 01:14:54 UTC] (c2a99d2a) perf: lazy load below-fold sections
