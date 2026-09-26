@@ -2899,3 +2899,4 @@
 [2026-09-26 08:39:12 UTC] (4cb7e81b) fix: resolve button hover state bug
 [2026-09-26 09:17:29 UTC] (6ceae363) fix: fix font loading fallback
 [2026-09-26 09:17:29 UTC] (188b347a) style: reformat CSS variables section
+[2026-09-26 09:31:55 UTC] (7e82b5f0) refactor: simplify component logic
