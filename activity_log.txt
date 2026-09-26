@@ -2892,3 +2892,4 @@
 [2026-09-26 06:11:02 UTC] (2175c003) chore: sync lockfile
 [2026-09-26 06:11:02 UTC] (a35dfc1f) chore: update dependencies
 [2026-09-26 06:11:02 UTC] (cc870947) chore: clean up build artifacts
+[2026-09-26 07:05:06 UTC] (42f1d754) docs: improve changelog entries
