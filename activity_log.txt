@@ -2897,3 +2897,4 @@
 [2026-09-26 07:05:06 UTC] (4431a1eb) docs: improve changelog entries
 [2026-09-26 08:00:36 UTC] (c7173358) perf: preload critical fonts
 [2026-09-26 08:39:12 UTC] (4cb7e81b) fix: resolve button hover state bug
+[2026-09-26 09:17:29 UTC] (6ceae363) fix: fix font loading fallback
