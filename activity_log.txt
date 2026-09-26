@@ -2881,3 +2881,4 @@
 [2026-09-25 12:32:03 UTC] (ebdfe7a2) fix: fix image aspect ratio on Safari
 [2026-09-25 12:32:04 UTC] (d7f9fa97) docs: add usage examples
 [2026-09-26 00:07:29 UTC] (842c1095) docs: improve component documentation
+[2026-09-26 00:37:55 UTC] (3e209c9d) chore: remove unused imports
