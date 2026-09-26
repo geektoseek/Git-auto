@@ -2894,3 +2894,4 @@
 [2026-09-26 06:11:02 UTC] (cc870947) chore: clean up build artifacts
 [2026-09-26 07:05:06 UTC] (42f1d754) docs: improve changelog entries
 [2026-09-26 07:05:06 UTC] (22b94a8c) fix: resolve CSS specificity conflict
+[2026-09-26 07:05:06 UTC] (4431a1eb) docs: improve changelog entries
