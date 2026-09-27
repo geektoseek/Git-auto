@@ -2924,3 +2924,4 @@
 [2026-09-27 09:57:05 UTC] (0a86e048) docs: add inline code comments
 [2026-09-27 09:57:05 UTC] (53ce0504) chore: bump package version
 [2026-09-27 10:12:44 UTC] (e4253869) chore: sync lockfile
+[2026-09-27 10:12:44 UTC] (bf40b480) chore: update CI pipeline notes
