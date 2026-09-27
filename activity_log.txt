@@ -2908,3 +2908,4 @@
 [2026-09-26 12:18:35 UTC] (81e193b4) refactor: split large component into smaller parts
 [2026-09-27 00:39:01 UTC] (1617bbde) fix: fix font loading fallback
 [2026-09-27 01:08:08 UTC] (86b0c4da) feat: add smooth scroll behavior
+[2026-09-27 01:08:08 UTC] (3b796b23) docs: improve component documentation
