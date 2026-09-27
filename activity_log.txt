@@ -2922,3 +2922,4 @@
 [2026-09-27 09:19:15 UTC] (bd21f13b) perf: improve scroll event throttling
 [2026-09-27 09:19:15 UTC] (2b2da897) docs: add inline code comments
 [2026-09-27 09:57:05 UTC] (0a86e048) docs: add inline code comments
+[2026-09-27 09:57:05 UTC] (53ce0504) chore: bump package version
