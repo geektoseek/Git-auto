@@ -2917,3 +2917,4 @@
 [2026-09-27 06:38:29 UTC] (af92dd4b) refactor: split large component into smaller parts
 [2026-09-27 07:36:58 UTC] (60a999ec) feat: add hover animation effects
 [2026-09-27 07:36:58 UTC] (1fe44250) perf: preload critical fonts
+[2026-09-27 08:34:32 UTC] (6c447706) perf: improve scroll event throttling
