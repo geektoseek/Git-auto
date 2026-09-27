@@ -2932,3 +2932,4 @@
 [2026-09-27 11:57:03 UTC] (e95ca1b2) chore: sync lockfile
 [2026-09-27 12:42:00 UTC] (3b3d041d) refactor: improve variable naming
 [2026-09-27 13:10:52 UTC] (5afeda79) feat: implement dynamic content loading
+[2026-09-27 13:10:52 UTC] (99b813d5) docs: update README with setup steps
