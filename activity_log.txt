@@ -2943,3 +2943,4 @@
 [2026-09-28 05:11:29 UTC] (7082e4c2) style: adjust line breaks in components
 [2026-09-28 05:11:29 UTC] (c2ffdfdf) docs: add inline code comments
 [2026-09-28 05:54:15 UTC] (9543a45f) refactor: improve variable naming
+[2026-09-28 05:54:15 UTC] (aab74e86) docs: clarify installation instructions
