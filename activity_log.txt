@@ -2958,3 +2958,4 @@
 [2026-09-28 11:54:58 UTC] (754eccab) refactor: split large component into smaller parts
 [2026-09-28 13:45:32 UTC] (489b609b) chore: sync lockfile
 [2026-09-28 14:54:56 UTC] (9134a883) refactor: improve variable naming
+[2026-09-28 15:41:32 UTC] (1028caed) fix: correct z-index layering issue
