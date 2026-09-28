@@ -2949,3 +2949,4 @@
 [2026-09-28 08:14:43 UTC] (1c1d4b2d) perf: compress background assets
 [2026-09-28 08:14:43 UTC] (18d6d524) docs: update deployment notes
 [2026-09-28 08:58:20 UTC] (ab460260) fix: fix transition timing mismatch
+[2026-09-28 09:51:45 UTC] (f23c7d61) fix: correct z-index layering issue
