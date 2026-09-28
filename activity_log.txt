@@ -2936,3 +2936,4 @@
 [2026-09-27 13:10:52 UTC] (d7a5d30e) feat: add new section styles
 [2026-09-28 00:48:19 UTC] (e74eea3d) fix: correct z-index layering issue
 [2026-09-28 00:48:19 UTC] (2e4e15e3) docs: update deployment notes
+[2026-09-28 00:48:19 UTC] (4e2ee122) refactor: optimize asset references
