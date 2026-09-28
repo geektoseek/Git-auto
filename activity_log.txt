@@ -2962,3 +2962,4 @@
 [2026-09-28 15:41:32 UTC] (e1f1aa61) fix: resolve button hover state bug
 [2026-09-28 15:41:32 UTC] (84eff848) fix: correct broken link in navigation
 [2026-09-28 16:43:00 UTC] (bf975eac) perf: minify inline SVGs
+[2026-09-28 16:43:00 UTC] (c463039c) perf: lazy load below-fold sections
