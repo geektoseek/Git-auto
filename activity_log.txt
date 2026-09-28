@@ -2953,3 +2953,4 @@
 [2026-09-28 09:51:45 UTC] (84368425) chore: sync lockfile
 [2026-09-28 10:48:01 UTC] (c548efdf) feat: enhance UI component structure
 [2026-09-28 11:14:16 UTC] (e458f513) chore: bump package version
+[2026-09-28 11:54:58 UTC] (1a877f90) feat: add smooth scroll behavior
