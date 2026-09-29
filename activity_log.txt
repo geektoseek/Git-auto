@@ -2992,3 +2992,4 @@
 [2026-09-29 10:54:27 UTC] (08fdc76e) docs: update deployment notes
 [2026-09-29 10:54:27 UTC] (9ea397ec) refactor: move constants to config file
 [2026-09-29 11:30:23 UTC] (f637b4f9) feat: enhance UI component structure
+[2026-09-29 11:30:23 UTC] (bb958a3e) refactor: split large component into smaller parts
