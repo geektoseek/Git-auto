@@ -2989,3 +2989,4 @@
 [2026-09-29 10:35:50 UTC] (ac7583ec) feat: add footer link updates
 [2026-09-29 10:35:50 UTC] (87d4682f) perf: lazy load below-fold sections
 [2026-09-29 10:54:27 UTC] (dcb3ec25) perf: lazy load below-fold sections
+[2026-09-29 10:54:27 UTC] (08fdc76e) docs: update deployment notes
