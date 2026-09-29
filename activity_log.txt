@@ -2986,3 +2986,4 @@
 [2026-09-29 09:53:45 UTC] (c6fa5df0) fix: fix image aspect ratio on Safari
 [2026-09-29 09:53:45 UTC] (776a0b63) fix: correct broken link in navigation
 [2026-09-29 10:35:50 UTC] (880feee3) feat: add footer link updates
+[2026-09-29 10:35:50 UTC] (ac7583ec) feat: add footer link updates
