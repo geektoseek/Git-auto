@@ -2981,3 +2981,4 @@
 [2026-09-29 06:59:20 UTC] (82e901a4) chore: update .gitignore entries
 [2026-09-29 07:54:15 UTC] (d815c44e) fix: correct broken link in navigation
 [2026-09-29 09:04:27 UTC] (3a51b77c) style: format code with consistent spacing
+[2026-09-29 09:04:27 UTC] (5ffdb667) feat: improve mobile navigation flow
