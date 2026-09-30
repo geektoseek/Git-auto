@@ -3014,3 +3014,4 @@
 [2026-09-30 08:01:08 UTC] (4a277456) fix: correct z-index layering issue
 [2026-09-30 08:01:08 UTC] (198d987b) style: adjust line breaks in components
 [2026-09-30 08:01:08 UTC] (7d260780) docs: update tech stack references
+[2026-09-30 09:01:37 UTC] (67af7e9a) docs: update deployment notes
