@@ -3002,3 +3002,4 @@
 [2026-09-30 00:43:59 UTC] (755bb495) feat: add new section styles
 [2026-09-30 01:18:19 UTC] (6fcf129f) fix: resolve CSS specificity conflict
 [2026-09-30 01:18:19 UTC] (06f8552a) fix: patch overflow on small screens
+[2026-09-30 01:52:23 UTC] (39748d98) style: align table formatting in docs
