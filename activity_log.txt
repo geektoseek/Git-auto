@@ -3025,3 +3025,4 @@
 [2026-09-30 10:44:35 UTC] (d63230aa) chore: clean up build artifacts
 [2026-09-30 11:18:51 UTC] (049f4c6a) perf: cache static asset headers
 [2026-09-30 11:18:51 UTC] (13f2345f) chore: reorganize folder structure
+[2026-09-30 12:27:52 UTC] (507621b8) docs: clarify installation instructions
