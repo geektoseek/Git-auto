@@ -3044,3 +3044,4 @@
 [2026-10-01 05:37:18 UTC] (a68bdf8d) docs: update README with setup steps
 [2026-10-01 05:37:18 UTC] (573d4d59) chore: clean up build artifacts
 [2026-10-01 06:34:17 UTC] (d49c45bd) style: reformat CSS variables section
+[2026-10-01 06:34:17 UTC] (05083544) fix: resolve alignment issue on mobile
