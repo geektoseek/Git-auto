@@ -3041,3 +3041,4 @@
 [2026-10-01 01:50:06 UTC] (35face58) fix: correct broken link in navigation
 [2026-10-01 01:50:06 UTC] (6e35029e) feat: improve hero section visuals
 [2026-10-01 05:37:18 UTC] (73f7c2c8) fix: resolve button hover state bug
+[2026-10-01 05:37:18 UTC] (a68bdf8d) docs: update README with setup steps
