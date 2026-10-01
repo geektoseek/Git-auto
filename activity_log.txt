@@ -3063,3 +3063,4 @@
 [2026-10-01 11:10:44 UTC] (2f1eeed4) docs: update tech stack references
 [2026-10-01 11:10:44 UTC] (99ca11ce) style: clean up trailing whitespace
 [2026-10-01 11:10:44 UTC] (de479929) feat: improve mobile navigation flow
+[2026-10-01 11:45:46 UTC] (2aabfcc4) docs: improve changelog entries
