@@ -3033,3 +3033,4 @@
 [2026-10-01 00:11:14 UTC] (4ec06ad2) style: clean up unused class names
 [2026-10-01 00:11:14 UTC] (d596ce97) chore: sync lockfile
 [2026-10-01 00:47:50 UTC] (780c2f4a) perf: reduce bundle size
+[2026-10-01 00:47:50 UTC] (b3816649) style: adjust line breaks in components
