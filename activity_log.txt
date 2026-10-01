@@ -3055,3 +3055,4 @@
 [2026-10-01 09:26:20 UTC] (3412ceca) fix: fix transition timing mismatch
 [2026-10-01 09:26:20 UTC] (0382f607) docs: update tech stack references
 [2026-10-01 10:12:36 UTC] (dd4e962c) feat: add footer link updates
+[2026-10-01 10:12:36 UTC] (d5591ef0) docs: update tech stack references
