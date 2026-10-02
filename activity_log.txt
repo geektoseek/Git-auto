@@ -3076,3 +3076,4 @@
 [2026-10-02 06:14:55 UTC] (52d0e9ac) docs: clarify installation instructions
 [2026-10-02 07:03:03 UTC] (cfbede2b) chore: refresh environment config
 [2026-10-02 07:03:03 UTC] (2b45e605) docs: update tech stack references
+[2026-10-02 07:57:03 UTC] (e03c72e3) feat: add smooth scroll behavior
