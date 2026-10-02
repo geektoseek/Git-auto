@@ -3077,3 +3077,4 @@
 [2026-10-02 07:03:03 UTC] (cfbede2b) chore: refresh environment config
 [2026-10-02 07:03:03 UTC] (2b45e605) docs: update tech stack references
 [2026-10-02 07:57:03 UTC] (e03c72e3) feat: add smooth scroll behavior
+[2026-10-02 07:57:03 UTC] (3c04a45e) style: align table formatting in docs
