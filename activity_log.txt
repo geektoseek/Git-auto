@@ -3094,3 +3094,4 @@
 [2026-10-02 13:32:04 UTC] (9dedc861) docs: update README with setup steps
 [2026-10-02 13:58:51 UTC] (3275cfc8) docs: add usage examples
 [2026-10-02 14:41:44 UTC] (faf71f70) perf: lazy load below-fold sections
+[2026-10-02 14:41:44 UTC] (ce15cfe4) docs: clarify installation instructions
