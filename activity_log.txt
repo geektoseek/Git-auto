@@ -3087,3 +3087,4 @@
 [2026-10-02 10:26:18 UTC] (41438571) docs: update deployment notes
 [2026-10-02 10:26:18 UTC] (7154bddf) fix: correct broken link in navigation
 [2026-10-02 10:44:09 UTC] (23c54337) style: apply consistent naming convention
+[2026-10-02 10:44:09 UTC] (e8a7f355) perf: defer non-critical scripts
