@@ -3084,3 +3084,4 @@
 [2026-10-02 09:50:21 UTC] (8eba7a23) fix: patch scroll position reset
 [2026-10-02 09:50:21 UTC] (46cd1076) perf: preload critical fonts
 [2026-10-02 10:26:18 UTC] (c718e146) perf: compress background assets
+[2026-10-02 10:26:18 UTC] (41438571) docs: update deployment notes
