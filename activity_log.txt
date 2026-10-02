@@ -3080,3 +3080,4 @@
 [2026-10-02 07:57:03 UTC] (3c04a45e) style: align table formatting in docs
 [2026-10-02 07:57:03 UTC] (c35408f8) refactor: move constants to config file
 [2026-10-02 09:01:48 UTC] (dbe15e26) docs: update README with setup steps
+[2026-10-02 09:01:48 UTC] (eaf5de2c) chore: sync lockfile
