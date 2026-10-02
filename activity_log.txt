@@ -3091,3 +3091,4 @@
 [2026-10-02 11:16:10 UTC] (96686689) chore: reorganize folder structure
 [2026-10-02 11:16:10 UTC] (73459603) chore: update .gitignore entries
 [2026-10-02 12:25:24 UTC] (83008703) fix: fix font loading fallback
+[2026-10-02 13:32:04 UTC] (9dedc861) docs: update README with setup steps
