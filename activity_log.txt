@@ -3089,3 +3089,4 @@
 [2026-10-02 10:44:09 UTC] (23c54337) style: apply consistent naming convention
 [2026-10-02 10:44:09 UTC] (e8a7f355) perf: defer non-critical scripts
 [2026-10-02 11:16:10 UTC] (96686689) chore: reorganize folder structure
+[2026-10-02 11:16:10 UTC] (73459603) chore: update .gitignore entries
