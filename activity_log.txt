@@ -3126,3 +3126,4 @@
 [2026-10-03 11:34:27 UTC] (71aa5e0e) refactor: simplify component logic
 [2026-10-03 11:34:27 UTC] (cfb28a8a) chore: refresh environment config
 [2026-10-03 12:11:38 UTC] (c2e068e3) feat: add smooth scroll behavior
+[2026-10-03 12:11:38 UTC] (c7e683b9) feat: improve mobile navigation flow
