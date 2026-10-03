@@ -3098,3 +3098,4 @@
 [2026-10-02 14:41:44 UTC] (fc3f4b7d) chore: update dependencies
 [2026-10-03 00:00:37 UTC] (6c353c2c) docs: improve changelog entries
 [2026-10-03 00:00:38 UTC] (bcf9ba9a) style: adjust line breaks in components
+[2026-10-03 00:41:57 UTC] (3c0ae95a) fix: correct z-index layering issue
