@@ -3108,3 +3108,4 @@
 [2026-10-03 05:06:40 UTC] (57ab4669) feat: add new section styles
 [2026-10-03 05:06:40 UTC] (f8cebeb4) refactor: optimize asset references
 [2026-10-03 05:46:03 UTC] (2fd72390) feat: improve mobile navigation flow
+[2026-10-03 05:46:03 UTC] (5847ef05) docs: update README with setup steps
