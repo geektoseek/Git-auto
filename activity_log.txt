@@ -3103,3 +3103,4 @@
 [2026-10-03 01:12:40 UTC] (a78f430a) feat: improve hero section visuals
 [2026-10-03 01:12:40 UTC] (b8983d3c) feat: add hover animation effects
 [2026-10-03 01:46:25 UTC] (0a1b6cd0) docs: update tech stack references
+[2026-10-03 01:46:25 UTC] (c475b6ca) refactor: move constants to config file
