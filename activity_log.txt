@@ -3096,3 +3096,4 @@
 [2026-10-02 14:41:44 UTC] (faf71f70) perf: lazy load below-fold sections
 [2026-10-02 14:41:44 UTC] (ce15cfe4) docs: clarify installation instructions
 [2026-10-02 14:41:44 UTC] (fc3f4b7d) chore: update dependencies
+[2026-10-03 00:00:37 UTC] (6c353c2c) docs: improve changelog entries
