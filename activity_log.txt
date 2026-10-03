@@ -3122,3 +3122,4 @@
 [2026-10-03 09:48:11 UTC] (1a00512b) refactor: reduce component nesting
 [2026-10-03 10:03:27 UTC] (bf72022d) refactor: consolidate repeated styles
 [2026-10-03 10:32:45 UTC] (2108c143) fix: correct broken link in navigation
+[2026-10-03 11:34:27 UTC] (8cb6c907) fix: fix transition timing mismatch
