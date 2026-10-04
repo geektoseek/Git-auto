@@ -3146,3 +3146,4 @@
 [2026-10-04 08:50:22 UTC] (8feb8d85) fix: patch scroll position reset
 [2026-10-04 09:51:51 UTC] (c47b2d1d) perf: cache static asset headers
 [2026-10-04 09:51:51 UTC] (64c4f5e8) chore: clean up build artifacts
+[2026-10-04 09:51:51 UTC] (daa7131b) fix: fix transition timing mismatch
