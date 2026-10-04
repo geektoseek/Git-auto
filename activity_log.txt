@@ -3139,3 +3139,4 @@
 [2026-10-04 05:40:04 UTC] (bbd8869d) perf: compress background assets
 [2026-10-04 06:22:21 UTC] (fdea5198) chore: sync lockfile
 [2026-10-04 06:22:21 UTC] (ec083d73) feat: improve mobile navigation flow
+[2026-10-04 06:59:56 UTC] (24134130) docs: clarify installation instructions
