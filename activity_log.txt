@@ -3155,3 +3155,4 @@
 [2026-10-04 10:45:31 UTC] (4f71081e) perf: preload critical fonts
 [2026-10-04 11:14:37 UTC] (2c5799f7) feat: improve mobile navigation flow
 [2026-10-04 11:14:37 UTC] (d84e99ff) fix: fix image aspect ratio on Safari
+[2026-10-04 11:14:37 UTC] (ed833c58) chore: add editor config settings
