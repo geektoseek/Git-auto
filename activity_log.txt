@@ -3131,3 +3131,4 @@
 [2026-10-03 12:39:12 UTC] (f75e0e39) fix: patch scroll position reset
 [2026-10-04 00:00:15 UTC] (9ad72203) perf: compress background assets
 [2026-10-04 00:00:15 UTC] (85c79ef5) chore: remove unused imports
+[2026-10-04 00:00:15 UTC] (617b6471) docs: update README with setup steps
