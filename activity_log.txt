@@ -3153,3 +3153,4 @@
 [2026-10-04 10:45:31 UTC] (7d7b5429) perf: optimize image loading strategy
 [2026-10-04 10:45:31 UTC] (11077467) perf: optimize image loading strategy
 [2026-10-04 10:45:31 UTC] (4f71081e) perf: preload critical fonts
+[2026-10-04 11:14:37 UTC] (2c5799f7) feat: improve mobile navigation flow
