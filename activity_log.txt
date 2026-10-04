@@ -3149,3 +3149,4 @@
 [2026-10-04 09:51:51 UTC] (daa7131b) fix: fix transition timing mismatch
 [2026-10-04 10:31:23 UTC] (e19cf1eb) feat: add footer link updates
 [2026-10-04 10:31:23 UTC] (cea19e18) refactor: simplify component logic
+[2026-10-04 10:31:24 UTC] (77d534b5) style: reorganize import order
