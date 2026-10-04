@@ -3134,3 +3134,4 @@
 [2026-10-04 00:00:15 UTC] (617b6471) docs: update README with setup steps
 [2026-10-04 00:40:46 UTC] (3c99dfaf) fix: resolve CSS specificity conflict
 [2026-10-04 00:40:46 UTC] (79179ad7) style: clean up trailing whitespace
+[2026-10-04 00:40:46 UTC] (89bdb7b3) docs: update contact information
