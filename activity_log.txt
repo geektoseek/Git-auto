@@ -3132,3 +3132,4 @@
 [2026-10-04 00:00:15 UTC] (9ad72203) perf: compress background assets
 [2026-10-04 00:00:15 UTC] (85c79ef5) chore: remove unused imports
 [2026-10-04 00:00:15 UTC] (617b6471) docs: update README with setup steps
+[2026-10-04 00:40:46 UTC] (3c99dfaf) fix: resolve CSS specificity conflict
