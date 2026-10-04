@@ -3130,3 +3130,4 @@
 [2026-10-03 12:11:38 UTC] (f202cdfa) style: clean up unused class names
 [2026-10-03 12:39:12 UTC] (f75e0e39) fix: patch scroll position reset
 [2026-10-04 00:00:15 UTC] (9ad72203) perf: compress background assets
+[2026-10-04 00:00:15 UTC] (85c79ef5) chore: remove unused imports
