@@ -3158,3 +3158,4 @@
 [2026-10-04 11:14:37 UTC] (ed833c58) chore: add editor config settings
 [2026-10-04 12:15:44 UTC] (30ecba30) perf: lazy load below-fold sections
 [2026-10-04 12:15:44 UTC] (0ba20ea0) feat: add responsive layout improvements
+[2026-10-04 13:01:22 UTC] (5d464c56) fix: correct broken link in navigation
