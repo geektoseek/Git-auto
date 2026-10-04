@@ -3151,3 +3151,4 @@
 [2026-10-04 10:31:23 UTC] (cea19e18) refactor: simplify component logic
 [2026-10-04 10:31:24 UTC] (77d534b5) style: reorganize import order
 [2026-10-04 10:45:31 UTC] (7d7b5429) perf: optimize image loading strategy
+[2026-10-04 10:45:31 UTC] (11077467) perf: optimize image loading strategy
