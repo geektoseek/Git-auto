@@ -3180,3 +3180,4 @@
 [2026-10-05 10:32:08 UTC] (3e56d066) feat: add new section styles
 [2026-10-05 10:32:08 UTC] (0e4e9743) perf: defer non-critical scripts
 [2026-10-05 11:22:06 UTC] (21ba5fe7) fix: patch overflow on small screens
+[2026-10-05 11:22:06 UTC] (aa64e2d6) perf: preload critical fonts
