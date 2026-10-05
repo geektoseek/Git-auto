@@ -3172,3 +3172,4 @@
 [2026-10-05 07:08:53 UTC] (ad617f57) feat: enhance card component design
 [2026-10-05 07:08:53 UTC] (916f53e0) refactor: split large component into smaller parts
 [2026-10-05 07:08:53 UTC] (f3f7f5ae) style: adjust line breaks in components
+[2026-10-05 08:23:14 UTC] (7e86293c) docs: update README with setup steps
