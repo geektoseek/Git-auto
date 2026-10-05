@@ -3174,3 +3174,4 @@
 [2026-10-05 07:08:53 UTC] (f3f7f5ae) style: adjust line breaks in components
 [2026-10-05 08:23:14 UTC] (7e86293c) docs: update README with setup steps
 [2026-10-05 08:23:14 UTC] (49759803) style: apply consistent naming convention
+[2026-10-05 09:37:29 UTC] (60414741) fix: resolve CSS specificity conflict
