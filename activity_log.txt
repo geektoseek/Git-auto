@@ -3178,3 +3178,4 @@
 [2026-10-05 09:37:29 UTC] (c104cfb0) docs: add usage examples
 [2026-10-05 09:37:29 UTC] (df2667b1) chore: update CI pipeline notes
 [2026-10-05 10:32:08 UTC] (3e56d066) feat: add new section styles
+[2026-10-05 10:32:08 UTC] (0e4e9743) perf: defer non-critical scripts
