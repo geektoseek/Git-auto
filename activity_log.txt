@@ -3189,3 +3189,4 @@
 [2026-10-05 15:31:06 UTC] (e45251e4) refactor: improve variable naming
 [2026-10-05 15:31:06 UTC] (e6950c4f) docs: add usage examples
 [2026-10-05 16:15:09 UTC] (7f78955b) docs: clarify installation instructions
+[2026-10-05 17:05:19 UTC] (fbf7979c) refactor: optimize asset references
