@@ -3166,3 +3166,4 @@
 [2026-10-05 01:42:07 UTC] (874f3be3) chore: update CI pipeline notes
 [2026-10-05 01:42:07 UTC] (1b1763d3) refactor: restructure section layout
 [2026-10-05 05:23:29 UTC] (7dae9097) style: normalize quote style
+[2026-10-05 05:23:29 UTC] (193cb1b4) refactor: clean up legacy code
