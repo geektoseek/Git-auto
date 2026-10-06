@@ -3197,3 +3197,4 @@
 [2026-10-06 00:52:36 UTC] (aba58d66) chore: update dependencies
 [2026-10-06 01:16:02 UTC] (6caab40c) refactor: split large component into smaller parts
 [2026-10-06 01:16:02 UTC] (becc0f20) refactor: move constants to config file
+[2026-10-06 01:31:05 UTC] (469cf4e3) fix: fix image aspect ratio on Safari
