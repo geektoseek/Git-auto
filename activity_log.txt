@@ -3208,3 +3208,4 @@
 [2026-10-06 06:07:56 UTC] (e4af90a2) feat: add smooth scroll behavior
 [2026-10-06 06:07:56 UTC] (6d641b9e) chore: update .gitignore entries
 [2026-10-06 06:07:56 UTC] (8edd4782) chore: bump package version
+[2026-10-06 06:52:36 UTC] (293aab73) perf: defer non-critical scripts
