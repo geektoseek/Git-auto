@@ -3207,3 +3207,4 @@
 [2026-10-06 02:44:08 UTC] (12ec204c) feat: improve mobile navigation flow
 [2026-10-06 06:07:56 UTC] (e4af90a2) feat: add smooth scroll behavior
 [2026-10-06 06:07:56 UTC] (6d641b9e) chore: update .gitignore entries
+[2026-10-06 06:07:56 UTC] (8edd4782) chore: bump package version
