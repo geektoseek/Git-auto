@@ -3204,3 +3204,4 @@
 [2026-10-06 02:19:12 UTC] (e19e9a40) fix: fix image aspect ratio on Safari
 [2026-10-06 02:44:08 UTC] (ae7ccd27) chore: remove unused imports
 [2026-10-06 02:44:08 UTC] (43903e1e) docs: update contact information
+[2026-10-06 02:44:08 UTC] (12ec204c) feat: improve mobile navigation flow
