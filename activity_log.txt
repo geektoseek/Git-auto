@@ -3191,3 +3191,4 @@
 [2026-10-05 16:15:09 UTC] (7f78955b) docs: clarify installation instructions
 [2026-10-05 17:05:19 UTC] (fbf7979c) refactor: optimize asset references
 [2026-10-05 17:05:19 UTC] (8263b865) chore: update CI pipeline notes
+[2026-10-06 00:18:58 UTC] (eeff220f) feat: add responsive layout improvements
