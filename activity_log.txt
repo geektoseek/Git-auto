@@ -3210,3 +3210,4 @@
 [2026-10-06 06:07:56 UTC] (8edd4782) chore: bump package version
 [2026-10-06 06:52:36 UTC] (293aab73) perf: defer non-critical scripts
 [2026-10-06 06:52:36 UTC] (025ab693) style: clean up unused class names
+[2026-10-06 06:52:36 UTC] (76fee8b9) feat: improve mobile navigation flow
