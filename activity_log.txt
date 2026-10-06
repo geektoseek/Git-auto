@@ -3213,3 +3213,4 @@
 [2026-10-06 06:52:36 UTC] (76fee8b9) feat: improve mobile navigation flow
 [2026-10-06 07:36:59 UTC] (55f36fff) style: align table formatting in docs
 [2026-10-06 07:36:59 UTC] (840b7823) docs: add inline code comments
+[2026-10-06 07:36:59 UTC] (ce17fbf7) docs: update deployment notes
