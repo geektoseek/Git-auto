@@ -3237,3 +3237,4 @@
 [2026-10-07 09:20:57 UTC] (c4000f36) fix: patch scroll position reset
 [2026-10-07 10:19:58 UTC] (ed6441da) style: align table formatting in docs
 [2026-10-07 10:19:58 UTC] (b5626a1c) fix: fix image aspect ratio on Safari
+[2026-10-07 10:59:34 UTC] (8aee29b3) feat: add smooth scroll behavior
