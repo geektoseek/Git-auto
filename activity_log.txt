@@ -3231,3 +3231,4 @@
 [2026-10-07 06:30:55 UTC] (aa873b27) fix: correct z-index layering issue
 [2026-10-07 06:30:55 UTC] (137828a7) fix: fix transition timing mismatch
 [2026-10-07 07:17:29 UTC] (6e899213) docs: add project structure notes
+[2026-10-07 08:10:22 UTC] (fb648127) docs: clarify installation instructions
