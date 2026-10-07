@@ -3241,3 +3241,4 @@
 [2026-10-07 10:59:34 UTC] (98bf4d4d) chore: clean up build artifacts
 [2026-10-07 11:21:10 UTC] (69d7588d) refactor: optimize asset references
 [2026-10-07 11:21:10 UTC] (000ef404) fix: correct z-index layering issue
+[2026-10-07 11:21:10 UTC] (a920db02) chore: update CI pipeline notes
