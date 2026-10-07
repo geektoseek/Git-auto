@@ -3235,3 +3235,4 @@
 [2026-10-07 08:10:22 UTC] (2c507790) docs: add project structure notes
 [2026-10-07 09:20:57 UTC] (17f1929f) docs: add inline code comments
 [2026-10-07 09:20:57 UTC] (c4000f36) fix: patch scroll position reset
+[2026-10-07 10:19:58 UTC] (ed6441da) style: align table formatting in docs
