@@ -3236,3 +3236,4 @@
 [2026-10-07 09:20:57 UTC] (17f1929f) docs: add inline code comments
 [2026-10-07 09:20:57 UTC] (c4000f36) fix: patch scroll position reset
 [2026-10-07 10:19:58 UTC] (ed6441da) style: align table formatting in docs
+[2026-10-07 10:19:58 UTC] (b5626a1c) fix: fix image aspect ratio on Safari
