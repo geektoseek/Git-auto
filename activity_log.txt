@@ -3226,3 +3226,4 @@
 [2026-10-07 01:34:02 UTC] (95a82350) chore: update .gitignore entries
 [2026-10-07 02:09:10 UTC] (fab56227) docs: update README with setup steps
 [2026-10-07 02:09:10 UTC] (7434c75c) feat: add footer link updates
+[2026-10-07 02:09:10 UTC] (8b090037) docs: add inline code comments
