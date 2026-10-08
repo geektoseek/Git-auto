@@ -3264,3 +3264,4 @@
 [2026-10-08 09:30:22 UTC] (a7f21629) style: reorganize import order
 [2026-10-08 09:30:22 UTC] (e5429dd5) perf: cache static asset headers
 [2026-10-08 10:39:34 UTC] (5f22b8ec) feat: enhance UI component structure
+[2026-10-08 10:39:34 UTC] (aa7c7569) refactor: reduce component nesting
