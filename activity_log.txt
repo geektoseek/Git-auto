@@ -3258,3 +3258,4 @@
 [2026-10-08 06:40:15 UTC] (7f12f3dd) perf: improve scroll event throttling
 [2026-10-08 07:28:57 UTC] (d1e25c78) perf: reduce bundle size
 [2026-10-08 07:28:57 UTC] (196481ab) chore: update dependencies
+[2026-10-08 07:28:57 UTC] (0bd294b3) perf: reduce animation repaints
