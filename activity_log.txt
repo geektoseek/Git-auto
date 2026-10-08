@@ -3250,3 +3250,4 @@
 [2026-10-08 01:57:33 UTC] (935c8649) fix: correct z-index layering issue
 [2026-10-08 02:35:00 UTC] (cd2ebcf4) style: adjust line breaks in components
 [2026-10-08 02:35:00 UTC] (0ceed4e4) perf: reduce animation repaints
+[2026-10-08 02:35:00 UTC] (55a325f7) fix: fix transition timing mismatch
