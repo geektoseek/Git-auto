@@ -3267,3 +3267,4 @@
 [2026-10-08 10:39:34 UTC] (aa7c7569) refactor: reduce component nesting
 [2026-10-08 10:39:35 UTC] (bede91fc) feat: add new section styles
 [2026-10-08 11:16:53 UTC] (e0d942a5) feat: add smooth scroll behavior
+[2026-10-08 11:37:10 UTC] (766d5144) perf: lazy load below-fold sections
