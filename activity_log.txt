@@ -3262,3 +3262,4 @@
 [2026-10-08 08:26:26 UTC] (f5de0a9f) perf: reduce animation repaints
 [2026-10-08 08:26:26 UTC] (c6af3ffa) docs: update tech stack references
 [2026-10-08 09:30:22 UTC] (a7f21629) style: reorganize import order
+[2026-10-08 09:30:22 UTC] (e5429dd5) perf: cache static asset headers
