@@ -3290,3 +3290,4 @@
 [2026-10-09 06:46:07 UTC] (7b0c74b4) chore: bump package version
 [2026-10-09 07:27:23 UTC] (cbf703c4) feat: enhance UI component structure
 [2026-10-09 07:27:23 UTC] (3bd08147) chore: update dependencies
+[2026-10-09 07:27:23 UTC] (64167c6f) fix: patch overflow on small screens
