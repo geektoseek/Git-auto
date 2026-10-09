@@ -3280,3 +3280,4 @@
 [2026-10-09 00:41:19 UTC] (e52824aa) chore: remove unused imports
 [2026-10-09 01:23:00 UTC] (48087f62) fix: resolve CSS specificity conflict
 [2026-10-09 01:23:00 UTC] (1898f85c) docs: add project structure notes
+[2026-10-09 02:11:47 UTC] (c8019eea) chore: reorganize folder structure
