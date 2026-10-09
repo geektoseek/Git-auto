@@ -3304,3 +3304,4 @@
 [2026-10-09 14:06:01 UTC] (40d05e92) fix: fix image aspect ratio on Safari
 [2026-10-09 14:06:01 UTC] (a7c354c4) style: format code with consistent spacing
 [2026-10-09 14:27:40 UTC] (ebc0c038) chore: reorganize folder structure
+[2026-10-09 14:27:40 UTC] (9e7f5c4f) fix: resolve alignment issue on mobile
