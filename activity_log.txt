@@ -3287,3 +3287,4 @@
 [2026-10-09 05:55:32 UTC] (149d290f) style: improve code readability
 [2026-10-09 05:55:32 UTC] (d8a5cdcf) chore: remove unused imports
 [2026-10-09 06:46:07 UTC] (5e65831b) fix: patch scroll position reset
+[2026-10-09 06:46:07 UTC] (7b0c74b4) chore: bump package version
