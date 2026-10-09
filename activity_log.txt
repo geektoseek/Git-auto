@@ -3296,3 +3296,4 @@
 [2026-10-09 09:39:37 UTC] (49d3ab97) feat: add smooth scroll behavior
 [2026-10-09 10:38:40 UTC] (5989a3a7) fix: resolve CSS specificity conflict
 [2026-10-09 11:15:40 UTC] (87c05a8a) fix: fix font loading fallback
+[2026-10-09 11:30:58 UTC] (0e1e6f0c) fix: patch scroll position reset
