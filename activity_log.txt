@@ -3313,3 +3313,4 @@
 [2026-10-10 01:45:44 UTC] (4cc2a6a2) docs: improve component documentation
 [2026-10-10 02:09:17 UTC] (3be07971) fix: fix font loading fallback
 [2026-10-10 02:09:17 UTC] (1002c01c) perf: minify inline SVGs
+[2026-10-10 05:38:17 UTC] (57f10fba) perf: reduce bundle size
