@@ -3314,3 +3314,4 @@
 [2026-10-10 02:09:17 UTC] (3be07971) fix: fix font loading fallback
 [2026-10-10 02:09:17 UTC] (1002c01c) perf: minify inline SVGs
 [2026-10-10 05:38:17 UTC] (57f10fba) perf: reduce bundle size
+[2026-10-10 06:24:03 UTC] (d8dec0d2) refactor: extract reusable utility
