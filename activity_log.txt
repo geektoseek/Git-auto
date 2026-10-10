@@ -3319,3 +3319,4 @@
 [2026-10-10 06:24:03 UTC] (f44031df) refactor: simplify component logic
 [2026-10-10 07:13:49 UTC] (468d5092) perf: lazy load below-fold sections
 [2026-10-10 08:07:16 UTC] (e6cf504e) style: apply consistent naming convention
+[2026-10-10 08:07:16 UTC] (c7feddfb) chore: add editor config settings
