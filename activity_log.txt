@@ -3306,3 +3306,4 @@
 [2026-10-09 14:27:40 UTC] (ebc0c038) chore: reorganize folder structure
 [2026-10-09 14:27:40 UTC] (9e7f5c4f) fix: resolve alignment issue on mobile
 [2026-10-10 00:20:23 UTC] (47750ee0) feat: add new section styles
+[2026-10-10 00:20:23 UTC] (750c8c90) refactor: clean up legacy code
