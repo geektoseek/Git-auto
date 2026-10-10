@@ -3325,3 +3325,4 @@
 [2026-10-10 09:04:56 UTC] (69c4f647) feat: add responsive layout improvements
 [2026-10-10 09:04:56 UTC] (9f0aa4c6) docs: update tech stack references
 [2026-10-10 09:54:44 UTC] (7903e324) refactor: optimize asset references
+[2026-10-10 09:54:44 UTC] (c81634ef) feat: add smooth scroll behavior
