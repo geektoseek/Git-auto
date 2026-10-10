@@ -3310,3 +3310,4 @@
 [2026-10-10 00:20:23 UTC] (938acac2) perf: compress background assets
 [2026-10-10 01:11:38 UTC] (08bb39e6) refactor: improve variable naming
 [2026-10-10 01:11:38 UTC] (0a9b329e) refactor: simplify component logic
+[2026-10-10 01:45:44 UTC] (4cc2a6a2) docs: improve component documentation
