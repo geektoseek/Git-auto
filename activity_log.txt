@@ -3322,3 +3322,4 @@
 [2026-10-10 08:07:16 UTC] (c7feddfb) chore: add editor config settings
 [2026-10-10 08:07:16 UTC] (7adeb2ee) docs: add usage examples
 [2026-10-10 09:04:56 UTC] (ca19722e) perf: improve scroll event throttling
+[2026-10-10 09:04:56 UTC] (69c4f647) feat: add responsive layout improvements
