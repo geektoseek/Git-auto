@@ -3353,3 +3353,4 @@
 [2026-10-11 12:41:43 UTC] (c1706cfa) fix: fix font loading fallback
 [2026-10-11 13:44:37 UTC] (422bb9f6) refactor: extract reusable utility
 [2026-10-11 13:44:37 UTC] (3bc8b198) fix: patch overflow on small screens
+[2026-10-11 14:15:44 UTC] (05ff2467) fix: correct broken link in navigation
