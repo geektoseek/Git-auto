@@ -3350,3 +3350,4 @@
 [2026-10-11 11:01:19 UTC] (a271c136) feat: add new section styles
 [2026-10-11 11:32:50 UTC] (00fcc3f2) docs: add project structure notes
 [2026-10-11 11:32:50 UTC] (acac171d) feat: add new section styles
+[2026-10-11 12:41:43 UTC] (c1706cfa) fix: fix font loading fallback
