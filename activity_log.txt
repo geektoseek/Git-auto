@@ -3335,3 +3335,4 @@
 [2026-10-11 01:01:11 UTC] (419705ea) feat: improve hero section visuals
 [2026-10-11 01:01:12 UTC] (d851d08c) feat: improve mobile navigation flow
 [2026-10-11 01:01:12 UTC] (f23a693a) style: clean up unused class names
+[2026-10-11 01:36:50 UTC] (155a88c9) fix: fix image aspect ratio on Safari
