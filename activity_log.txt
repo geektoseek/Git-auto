@@ -3334,3 +3334,4 @@
 [2026-10-11 00:25:24 UTC] (21919a06) perf: cache static asset headers
 [2026-10-11 01:01:11 UTC] (419705ea) feat: improve hero section visuals
 [2026-10-11 01:01:12 UTC] (d851d08c) feat: improve mobile navigation flow
+[2026-10-11 01:01:12 UTC] (f23a693a) style: clean up unused class names
