@@ -3340,3 +3340,4 @@
 [2026-10-11 06:29:36 UTC] (24c6dabd) fix: correct z-index layering issue
 [2026-10-11 07:16:29 UTC] (7a63cb48) docs: update contact information
 [2026-10-11 07:16:29 UTC] (9185afaa) refactor: split large component into smaller parts
+[2026-10-11 08:18:38 UTC] (d36232aa) feat: add smooth scroll behavior
