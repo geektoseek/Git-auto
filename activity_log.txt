@@ -3378,3 +3378,4 @@
 [2026-10-12 10:56:29 UTC] (3ec6d9e8) docs: update deployment notes
 [2026-10-12 11:51:04 UTC] (8a3e8cd4) chore: sync lockfile
 [2026-10-12 11:51:04 UTC] (e09d5277) docs: update README with setup steps
+[2026-10-12 11:51:04 UTC] (806ca5a4) style: reformat CSS variables section
