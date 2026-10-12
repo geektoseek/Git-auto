@@ -3360,3 +3360,4 @@
 [2026-10-11 15:53:19 UTC] (9233b8b7) chore: add editor config settings
 [2026-10-11 16:20:32 UTC] (afe6ba3c) style: clean up unused class names
 [2026-10-12 00:01:09 UTC] (ae16409a) docs: improve component documentation
+[2026-10-12 00:01:09 UTC] (62941048) fix: resolve CSS specificity conflict
