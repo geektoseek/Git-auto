@@ -3361,3 +3361,4 @@
 [2026-10-11 16:20:32 UTC] (afe6ba3c) style: clean up unused class names
 [2026-10-12 00:01:09 UTC] (ae16409a) docs: improve component documentation
 [2026-10-12 00:01:09 UTC] (62941048) fix: resolve CSS specificity conflict
+[2026-10-12 00:01:09 UTC] (63ef6ac4) feat: add smooth scroll behavior
