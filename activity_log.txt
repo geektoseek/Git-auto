@@ -3372,3 +3372,4 @@
 [2026-10-12 07:26:04 UTC] (972b6edc) docs: clarify installation instructions
 [2026-10-12 08:38:17 UTC] (be1c961b) chore: bump package version
 [2026-10-12 08:38:17 UTC] (f81d9bb2) docs: update tech stack references
+[2026-10-12 09:47:56 UTC] (2ca937dd) docs: improve changelog entries
