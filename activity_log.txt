@@ -3370,3 +3370,4 @@
 [2026-10-12 06:34:10 UTC] (51051e68) perf: defer non-critical scripts
 [2026-10-12 07:26:04 UTC] (abe3556e) refactor: simplify component logic
 [2026-10-12 07:26:04 UTC] (972b6edc) docs: clarify installation instructions
+[2026-10-12 08:38:17 UTC] (be1c961b) chore: bump package version
