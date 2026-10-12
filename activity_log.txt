@@ -3359,3 +3359,4 @@
 [2026-10-11 15:03:50 UTC] (02b8c3cc) fix: fix image aspect ratio on Safari
 [2026-10-11 15:53:19 UTC] (9233b8b7) chore: add editor config settings
 [2026-10-11 16:20:32 UTC] (afe6ba3c) style: clean up unused class names
+[2026-10-12 00:01:09 UTC] (ae16409a) docs: improve component documentation
