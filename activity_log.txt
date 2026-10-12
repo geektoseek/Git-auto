@@ -3384,3 +3384,4 @@
 [2026-10-12 12:28:09 UTC] (f2ac92a6) refactor: extract reusable utility
 [2026-10-12 13:25:53 UTC] (92a35217) perf: optimize image loading strategy
 [2026-10-12 13:25:53 UTC] (72dff125) refactor: improve variable naming
+[2026-10-12 15:13:52 UTC] (9ce7148d) fix: resolve CSS specificity conflict
