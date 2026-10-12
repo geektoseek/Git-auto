@@ -3374,3 +3374,4 @@
 [2026-10-12 08:38:17 UTC] (f81d9bb2) docs: update tech stack references
 [2026-10-12 09:47:56 UTC] (2ca937dd) docs: improve changelog entries
 [2026-10-12 10:56:29 UTC] (5e867a0a) fix: patch overflow on small screens
+[2026-10-12 10:56:29 UTC] (fa6c1294) fix: resolve alignment issue on mobile
