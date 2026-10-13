@@ -3392,3 +3392,4 @@
 [2026-10-13 01:27:35 UTC] (e9f4dea0) docs: update README with setup steps
 [2026-10-13 01:27:35 UTC] (29add18f) refactor: clean up legacy code
 [2026-10-13 01:27:35 UTC] (e81fa2e5) docs: improve component documentation
+[2026-10-13 01:58:16 UTC] (915ff489) fix: fix font loading fallback
