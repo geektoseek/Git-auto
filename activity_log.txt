@@ -3388,3 +3388,4 @@
 [2026-10-13 00:06:54 UTC] (1f417233) refactor: extract reusable utility
 [2026-10-13 00:06:54 UTC] (617999ce) refactor: consolidate repeated styles
 [2026-10-13 00:06:54 UTC] (a62dcedf) perf: improve scroll event throttling
+[2026-10-13 00:57:39 UTC] (62d01c3e) fix: fix transition timing mismatch
