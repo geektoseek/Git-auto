@@ -3398,3 +3398,4 @@
 [2026-10-13 02:15:20 UTC] (a38e1a8d) perf: minify inline SVGs
 [2026-10-13 02:41:45 UTC] (08aebe23) style: format code with consistent spacing
 [2026-10-13 02:41:45 UTC] (93517664) chore: clean up build artifacts
+[2026-10-13 02:41:45 UTC] (412cff40) refactor: reduce component nesting
