@@ -3402,3 +3402,4 @@
 [2026-10-13 03:03:27 UTC] (00276a5d) chore: clean up build artifacts
 [2026-10-13 03:23:15 UTC] (427bec45) fix: fix image aspect ratio on Safari
 [2026-10-13 03:23:15 UTC] (6bdc4bdd) perf: improve scroll event throttling
+[2026-10-13 03:23:15 UTC] (488a6de1) style: align table formatting in docs
