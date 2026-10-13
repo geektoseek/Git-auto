@@ -3390,3 +3390,4 @@
 [2026-10-13 00:06:54 UTC] (a62dcedf) perf: improve scroll event throttling
 [2026-10-13 00:57:39 UTC] (62d01c3e) fix: fix transition timing mismatch
 [2026-10-13 01:27:35 UTC] (e9f4dea0) docs: update README with setup steps
+[2026-10-13 01:27:35 UTC] (29add18f) refactor: clean up legacy code
