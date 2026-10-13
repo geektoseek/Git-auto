@@ -3394,3 +3394,4 @@
 [2026-10-13 01:27:35 UTC] (e81fa2e5) docs: improve component documentation
 [2026-10-13 01:58:16 UTC] (915ff489) fix: fix font loading fallback
 [2026-10-13 01:58:16 UTC] (9fa771e9) fix: fix transition timing mismatch
+[2026-10-13 01:58:16 UTC] (a1244e80) refactor: consolidate repeated styles
