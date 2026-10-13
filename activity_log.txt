@@ -3405,3 +3405,4 @@
 [2026-10-13 03:23:15 UTC] (488a6de1) style: align table formatting in docs
 [2026-10-13 06:39:23 UTC] (7be0861a) docs: update contact information
 [2026-10-13 06:39:23 UTC] (5198ad62) refactor: split large component into smaller parts
+[2026-10-13 06:39:23 UTC] (9705a5e3) docs: update deployment notes
