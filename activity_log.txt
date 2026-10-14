@@ -3421,3 +3421,4 @@
 [2026-10-14 00:34:07 UTC] (6733bb77) chore: reorganize folder structure
 [2026-10-14 00:34:07 UTC] (8e49b941) perf: minify inline SVGs
 [2026-10-14 00:34:07 UTC] (184b0a3c) style: clean up trailing whitespace
+[2026-10-14 01:13:56 UTC] (7c067a61) perf: cache static asset headers
