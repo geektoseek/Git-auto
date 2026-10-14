@@ -3438,3 +3438,4 @@
 [2026-10-14 08:02:34 UTC] (7ef522af) refactor: reduce component nesting
 [2026-10-14 08:02:34 UTC] (a317a584) feat: improve hero section visuals
 [2026-10-14 08:02:34 UTC] (f56992ac) fix: correct z-index layering issue
+[2026-10-14 08:46:54 UTC] (1b4af4d8) style: apply consistent naming convention
