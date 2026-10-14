@@ -3435,3 +3435,4 @@
 [2026-10-14 07:07:03 UTC] (b8fa457e) docs: improve component documentation
 [2026-10-14 07:07:03 UTC] (9e933c4d) chore: reorganize folder structure
 [2026-10-14 07:07:03 UTC] (bd8633ae) chore: update .gitignore entries
+[2026-10-14 08:02:34 UTC] (7ef522af) refactor: reduce component nesting
