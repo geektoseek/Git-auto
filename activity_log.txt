@@ -3428,3 +3428,4 @@
 [2026-10-14 04:41:24 UTC] (3efdf1a7) perf: minify inline SVGs
 [2026-10-14 05:25:46 UTC] (4d7c2d04) docs: add project structure notes
 [2026-10-14 05:25:46 UTC] (1fabeda1) perf: lazy load below-fold sections
+[2026-10-14 05:25:46 UTC] (a1bff4f6) perf: defer non-critical scripts
