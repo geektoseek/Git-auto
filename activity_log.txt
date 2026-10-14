@@ -3423,3 +3423,4 @@
 [2026-10-14 00:34:07 UTC] (184b0a3c) style: clean up trailing whitespace
 [2026-10-14 01:13:56 UTC] (7c067a61) perf: cache static asset headers
 [2026-10-14 01:13:56 UTC] (44aef232) chore: add editor config settings
+[2026-10-14 01:13:56 UTC] (31e194de) docs: add project structure notes
