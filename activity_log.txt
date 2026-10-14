@@ -3429,3 +3429,4 @@
 [2026-10-14 05:25:46 UTC] (4d7c2d04) docs: add project structure notes
 [2026-10-14 05:25:46 UTC] (1fabeda1) perf: lazy load below-fold sections
 [2026-10-14 05:25:46 UTC] (a1bff4f6) perf: defer non-critical scripts
+[2026-10-14 06:11:56 UTC] (7f51b05f) fix: fix image aspect ratio on Safari
