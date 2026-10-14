@@ -3443,3 +3443,4 @@
 [2026-10-14 09:44:12 UTC] (5bd39a1f) chore: add editor config settings
 [2026-10-14 09:44:12 UTC] (cb70c3d2) docs: update README with setup steps
 [2026-10-14 09:44:12 UTC] (2b82a026) chore: remove unused imports
+[2026-10-14 10:29:54 UTC] (ce4ffd7c) docs: improve changelog entries
