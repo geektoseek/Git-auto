@@ -3419,3 +3419,4 @@
 [2026-10-13 11:39:52 UTC] (5e04979b) refactor: improve variable naming
 [2026-10-13 12:11:16 UTC] (17b0b3c8) perf: reduce animation repaints
 [2026-10-14 00:34:07 UTC] (6733bb77) chore: reorganize folder structure
+[2026-10-14 00:34:07 UTC] (8e49b941) perf: minify inline SVGs
