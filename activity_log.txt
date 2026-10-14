@@ -3426,3 +3426,4 @@
 [2026-10-14 01:13:56 UTC] (31e194de) docs: add project structure notes
 [2026-10-14 01:40:17 UTC] (fd6e1b3f) refactor: clean up legacy code
 [2026-10-14 04:41:24 UTC] (3efdf1a7) perf: minify inline SVGs
+[2026-10-14 05:25:46 UTC] (4d7c2d04) docs: add project structure notes
