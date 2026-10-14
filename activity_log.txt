@@ -3440,3 +3440,4 @@
 [2026-10-14 08:02:34 UTC] (f56992ac) fix: correct z-index layering issue
 [2026-10-14 08:46:54 UTC] (1b4af4d8) style: apply consistent naming convention
 [2026-10-14 09:26:28 UTC] (8c2a3bdc) docs: update tech stack references
+[2026-10-14 09:44:12 UTC] (5bd39a1f) chore: add editor config settings
