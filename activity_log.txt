@@ -3431,3 +3431,4 @@
 [2026-10-14 05:25:46 UTC] (a1bff4f6) perf: defer non-critical scripts
 [2026-10-14 06:11:56 UTC] (7f51b05f) fix: fix image aspect ratio on Safari
 [2026-10-14 06:11:56 UTC] (d2bb2dcb) refactor: reduce component nesting
+[2026-10-14 06:11:56 UTC] (d16a4e9e) refactor: restructure section layout
