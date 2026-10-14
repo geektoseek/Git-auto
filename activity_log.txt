@@ -3437,3 +3437,4 @@
 [2026-10-14 07:07:03 UTC] (bd8633ae) chore: update .gitignore entries
 [2026-10-14 08:02:34 UTC] (7ef522af) refactor: reduce component nesting
 [2026-10-14 08:02:34 UTC] (a317a584) feat: improve hero section visuals
+[2026-10-14 08:02:34 UTC] (f56992ac) fix: correct z-index layering issue
