@@ -3470,3 +3470,4 @@
 [2026-10-15 08:21:50 UTC] (46ed5278) feat: improve mobile navigation flow
 [2026-10-15 08:21:50 UTC] (a7adea5c) perf: optimize image loading strategy
 [2026-10-15 09:04:35 UTC] (88be00d3) chore: update CI pipeline notes
+[2026-10-15 09:04:35 UTC] (be3aa675) fix: fix image aspect ratio on Safari
