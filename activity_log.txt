@@ -3467,3 +3467,4 @@
 [2026-10-15 07:44:10 UTC] (c887263c) refactor: extract reusable utility
 [2026-10-15 07:44:10 UTC] (fc12d88a) refactor: clean up legacy code
 [2026-10-15 08:21:50 UTC] (85caf6ca) perf: preload critical fonts
+[2026-10-15 08:21:50 UTC] (46ed5278) feat: improve mobile navigation flow
