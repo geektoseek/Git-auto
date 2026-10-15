@@ -3465,3 +3465,4 @@
 [2026-10-15 06:58:35 UTC] (b964b354) perf: reduce animation repaints
 [2026-10-15 06:58:35 UTC] (e1ff5393) chore: update dependencies
 [2026-10-15 07:44:10 UTC] (c887263c) refactor: extract reusable utility
+[2026-10-15 07:44:10 UTC] (fc12d88a) refactor: clean up legacy code
