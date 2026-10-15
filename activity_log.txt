@@ -3458,3 +3458,4 @@
 [2026-10-15 04:23:40 UTC] (f8f82e41) chore: update .gitignore entries
 [2026-10-15 04:23:40 UTC] (28ebb1e6) docs: add usage examples
 [2026-10-15 05:16:00 UTC] (b4cb5df4) refactor: clean up legacy code
+[2026-10-15 05:16:00 UTC] (bec5d592) docs: improve component documentation
