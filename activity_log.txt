@@ -3450,3 +3450,4 @@
 [2026-10-15 00:03:05 UTC] (87f56182) refactor: split large component into smaller parts
 [2026-10-15 00:32:31 UTC] (cc57d324) chore: update .gitignore entries
 [2026-10-15 00:32:31 UTC] (2125b959) perf: improve scroll event throttling
+[2026-10-15 00:32:31 UTC] (ea15b6db) refactor: reduce component nesting
