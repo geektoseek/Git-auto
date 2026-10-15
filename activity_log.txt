@@ -3474,3 +3474,4 @@
 [2026-10-15 09:04:35 UTC] (c7defe5b) fix: resolve button hover state bug
 [2026-10-15 09:26:18 UTC] (dc57c655) docs: improve changelog entries
 [2026-10-15 10:14:04 UTC] (48676b7d) feat: improve mobile navigation flow
+[2026-10-15 10:14:04 UTC] (99ce42e1) fix: resolve button hover state bug
