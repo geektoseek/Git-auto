@@ -3505,3 +3505,4 @@
 [2026-10-16 11:15:16 UTC] (6beab25e) docs: update tech stack references
 [2026-10-16 12:04:30 UTC] (804a872d) fix: fix font loading fallback
 [2026-10-16 12:36:03 UTC] (52ee91e6) docs: clarify installation instructions
+[2026-10-16 13:11:39 UTC] (a5478d03) perf: lazy load below-fold sections
