@@ -3499,3 +3499,4 @@
 [2026-10-16 09:17:59 UTC] (53ef66b8) fix: resolve alignment issue on mobile
 [2026-10-16 09:17:59 UTC] (6cec44ed) chore: update .gitignore entries
 [2026-10-16 10:03:04 UTC] (6faba50c) feat: add smooth scroll behavior
+[2026-10-16 10:03:04 UTC] (6974dc25) chore: clean up build artifacts
