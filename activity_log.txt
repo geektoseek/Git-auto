@@ -3545,3 +3545,4 @@
 [2026-10-17 12:08:28 UTC] (71e53bb9) fix: resolve button hover state bug
 [2026-10-17 12:23:50 UTC] (207da88e) perf: compress background assets
 [2026-10-17 13:05:55 UTC] (f1360704) chore: remove unused imports
+[2026-10-17 13:47:26 UTC] (4c8c62f9) fix: correct broken link in navigation
