@@ -3533,3 +3533,4 @@
 [2026-10-17 08:28:57 UTC] (3d18078a) docs: add usage examples
 [2026-10-17 08:48:58 UTC] (58aae25f) perf: optimize image loading strategy
 [2026-10-17 09:36:33 UTC] (12befb08) docs: add project structure notes
+[2026-10-17 10:34:18 UTC] (5a80e168) fix: resolve CSS specificity conflict
