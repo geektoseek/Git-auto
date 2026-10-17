@@ -3517,3 +3517,4 @@
 [2026-10-17 00:30:47 UTC] (4ba84c51) style: align table formatting in docs
 [2026-10-17 00:30:47 UTC] (4083510a) docs: clarify installation instructions
 [2026-10-17 00:30:47 UTC] (b31be5c8) style: format code with consistent spacing
+[2026-10-17 01:08:40 UTC] (2432d5b1) refactor: extract reusable utility
