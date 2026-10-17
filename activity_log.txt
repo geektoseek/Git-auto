@@ -3531,3 +3531,4 @@
 [2026-10-17 07:51:06 UTC] (106306bc) style: adjust line breaks in components
 [2026-10-17 07:51:06 UTC] (2666cd17) style: normalize quote style
 [2026-10-17 08:28:57 UTC] (3d18078a) docs: add usage examples
+[2026-10-17 08:48:58 UTC] (58aae25f) perf: optimize image loading strategy
