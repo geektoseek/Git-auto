@@ -3514,3 +3514,4 @@
 [2026-10-16 15:01:02 UTC] (3b4fc5ce) chore: update .gitignore entries
 [2026-10-16 15:27:00 UTC] (1848dae8) fix: correct broken link in navigation
 [2026-10-16 15:27:00 UTC] (601edadb) perf: reduce animation repaints
+[2026-10-17 00:30:47 UTC] (4ba84c51) style: align table formatting in docs
