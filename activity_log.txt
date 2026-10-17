@@ -3529,3 +3529,4 @@
 [2026-10-17 07:12:13 UTC] (da889498) refactor: reduce component nesting
 [2026-10-17 07:51:06 UTC] (0f9533d8) docs: improve component documentation
 [2026-10-17 07:51:06 UTC] (106306bc) style: adjust line breaks in components
+[2026-10-17 07:51:06 UTC] (2666cd17) style: normalize quote style
