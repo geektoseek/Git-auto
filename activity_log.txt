@@ -3544,3 +3544,4 @@
 [2026-10-17 12:08:28 UTC] (1ea15e7f) chore: clean up build artifacts
 [2026-10-17 12:08:28 UTC] (71e53bb9) fix: resolve button hover state bug
 [2026-10-17 12:23:50 UTC] (207da88e) perf: compress background assets
+[2026-10-17 13:05:55 UTC] (f1360704) chore: remove unused imports
