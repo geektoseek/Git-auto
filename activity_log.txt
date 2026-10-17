@@ -3536,3 +3536,4 @@
 [2026-10-17 10:34:18 UTC] (5a80e168) fix: resolve CSS specificity conflict
 [2026-10-17 10:34:18 UTC] (28709c3b) chore: update CI pipeline notes
 [2026-10-17 11:19:53 UTC] (b7a198f0) feat: implement dynamic content loading
+[2026-10-17 11:19:53 UTC] (c199ea7e) perf: defer non-critical scripts
