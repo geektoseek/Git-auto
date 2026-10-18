@@ -3557,3 +3557,4 @@
 [2026-10-18 05:10:23 UTC] (7eb0e1b3) style: apply consistent naming convention
 [2026-10-18 05:10:23 UTC] (815c23a9) perf: reduce bundle size
 [2026-10-18 05:59:40 UTC] (34ec6ef4) perf: defer non-critical scripts
+[2026-10-18 05:59:40 UTC] (f1bbedfe) style: clean up unused class names
