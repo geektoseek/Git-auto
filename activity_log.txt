@@ -3550,3 +3550,4 @@
 [2026-10-18 00:03:38 UTC] (f0017842) refactor: consolidate repeated styles
 [2026-10-18 00:41:42 UTC] (e26341cf) refactor: restructure section layout
 [2026-10-18 00:41:42 UTC] (d16dd7eb) docs: add project structure notes
+[2026-10-18 00:41:42 UTC] (9cc37423) fix: fix transition timing mismatch
