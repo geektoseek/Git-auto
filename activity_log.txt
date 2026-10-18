@@ -3549,3 +3549,4 @@
 [2026-10-18 00:03:38 UTC] (bdd9d18a) perf: reduce bundle size
 [2026-10-18 00:03:38 UTC] (f0017842) refactor: consolidate repeated styles
 [2026-10-18 00:41:42 UTC] (e26341cf) refactor: restructure section layout
+[2026-10-18 00:41:42 UTC] (d16dd7eb) docs: add project structure notes
