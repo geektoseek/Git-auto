@@ -3578,3 +3578,4 @@
 [2026-10-19 00:12:49 UTC] (950543b1) perf: defer non-critical scripts
 [2026-10-19 00:53:45 UTC] (8be4f504) style: clean up trailing whitespace
 [2026-10-19 00:53:45 UTC] (0aeae835) feat: implement dynamic content loading
+[2026-10-19 00:53:45 UTC] (4b9ea7b7) fix: correct z-index layering issue
