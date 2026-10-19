@@ -3580,3 +3580,4 @@
 [2026-10-19 00:53:45 UTC] (0aeae835) feat: implement dynamic content loading
 [2026-10-19 00:53:45 UTC] (4b9ea7b7) fix: correct z-index layering issue
 [2026-10-19 04:26:15 UTC] (fc851769) fix: patch scroll position reset
+[2026-10-19 04:26:15 UTC] (89860b2a) fix: resolve CSS specificity conflict
