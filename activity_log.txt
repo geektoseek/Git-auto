@@ -3592,3 +3592,4 @@
 [2026-10-19 08:06:12 UTC] (8782aaf3) docs: add usage examples
 [2026-10-19 08:06:12 UTC] (a0895ae2) feat: improve mobile navigation flow
 [2026-10-19 08:06:12 UTC] (aed159f8) fix: fix image aspect ratio on Safari
+[2026-10-19 08:58:04 UTC] (559ec440) fix: fix font loading fallback
