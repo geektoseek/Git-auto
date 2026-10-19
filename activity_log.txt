@@ -3590,3 +3590,4 @@
 [2026-10-19 07:20:10 UTC] (df804862) style: improve code readability
 [2026-10-19 07:20:10 UTC] (196e1f5e) perf: reduce animation repaints
 [2026-10-19 08:06:12 UTC] (8782aaf3) docs: add usage examples
+[2026-10-19 08:06:12 UTC] (a0895ae2) feat: improve mobile navigation flow
