@@ -3602,3 +3602,4 @@
 [2026-10-19 11:07:45 UTC] (690dd791) fix: correct broken link in navigation
 [2026-10-20 00:36:05 UTC] (4dd2ae7a) chore: clean up build artifacts
 [2026-10-20 01:05:35 UTC] (c0355c83) fix: resolve alignment issue on mobile
+[2026-10-20 01:05:35 UTC] (c9443988) docs: add usage examples
