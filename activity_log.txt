@@ -3625,3 +3625,4 @@
 [2026-10-20 09:38:12 UTC] (9d1dce28) perf: minify inline SVGs
 [2026-10-20 09:38:12 UTC] (2032d70f) refactor: split large component into smaller parts
 [2026-10-20 09:38:12 UTC] (ad3f8c23) refactor: optimize asset references
+[2026-10-20 10:20:37 UTC] (76316c71) refactor: clean up legacy code
