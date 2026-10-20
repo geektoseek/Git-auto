@@ -3619,3 +3619,4 @@
 [2026-10-20 07:56:00 UTC] (f67b8f15) style: improve code readability
 [2026-10-20 08:36:31 UTC] (40f84d80) feat: improve mobile navigation flow
 [2026-10-20 08:36:31 UTC] (65a5e3e5) feat: improve hero section visuals
+[2026-10-20 09:20:54 UTC] (5ef69397) fix: correct z-index layering issue
