@@ -3623,3 +3623,4 @@
 [2026-10-20 09:20:54 UTC] (eb9f91bd) docs: add inline code comments
 [2026-10-20 09:20:54 UTC] (74d52d57) style: clean up trailing whitespace
 [2026-10-20 09:38:12 UTC] (9d1dce28) perf: minify inline SVGs
+[2026-10-20 09:38:12 UTC] (2032d70f) refactor: split large component into smaller parts
