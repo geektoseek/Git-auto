@@ -3605,3 +3605,4 @@
 [2026-10-20 01:05:35 UTC] (c9443988) docs: add usage examples
 [2026-10-20 01:05:35 UTC] (2fdaf64c) docs: clarify installation instructions
 [2026-10-20 01:37:17 UTC] (05681ffc) feat: improve hero section visuals
+[2026-10-20 01:37:17 UTC] (40eb4e6f) refactor: restructure section layout
