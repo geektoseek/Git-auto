@@ -3621,3 +3621,4 @@
 [2026-10-20 08:36:31 UTC] (65a5e3e5) feat: improve hero section visuals
 [2026-10-20 09:20:54 UTC] (5ef69397) fix: correct z-index layering issue
 [2026-10-20 09:20:54 UTC] (eb9f91bd) docs: add inline code comments
+[2026-10-20 09:20:54 UTC] (74d52d57) style: clean up trailing whitespace
