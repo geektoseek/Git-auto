@@ -3650,3 +3650,4 @@
 [2026-10-21 10:29:37 UTC] (4b8e3558) docs: improve component documentation
 [2026-10-21 11:40:41 UTC] (c0cb6784) style: apply consistent naming convention
 [2026-10-21 12:41:06 UTC] (5579d86b) perf: optimize image loading strategy
+[2026-10-21 12:41:06 UTC] (0de9cd0e) fix: fix image aspect ratio on Safari
