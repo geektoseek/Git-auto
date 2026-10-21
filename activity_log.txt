@@ -3646,3 +3646,4 @@
 [2026-10-21 09:17:21 UTC] (a87a710f) docs: update contact information
 [2026-10-21 09:17:21 UTC] (193ee86a) chore: reorganize folder structure
 [2026-10-21 09:39:18 UTC] (6301c832) perf: compress background assets
+[2026-10-21 09:39:18 UTC] (519e3611) refactor: simplify component logic
