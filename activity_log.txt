@@ -3628,3 +3628,4 @@
 [2026-10-20 10:20:37 UTC] (76316c71) refactor: clean up legacy code
 [2026-10-20 11:27:52 UTC] (9362b032) docs: add usage examples
 [2026-10-21 00:05:33 UTC] (12862e5e) perf: reduce animation repaints
+[2026-10-21 00:05:33 UTC] (b5156ead) style: reformat CSS variables section
