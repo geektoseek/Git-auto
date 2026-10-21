@@ -3652,3 +3652,4 @@
 [2026-10-21 12:41:06 UTC] (5579d86b) perf: optimize image loading strategy
 [2026-10-21 12:41:06 UTC] (0de9cd0e) fix: fix image aspect ratio on Safari
 [2026-10-21 13:02:17 UTC] (35083483) style: clean up unused class names
+[2026-10-21 13:42:17 UTC] (cf5da871) docs: add project structure notes
