@@ -3637,3 +3637,4 @@
 [2026-10-21 04:29:27 UTC] (f57cb7ec) docs: add inline code comments
 [2026-10-21 05:20:11 UTC] (7b97d178) perf: minify inline SVGs
 [2026-10-21 06:05:32 UTC] (59ba71ea) docs: add inline code comments
+[2026-10-21 06:05:32 UTC] (67ae3983) fix: resolve CSS specificity conflict
