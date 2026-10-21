@@ -3654,3 +3654,4 @@
 [2026-10-21 13:02:17 UTC] (35083483) style: clean up unused class names
 [2026-10-21 13:42:17 UTC] (cf5da871) docs: add project structure notes
 [2026-10-21 14:06:25 UTC] (8a070124) refactor: reduce component nesting
+[2026-10-21 14:06:25 UTC] (2f1abc25) perf: cache static asset headers
