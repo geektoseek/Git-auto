@@ -3634,3 +3634,4 @@
 [2026-10-21 01:22:28 UTC] (b3f1b31b) perf: minify inline SVGs
 [2026-10-21 04:29:26 UTC] (5b5d4c3f) chore: update CI pipeline notes
 [2026-10-21 04:29:27 UTC] (d9ce7051) docs: update deployment notes
+[2026-10-21 04:29:27 UTC] (f57cb7ec) docs: add inline code comments
