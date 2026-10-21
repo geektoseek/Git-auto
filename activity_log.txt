@@ -3645,3 +3645,4 @@
 [2026-10-21 08:38:26 UTC] (81d37bdf) chore: update dependencies
 [2026-10-21 09:17:21 UTC] (a87a710f) docs: update contact information
 [2026-10-21 09:17:21 UTC] (193ee86a) chore: reorganize folder structure
+[2026-10-21 09:39:18 UTC] (6301c832) perf: compress background assets
