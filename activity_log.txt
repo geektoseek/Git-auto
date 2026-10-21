@@ -3647,3 +3647,4 @@
 [2026-10-21 09:17:21 UTC] (193ee86a) chore: reorganize folder structure
 [2026-10-21 09:39:18 UTC] (6301c832) perf: compress background assets
 [2026-10-21 09:39:18 UTC] (519e3611) refactor: simplify component logic
+[2026-10-21 10:29:37 UTC] (4b8e3558) docs: improve component documentation
