@@ -3629,3 +3629,4 @@
 [2026-10-20 11:27:52 UTC] (9362b032) docs: add usage examples
 [2026-10-21 00:05:33 UTC] (12862e5e) perf: reduce animation repaints
 [2026-10-21 00:05:33 UTC] (b5156ead) style: reformat CSS variables section
+[2026-10-21 00:38:15 UTC] (cba371bb) feat: add responsive layout improvements
