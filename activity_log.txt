@@ -3657,3 +3657,4 @@
 [2026-10-21 14:06:25 UTC] (2f1abc25) perf: cache static asset headers
 [2026-10-21 14:06:25 UTC] (a5ad8972) chore: clean up build artifacts
 [2026-10-21 14:34:44 UTC] (90028cdf) docs: add project structure notes
+[2026-10-21 14:34:44 UTC] (9debb56c) refactor: restructure section layout
