@@ -3669,3 +3669,4 @@
 [2026-10-22 01:19:11 UTC] (1b0bfdf5) chore: refresh environment config
 [2026-10-22 01:19:11 UTC] (a90fbd56) feat: improve hero section visuals
 [2026-10-22 04:27:28 UTC] (82cc8f69) feat: improve hero section visuals
+[2026-10-22 04:27:28 UTC] (4727d26d) style: normalize quote style
