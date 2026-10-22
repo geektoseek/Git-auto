@@ -3671,3 +3671,4 @@
 [2026-10-22 04:27:28 UTC] (82cc8f69) feat: improve hero section visuals
 [2026-10-22 04:27:28 UTC] (4727d26d) style: normalize quote style
 [2026-10-22 04:27:28 UTC] (5d4a9313) fix: correct broken link in navigation
+[2026-10-22 05:24:08 UTC] (c200032a) perf: cache static asset headers
