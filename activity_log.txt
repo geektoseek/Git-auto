@@ -3670,3 +3670,4 @@
 [2026-10-22 01:19:11 UTC] (a90fbd56) feat: improve hero section visuals
 [2026-10-22 04:27:28 UTC] (82cc8f69) feat: improve hero section visuals
 [2026-10-22 04:27:28 UTC] (4727d26d) style: normalize quote style
+[2026-10-22 04:27:28 UTC] (5d4a9313) fix: correct broken link in navigation
