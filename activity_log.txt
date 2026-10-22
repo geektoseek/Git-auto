@@ -3662,3 +3662,4 @@
 [2026-10-21 15:20:17 UTC] (bae1e2b1) feat: add hover animation effects
 [2026-10-21 15:39:20 UTC] (5743234c) refactor: clean up legacy code
 [2026-10-21 15:39:20 UTC] (d175b12e) chore: sync lockfile
+[2026-10-22 00:09:00 UTC] (68ac17e8) perf: preload critical fonts
