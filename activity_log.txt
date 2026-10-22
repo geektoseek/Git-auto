@@ -3688,3 +3688,4 @@
 [2026-10-22 09:20:18 UTC] (08992285) refactor: restructure section layout
 [2026-10-22 09:38:32 UTC] (038d608c) refactor: clean up legacy code
 [2026-10-22 09:38:32 UTC] (c179aab3) feat: add footer link updates
+[2026-10-22 10:30:36 UTC] (3ea034d9) perf: defer non-critical scripts
