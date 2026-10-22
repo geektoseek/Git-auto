@@ -3694,3 +3694,4 @@
 [2026-10-22 11:43:09 UTC] (49006749) docs: improve component documentation
 [2026-10-22 11:43:09 UTC] (7d6c8d48) refactor: consolidate repeated styles
 [2026-10-22 12:44:52 UTC] (b9ae65a0) perf: compress background assets
+[2026-10-22 12:44:52 UTC] (2d74853a) perf: reduce animation repaints
