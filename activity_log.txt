@@ -3685,3 +3685,4 @@
 [2026-10-22 08:40:35 UTC] (303c7723) fix: patch scroll position reset
 [2026-10-22 08:40:35 UTC] (5fde21ec) style: adjust line breaks in components
 [2026-10-22 09:20:18 UTC] (8892c251) perf: cache static asset headers
+[2026-10-22 09:20:18 UTC] (08992285) refactor: restructure section layout
