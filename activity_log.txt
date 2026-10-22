@@ -3682,3 +3682,4 @@
 [2026-10-22 07:58:37 UTC] (729ca686) docs: update contact information
 [2026-10-22 07:58:37 UTC] (d891ca7c) feat: add new section styles
 [2026-10-22 08:40:35 UTC] (6e0a9e9b) feat: add footer link updates
+[2026-10-22 08:40:35 UTC] (303c7723) fix: patch scroll position reset
