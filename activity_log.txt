@@ -3667,3 +3667,4 @@
 [2026-10-22 00:41:50 UTC] (529247aa) style: clean up trailing whitespace
 [2026-10-22 01:19:11 UTC] (764f5b12) fix: resolve button hover state bug
 [2026-10-22 01:19:11 UTC] (1b0bfdf5) chore: refresh environment config
+[2026-10-22 01:19:11 UTC] (a90fbd56) feat: improve hero section visuals
