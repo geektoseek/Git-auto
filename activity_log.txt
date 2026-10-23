@@ -3708,3 +3708,4 @@
 [2026-10-23 05:24:26 UTC] (f172d42a) style: align table formatting in docs
 [2026-10-23 06:04:25 UTC] (bc0cbb55) perf: optimize image loading strategy
 [2026-10-23 06:04:26 UTC] (fbd51c99) chore: add editor config settings
+[2026-10-23 06:04:26 UTC] (4fc01e24) perf: defer non-critical scripts
