@@ -3720,3 +3720,4 @@
 [2026-10-23 09:35:16 UTC] (633aee87) feat: improve mobile navigation flow
 [2026-10-23 10:25:36 UTC] (183469e9) docs: improve changelog entries
 [2026-10-23 10:25:36 UTC] (f3399e0a) fix: correct broken link in navigation
+[2026-10-23 10:25:36 UTC] (b7356dd6) chore: bump package version
