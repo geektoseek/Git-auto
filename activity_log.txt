@@ -3722,3 +3722,4 @@
 [2026-10-23 10:25:36 UTC] (f3399e0a) fix: correct broken link in navigation
 [2026-10-23 10:25:36 UTC] (b7356dd6) chore: bump package version
 [2026-10-23 11:31:15 UTC] (a36abc25) refactor: restructure section layout
+[2026-10-23 12:22:46 UTC] (50cc2141) feat: improve mobile navigation flow
