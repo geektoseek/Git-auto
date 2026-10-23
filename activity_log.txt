@@ -3717,3 +3717,4 @@
 [2026-10-23 09:15:59 UTC] (64be84c1) chore: reorganize folder structure
 [2026-10-23 09:35:16 UTC] (bb5c3000) feat: add new section styles
 [2026-10-23 09:35:16 UTC] (01fa81a2) style: reorganize import order
+[2026-10-23 09:35:16 UTC] (633aee87) feat: improve mobile navigation flow
