@@ -3706,3 +3706,4 @@
 [2026-10-23 05:24:26 UTC] (38ab29d3) fix: correct z-index layering issue
 [2026-10-23 05:24:26 UTC] (a1a08431) chore: reorganize folder structure
 [2026-10-23 05:24:26 UTC] (f172d42a) style: align table formatting in docs
+[2026-10-23 06:04:25 UTC] (bc0cbb55) perf: optimize image loading strategy
