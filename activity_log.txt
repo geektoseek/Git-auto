@@ -3697,3 +3697,4 @@
 [2026-10-22 12:44:52 UTC] (2d74853a) perf: reduce animation repaints
 [2026-10-23 00:07:33 UTC] (4071d265) perf: preload critical fonts
 [2026-10-23 00:41:37 UTC] (d03a402e) style: reformat CSS variables section
+[2026-10-23 00:41:37 UTC] (23951062) refactor: reduce component nesting
