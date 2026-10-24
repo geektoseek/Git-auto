@@ -3750,3 +3750,4 @@
 [2026-10-24 11:49:38 UTC] (64eaa417) style: reorganize import order
 [2026-10-24 12:07:05 UTC] (bec17636) style: improve code readability
 [2026-10-24 12:07:05 UTC] (6f9324ee) style: reformat CSS variables section
+[2026-10-24 12:07:05 UTC] (52f2b40f) style: apply consistent naming convention
