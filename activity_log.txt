@@ -3734,3 +3734,4 @@
 [2026-10-24 05:58:08 UTC] (538a6c4a) style: reformat CSS variables section
 [2026-10-24 05:58:08 UTC] (448f2fe3) perf: minify inline SVGs
 [2026-10-24 06:53:05 UTC] (02bcbf38) docs: clarify installation instructions
+[2026-10-24 06:53:05 UTC] (9ce48446) refactor: clean up legacy code
