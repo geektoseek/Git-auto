@@ -3737,3 +3737,4 @@
 [2026-10-24 06:53:05 UTC] (9ce48446) refactor: clean up legacy code
 [2026-10-24 06:53:05 UTC] (92cd2801) perf: preload critical fonts
 [2026-10-24 07:36:32 UTC] (d33bcffb) refactor: improve variable naming
+[2026-10-24 08:11:17 UTC] (1d62cb1c) perf: defer non-critical scripts
