@@ -3742,3 +3742,4 @@
 [2026-10-24 08:11:17 UTC] (f32496e0) feat: add responsive layout improvements
 [2026-10-24 08:48:32 UTC] (be284f42) feat: improve hero section visuals
 [2026-10-24 08:48:32 UTC] (35452f60) feat: add responsive layout improvements
+[2026-10-24 09:07:27 UTC] (23e52647) chore: add editor config settings
