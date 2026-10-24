@@ -3747,3 +3747,4 @@
 [2026-10-24 09:44:20 UTC] (49aa0327) style: clean up unused class names
 [2026-10-24 09:44:20 UTC] (a7234b8c) style: apply consistent naming convention
 [2026-10-24 10:51:14 UTC] (2df1fa6d) docs: improve changelog entries
+[2026-10-24 11:49:38 UTC] (64eaa417) style: reorganize import order
