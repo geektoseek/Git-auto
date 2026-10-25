@@ -3772,3 +3772,4 @@
 [2026-10-25 08:29:04 UTC] (e9294aae) docs: add usage examples
 [2026-10-25 08:29:04 UTC] (169dd115) fix: patch scroll position reset
 [2026-10-25 09:04:54 UTC] (beeb0066) fix: patch scroll position reset
+[2026-10-25 09:04:54 UTC] (2f5c6aee) docs: improve component documentation
