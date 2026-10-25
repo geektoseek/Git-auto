@@ -3767,3 +3767,4 @@
 [2026-10-25 07:17:13 UTC] (02df5c91) style: clean up unused class names
 [2026-10-25 07:49:15 UTC] (3203c7cf) feat: enhance UI component structure
 [2026-10-25 07:49:15 UTC] (2d5770e8) perf: optimize image loading strategy
+[2026-10-25 07:49:15 UTC] (ff3bd1eb) feat: improve hero section visuals
