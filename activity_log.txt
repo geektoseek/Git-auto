@@ -3756,3 +3756,4 @@
 [2026-10-25 00:20:43 UTC] (a62c28ae) style: normalize quote style
 [2026-10-25 00:53:23 UTC] (82bb002a) refactor: consolidate repeated styles
 [2026-10-25 00:53:23 UTC] (9d9e3108) chore: add editor config settings
+[2026-10-25 04:27:26 UTC] (ceeb0297) fix: patch scroll position reset
