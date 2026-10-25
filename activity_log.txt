@@ -3777,3 +3777,4 @@
 [2026-10-25 09:25:05 UTC] (8e4c0e05) chore: update CI pipeline notes
 [2026-10-25 09:25:05 UTC] (e72724f8) feat: improve mobile navigation flow
 [2026-10-25 09:25:05 UTC] (0326072b) refactor: reduce component nesting
+[2026-10-25 10:03:45 UTC] (4b287cbc) chore: bump package version
