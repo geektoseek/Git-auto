@@ -3769,3 +3769,4 @@
 [2026-10-25 07:49:15 UTC] (2d5770e8) perf: optimize image loading strategy
 [2026-10-25 07:49:15 UTC] (ff3bd1eb) feat: improve hero section visuals
 [2026-10-25 08:29:04 UTC] (419b1414) refactor: consolidate repeated styles
+[2026-10-25 08:29:04 UTC] (e9294aae) docs: add usage examples
