@@ -3753,3 +3753,4 @@
 [2026-10-24 12:07:05 UTC] (52f2b40f) style: apply consistent naming convention
 [2026-10-25 00:20:43 UTC] (b067fb9d) fix: correct z-index layering issue
 [2026-10-25 00:20:43 UTC] (4281e0b8) refactor: clean up legacy code
+[2026-10-25 00:20:43 UTC] (a62c28ae) style: normalize quote style
