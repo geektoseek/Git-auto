@@ -3774,3 +3774,4 @@
 [2026-10-25 09:04:54 UTC] (beeb0066) fix: patch scroll position reset
 [2026-10-25 09:04:54 UTC] (2f5c6aee) docs: improve component documentation
 [2026-10-25 09:04:54 UTC] (59a2f96d) refactor: extract reusable utility
+[2026-10-25 09:25:05 UTC] (8e4c0e05) chore: update CI pipeline notes
