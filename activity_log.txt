@@ -3780,3 +3780,4 @@
 [2026-10-25 10:03:45 UTC] (4b287cbc) chore: bump package version
 [2026-10-25 11:17:03 UTC] (42a18889) refactor: clean up legacy code
 [2026-10-25 11:17:03 UTC] (75f73127) perf: lazy load below-fold sections
+[2026-10-25 11:17:03 UTC] (6b09dc49) style: reorganize import order
