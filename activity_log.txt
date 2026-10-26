@@ -3806,3 +3806,4 @@
 [2026-10-26 09:00:56 UTC] (05791069) refactor: extract reusable utility
 [2026-10-26 10:00:24 UTC] (d5e220fd) chore: reorganize folder structure
 [2026-10-26 10:00:24 UTC] (d3b261f6) fix: resolve CSS specificity conflict
+[2026-10-26 10:00:24 UTC] (738c4d26) refactor: reduce component nesting
