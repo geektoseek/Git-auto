@@ -3785,3 +3785,4 @@
 [2026-10-25 12:18:49 UTC] (4fd6b2ba) style: reorganize import order
 [2026-10-25 12:18:49 UTC] (291ae8c2) refactor: consolidate repeated styles
 [2026-10-26 00:24:19 UTC] (8e28236e) fix: fix image aspect ratio on Safari
+[2026-10-26 01:01:15 UTC] (b395600a) fix: fix image aspect ratio on Safari
