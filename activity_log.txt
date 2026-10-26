@@ -3798,3 +3798,4 @@
 [2026-10-26 06:21:18 UTC] (b493041a) feat: improve mobile navigation flow
 [2026-10-26 06:21:18 UTC] (72ec6ab2) chore: update CI pipeline notes
 [2026-10-26 07:25:54 UTC] (05d72b97) fix: resolve button hover state bug
+[2026-10-26 07:25:54 UTC] (79662afc) docs: clarify installation instructions
