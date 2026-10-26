@@ -3790,3 +3790,4 @@
 [2026-10-26 01:01:15 UTC] (e2455c4b) feat: improve hero section visuals
 [2026-10-26 04:30:23 UTC] (0c2a167e) style: adjust line breaks in components
 [2026-10-26 04:30:23 UTC] (8cca0983) perf: reduce bundle size
+[2026-10-26 04:30:23 UTC] (11f44d4e) fix: fix image aspect ratio on Safari
