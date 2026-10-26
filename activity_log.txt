@@ -3802,3 +3802,4 @@
 [2026-10-26 08:08:21 UTC] (b9b9041a) fix: fix image aspect ratio on Safari
 [2026-10-26 08:08:21 UTC] (bff97fb9) refactor: extract reusable utility
 [2026-10-26 09:00:56 UTC] (1b1201e5) feat: add footer link updates
+[2026-10-26 09:00:56 UTC] (272b291d) chore: add editor config settings
