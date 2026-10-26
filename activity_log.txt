@@ -3794,3 +3794,4 @@
 [2026-10-26 05:21:17 UTC] (c35d6852) chore: clean up build artifacts
 [2026-10-26 05:21:17 UTC] (e87b748e) fix: patch scroll position reset
 [2026-10-26 05:21:17 UTC] (cdd5fc21) style: reorganize import order
+[2026-10-26 06:21:18 UTC] (b31b2942) refactor: clean up legacy code
