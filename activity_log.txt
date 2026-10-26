@@ -3809,3 +3809,4 @@
 [2026-10-26 10:00:24 UTC] (738c4d26) refactor: reduce component nesting
 [2026-10-26 10:31:46 UTC] (2615ad0c) chore: reorganize folder structure
 [2026-10-26 10:31:46 UTC] (20a5b4eb) perf: lazy load below-fold sections
+[2026-10-26 11:26:47 UTC] (dc2da781) docs: add usage examples
