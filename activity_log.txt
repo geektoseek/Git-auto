@@ -3799,3 +3799,4 @@
 [2026-10-26 06:21:18 UTC] (72ec6ab2) chore: update CI pipeline notes
 [2026-10-26 07:25:54 UTC] (05d72b97) fix: resolve button hover state bug
 [2026-10-26 07:25:54 UTC] (79662afc) docs: clarify installation instructions
+[2026-10-26 08:08:21 UTC] (b9b9041a) fix: fix image aspect ratio on Safari
