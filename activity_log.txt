@@ -3827,3 +3827,4 @@
 [2026-10-27 01:29:21 UTC] (9685f0b8) refactor: clean up legacy code
 [2026-10-27 01:51:23 UTC] (4fb4949d) perf: reduce animation repaints
 [2026-10-27 01:51:23 UTC] (5b062456) feat: add hover animation effects
+[2026-10-27 04:49:04 UTC] (0a8b04d7) feat: add smooth scroll behavior
