@@ -3834,3 +3834,4 @@
 [2026-10-27 05:38:00 UTC] (3d227b6a) perf: defer non-critical scripts
 [2026-10-27 06:22:19 UTC] (593f5baf) chore: update dependencies
 [2026-10-27 06:22:19 UTC] (a52ad189) style: adjust line breaks in components
+[2026-10-27 06:22:19 UTC] (203cf34b) fix: fix transition timing mismatch
