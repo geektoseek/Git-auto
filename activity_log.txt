@@ -3830,3 +3830,4 @@
 [2026-10-27 04:49:04 UTC] (0a8b04d7) feat: add smooth scroll behavior
 [2026-10-27 04:49:04 UTC] (932e5818) docs: update deployment notes
 [2026-10-27 05:38:00 UTC] (76efe3cc) chore: update dependencies
+[2026-10-27 05:38:00 UTC] (b0e355f5) fix: patch scroll position reset
