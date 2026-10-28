@@ -3866,3 +3866,4 @@
 [2026-10-28 10:29:45 UTC] (54d62154) chore: update dependencies
 [2026-10-28 10:49:53 UTC] (636a9176) refactor: split large component into smaller parts
 [2026-10-28 10:49:53 UTC] (c4917be3) refactor: reduce component nesting
+[2026-10-28 10:49:53 UTC] (c3fc14ff) perf: minify inline SVGs
