@@ -3855,3 +3855,4 @@
 [2026-10-28 06:19:05 UTC] (fc1825c8) style: format code with consistent spacing
 [2026-10-28 06:53:08 UTC] (fce5e448) feat: add smooth scroll behavior
 [2026-10-28 06:53:08 UTC] (554c234d) chore: reorganize folder structure
+[2026-10-28 06:53:08 UTC] (7c05c2ab) docs: update tech stack references
