@@ -3862,3 +3862,4 @@
 [2026-10-28 09:00:06 UTC] (e09b8ed2) docs: update deployment notes
 [2026-10-28 09:00:06 UTC] (2df8b0dd) chore: bump package version
 [2026-10-28 09:44:39 UTC] (f70d3f28) fix: resolve CSS specificity conflict
+[2026-10-28 09:44:39 UTC] (1edf674b) chore: update dependencies
