@@ -3871,3 +3871,4 @@
 [2026-10-29 00:27:01 UTC] (bffbfb14) style: clean up unused class names
 [2026-10-29 01:11:24 UTC] (6852fa5d) refactor: clean up legacy code
 [2026-10-29 01:48:39 UTC] (1dac7a05) chore: clean up build artifacts
+[2026-10-29 01:48:39 UTC] (886a55f5) perf: preload critical fonts
