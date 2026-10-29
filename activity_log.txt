@@ -3881,3 +3881,4 @@
 [2026-10-29 08:03:07 UTC] (2725d4ed) fix: fix image aspect ratio on Safari
 [2026-10-29 08:03:07 UTC] (143040b6) style: improve code readability
 [2026-10-29 08:56:24 UTC] (84dbe113) fix: resolve CSS specificity conflict
+[2026-10-29 08:56:24 UTC] (15f7ecc7) perf: compress background assets
