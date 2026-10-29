@@ -3884,3 +3884,4 @@
 [2026-10-29 08:56:24 UTC] (15f7ecc7) perf: compress background assets
 [2026-10-29 08:56:24 UTC] (1c18a60c) perf: reduce bundle size
 [2026-10-29 10:02:48 UTC] (4decb172) perf: improve scroll event throttling
+[2026-10-29 10:49:39 UTC] (6d7c3669) perf: optimize image loading strategy
