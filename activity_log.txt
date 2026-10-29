@@ -3868,3 +3868,4 @@
 [2026-10-28 10:49:53 UTC] (c4917be3) refactor: reduce component nesting
 [2026-10-28 10:49:53 UTC] (c3fc14ff) perf: minify inline SVGs
 [2026-10-28 11:31:28 UTC] (5e4c4310) chore: clean up build artifacts
+[2026-10-29 00:27:01 UTC] (bffbfb14) style: clean up unused class names
