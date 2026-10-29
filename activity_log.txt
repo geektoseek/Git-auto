@@ -3893,3 +3893,4 @@
 [2026-10-29 11:40:57 UTC] (78574556) docs: improve changelog entries
 [2026-10-29 12:53:12 UTC] (ff027259) docs: add inline code comments
 [2026-10-29 13:54:49 UTC] (cee36b60) docs: update contact information
+[2026-10-29 13:54:49 UTC] (f06350ca) docs: update README with setup steps
