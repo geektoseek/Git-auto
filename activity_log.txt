@@ -3879,3 +3879,4 @@
 [2026-10-29 07:10:44 UTC] (21798804) refactor: simplify component logic
 [2026-10-29 07:10:44 UTC] (95d388a6) docs: improve component documentation
 [2026-10-29 08:03:07 UTC] (2725d4ed) fix: fix image aspect ratio on Safari
+[2026-10-29 08:03:07 UTC] (143040b6) style: improve code readability
