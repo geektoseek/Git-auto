@@ -3921,3 +3921,4 @@
 [2026-10-30 11:32:51 UTC] (0a3eab6d) docs: improve component documentation
 [2026-10-30 11:32:51 UTC] (2c61f631) feat: improve hero section visuals
 [2026-10-30 11:32:51 UTC] (0a593afe) style: improve code readability
+[2026-10-30 12:45:23 UTC] (66ade3ae) docs: add usage examples
