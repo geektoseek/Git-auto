@@ -3914,3 +3914,4 @@
 [2026-10-30 10:06:20 UTC] (29d0eb2a) style: reorganize import order
 [2026-10-30 10:06:20 UTC] (21f7b441) perf: preload critical fonts
 [2026-10-30 10:48:21 UTC] (012c3fe2) style: clean up unused class names
+[2026-10-30 10:48:21 UTC] (3538e85c) chore: add editor config settings
