@@ -3912,3 +3912,4 @@
 [2026-10-30 08:04:44 UTC] (6b69189e) refactor: reduce component nesting
 [2026-10-30 09:02:32 UTC] (7c3f0629) docs: update contact information
 [2026-10-30 10:06:20 UTC] (29d0eb2a) style: reorganize import order
+[2026-10-30 10:06:20 UTC] (21f7b441) perf: preload critical fonts
