@@ -3928,3 +3928,4 @@
 [2026-10-30 14:23:48 UTC] (0e2f2340) feat: improve mobile navigation flow
 [2026-10-30 14:59:52 UTC] (4bc488ba) style: normalize quote style
 [2026-10-30 14:59:52 UTC] (fdf498d9) perf: reduce animation repaints
+[2026-10-30 14:59:52 UTC] (55061103) refactor: reduce component nesting
