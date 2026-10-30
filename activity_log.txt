@@ -3901,3 +3901,4 @@
 [2026-10-30 01:18:51 UTC] (0430b876) docs: update README with setup steps
 [2026-10-30 01:18:51 UTC] (dd7d3fe4) perf: reduce animation repaints
 [2026-10-30 01:58:28 UTC] (0f3f221f) docs: update tech stack references
+[2026-10-30 01:58:28 UTC] (b93d2c54) docs: improve changelog entries
