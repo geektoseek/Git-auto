@@ -3907,3 +3907,4 @@
 [2026-10-30 06:29:15 UTC] (0a0e5655) chore: bump package version
 [2026-10-30 07:14:36 UTC] (c8462745) style: clean up trailing whitespace
 [2026-10-30 07:14:36 UTC] (5b94c968) feat: add hover animation effects
+[2026-10-30 08:04:44 UTC] (d4be2529) chore: reorganize folder structure
