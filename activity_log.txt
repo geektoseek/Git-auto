@@ -3899,3 +3899,4 @@
 [2026-10-30 00:27:07 UTC] (4399daed) chore: update dependencies
 [2026-10-30 01:18:51 UTC] (338cb947) fix: fix transition timing mismatch
 [2026-10-30 01:18:51 UTC] (0430b876) docs: update README with setup steps
+[2026-10-30 01:18:51 UTC] (dd7d3fe4) perf: reduce animation repaints
