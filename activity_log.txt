@@ -3904,3 +3904,4 @@
 [2026-10-30 01:58:28 UTC] (b93d2c54) docs: improve changelog entries
 [2026-10-30 02:25:50 UTC] (55c1d779) perf: minify inline SVGs
 [2026-10-30 05:33:20 UTC] (b8c5a98c) fix: patch overflow on small screens
+[2026-10-30 06:29:15 UTC] (0a0e5655) chore: bump package version
