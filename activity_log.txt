@@ -3924,3 +3924,4 @@
 [2026-10-30 12:45:23 UTC] (66ade3ae) docs: add usage examples
 [2026-10-30 13:47:48 UTC] (af120ec5) chore: update .gitignore entries
 [2026-10-30 13:47:48 UTC] (78d185b7) style: clean up trailing whitespace
+[2026-10-30 14:23:48 UTC] (570f1910) chore: refresh environment config
