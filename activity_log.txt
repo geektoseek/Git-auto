@@ -3930,3 +3930,4 @@
 [2026-10-30 14:59:52 UTC] (fdf498d9) perf: reduce animation repaints
 [2026-10-30 14:59:52 UTC] (55061103) refactor: reduce component nesting
 [2026-10-30 15:19:07 UTC] (1d2e331e) docs: clarify installation instructions
+[2026-10-30 16:08:44 UTC] (4b3ef730) refactor: clean up legacy code
