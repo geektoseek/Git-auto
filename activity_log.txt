@@ -3903,3 +3903,4 @@
 [2026-10-30 01:58:28 UTC] (0f3f221f) docs: update tech stack references
 [2026-10-30 01:58:28 UTC] (b93d2c54) docs: improve changelog entries
 [2026-10-30 02:25:50 UTC] (55c1d779) perf: minify inline SVGs
+[2026-10-30 05:33:20 UTC] (b8c5a98c) fix: patch overflow on small screens
