@@ -3937,3 +3937,4 @@
 [2026-10-31 00:59:40 UTC] (29bb50b7) style: apply consistent naming convention
 [2026-10-31 01:36:29 UTC] (17aed52d) chore: bump package version
 [2026-10-31 01:36:29 UTC] (08ce30a3) feat: improve mobile navigation flow
+[2026-10-31 01:36:29 UTC] (431e57b1) style: adjust line breaks in components
