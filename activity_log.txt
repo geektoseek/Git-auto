@@ -3965,3 +3965,4 @@
 [2026-11-01 01:12:40 UTC] (6e50c2d1) style: reorganize import order
 [2026-11-01 01:12:40 UTC] (15e3c3d7) refactor: simplify component logic
 [2026-11-01 01:12:40 UTC] (2ec78c8b) chore: sync lockfile
+[2026-11-01 01:56:33 UTC] (8ba964e9) fix: patch overflow on small screens
