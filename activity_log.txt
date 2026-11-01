@@ -3988,3 +3988,4 @@
 [2026-11-01 11:29:57 UTC] (bbc76d67) docs: improve changelog entries
 [2026-11-01 11:58:39 UTC] (267de5ec) perf: preload critical fonts
 [2026-11-01 11:58:39 UTC] (1ada1f64) style: reorganize import order
+[2026-11-01 13:13:25 UTC] (7e9a23ab) perf: minify inline SVGs
