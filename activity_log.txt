@@ -3981,3 +3981,4 @@
 [2026-11-01 09:46:33 UTC] (67cdb25d) feat: add responsive layout improvements
 [2026-11-01 09:46:33 UTC] (64bd631b) refactor: split large component into smaller parts
 [2026-11-01 10:31:51 UTC] (d26430a1) feat: improve hero section visuals
+[2026-11-01 10:31:51 UTC] (dd8e5108) fix: fix transition timing mismatch
