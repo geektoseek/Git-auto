@@ -3985,3 +3985,4 @@
 [2026-11-01 10:31:51 UTC] (09db3a6c) style: clean up unused class names
 [2026-11-01 11:12:20 UTC] (b466fcd6) fix: correct z-index layering issue
 [2026-11-01 11:12:20 UTC] (6fae9285) feat: improve hero section visuals
+[2026-11-01 11:29:57 UTC] (bbc76d67) docs: improve changelog entries
