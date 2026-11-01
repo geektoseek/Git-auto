@@ -3959,3 +3959,4 @@
 [2026-10-31 11:07:10 UTC] (a9745b4e) feat: add responsive layout improvements
 [2026-10-31 11:07:10 UTC] (93949b64) chore: sync lockfile
 [2026-10-31 12:16:06 UTC] (a685cf25) docs: clarify installation instructions
+[2026-11-01 00:23:33 UTC] (7761715c) perf: preload critical fonts
