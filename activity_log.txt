@@ -3987,3 +3987,4 @@
 [2026-11-01 11:12:20 UTC] (6fae9285) feat: improve hero section visuals
 [2026-11-01 11:29:57 UTC] (bbc76d67) docs: improve changelog entries
 [2026-11-01 11:58:39 UTC] (267de5ec) perf: preload critical fonts
+[2026-11-01 11:58:39 UTC] (1ada1f64) style: reorganize import order
