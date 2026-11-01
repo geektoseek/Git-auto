@@ -3983,3 +3983,4 @@
 [2026-11-01 10:31:51 UTC] (d26430a1) feat: improve hero section visuals
 [2026-11-01 10:31:51 UTC] (dd8e5108) fix: fix transition timing mismatch
 [2026-11-01 10:31:51 UTC] (09db3a6c) style: clean up unused class names
+[2026-11-01 11:12:20 UTC] (b466fcd6) fix: correct z-index layering issue
