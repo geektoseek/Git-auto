@@ -3970,3 +3970,4 @@
 [2026-11-01 01:56:33 UTC] (97c0b2e8) perf: minify inline SVGs
 [2026-11-01 05:48:23 UTC] (e3874df7) refactor: split large component into smaller parts
 [2026-11-01 05:48:23 UTC] (3ba89eb3) style: align table formatting in docs
+[2026-11-01 06:52:25 UTC] (02cca3ac) style: reorganize import order
