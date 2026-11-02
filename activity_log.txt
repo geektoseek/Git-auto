@@ -4014,3 +4014,4 @@
 [2026-11-02 13:45:56 UTC] (c57b8d81) refactor: split large component into smaller parts
 [2026-11-02 13:45:56 UTC] (0ea52d43) docs: clarify installation instructions
 [2026-11-02 13:45:56 UTC] (b730ba28) chore: update dependencies
+[2026-11-02 15:39:29 UTC] (685cef88) chore: remove unused imports
