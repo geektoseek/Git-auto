@@ -4004,3 +4004,4 @@
 [2026-11-02 06:52:40 UTC] (42ae607c) fix: resolve alignment issue on mobile
 [2026-11-02 07:44:00 UTC] (899bb911) style: apply consistent naming convention
 [2026-11-02 08:54:43 UTC] (09c84d74) fix: resolve CSS specificity conflict
+[2026-11-02 08:54:43 UTC] (7e1d25e2) docs: add project structure notes
