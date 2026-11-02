@@ -4010,3 +4010,4 @@
 [2026-11-02 11:16:41 UTC] (8bedfb3a) perf: minify inline SVGs
 [2026-11-02 12:15:12 UTC] (e78d1e67) perf: cache static asset headers
 [2026-11-02 12:52:32 UTC] (cb376c39) docs: clarify installation instructions
+[2026-11-02 12:52:32 UTC] (d5faf493) perf: reduce bundle size
