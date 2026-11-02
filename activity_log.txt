@@ -3998,3 +3998,4 @@
 [2026-11-02 02:09:32 UTC] (1e9491c5) fix: correct broken link in navigation
 [2026-11-02 02:09:32 UTC] (17308e11) chore: bump package version
 [2026-11-02 05:47:51 UTC] (89c704f4) feat: improve mobile navigation flow
+[2026-11-02 05:47:51 UTC] (9cac53f6) feat: add smooth scroll behavior
