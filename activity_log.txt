@@ -4022,3 +4022,4 @@
 [2026-11-03 01:40:19 UTC] (4dd860ca) perf: improve scroll event throttling
 [2026-11-03 02:11:35 UTC] (00b1fc8e) feat: improve mobile navigation flow
 [2026-11-03 02:39:43 UTC] (7f0d4bfb) style: normalize quote style
+[2026-11-03 02:39:43 UTC] (66108db3) docs: update README with setup steps
