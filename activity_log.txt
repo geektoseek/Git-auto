@@ -4024,3 +4024,4 @@
 [2026-11-03 02:39:43 UTC] (7f0d4bfb) style: normalize quote style
 [2026-11-03 02:39:43 UTC] (66108db3) docs: update README with setup steps
 [2026-11-03 02:39:43 UTC] (aa8e6236) feat: add new section styles
+[2026-11-03 03:01:43 UTC] (ec5c83d9) fix: resolve alignment issue on mobile
