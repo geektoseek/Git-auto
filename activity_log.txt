@@ -4021,3 +4021,4 @@
 [2026-11-03 01:14:21 UTC] (eea17ef0) perf: reduce bundle size
 [2026-11-03 01:40:19 UTC] (4dd860ca) perf: improve scroll event throttling
 [2026-11-03 02:11:35 UTC] (00b1fc8e) feat: improve mobile navigation flow
+[2026-11-03 02:39:43 UTC] (7f0d4bfb) style: normalize quote style
