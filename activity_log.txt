@@ -4027,3 +4027,4 @@
 [2026-11-03 03:01:43 UTC] (ec5c83d9) fix: resolve alignment issue on mobile
 [2026-11-03 03:01:43 UTC] (3eb15f4e) refactor: move constants to config file
 [2026-11-03 03:01:43 UTC] (933ee672) fix: resolve alignment issue on mobile
+[2026-11-03 03:28:41 UTC] (a63bf120) perf: minify inline SVGs
