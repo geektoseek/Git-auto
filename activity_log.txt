@@ -4033,3 +4033,4 @@
 [2026-11-03 06:29:08 UTC] (594e8f2b) feat: improve mobile navigation flow
 [2026-11-03 07:15:39 UTC] (dabc8bf3) style: apply consistent naming convention
 [2026-11-03 07:15:39 UTC] (b0cc2b12) feat: enhance card component design
+[2026-11-03 07:58:10 UTC] (4e1255e2) style: align table formatting in docs
