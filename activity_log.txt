@@ -4018,3 +4018,4 @@
 [2026-11-03 00:28:24 UTC] (c35d48d4) fix: resolve alignment issue on mobile
 [2026-11-03 00:28:24 UTC] (5353b62e) perf: defer non-critical scripts
 [2026-11-03 01:14:21 UTC] (ec8e1499) chore: sync lockfile
+[2026-11-03 01:14:21 UTC] (eea17ef0) perf: reduce bundle size
