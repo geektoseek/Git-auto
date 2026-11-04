@@ -4051,3 +4051,4 @@
 [2026-11-04 01:37:03 UTC] (5d95ee05) perf: cache static asset headers
 [2026-11-04 01:37:03 UTC] (c6e8dd42) refactor: restructure section layout
 [2026-11-04 02:21:03 UTC] (779207f2) style: clean up trailing whitespace
+[2026-11-04 02:56:01 UTC] (15c414a8) fix: patch scroll position reset
