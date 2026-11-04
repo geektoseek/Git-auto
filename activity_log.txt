@@ -4045,3 +4045,4 @@
 [2026-11-04 00:01:28 UTC] (7d45cc32) feat: add new section styles
 [2026-11-04 00:33:30 UTC] (1a3c687a) chore: add editor config settings
 [2026-11-04 00:33:30 UTC] (3397d2f4) style: clean up unused class names
+[2026-11-04 00:33:30 UTC] (d9c09f49) fix: fix image aspect ratio on Safari
