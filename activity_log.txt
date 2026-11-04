@@ -4053,3 +4053,4 @@
 [2026-11-04 02:21:03 UTC] (779207f2) style: clean up trailing whitespace
 [2026-11-04 02:56:01 UTC] (15c414a8) fix: patch scroll position reset
 [2026-11-04 02:56:01 UTC] (459eda97) docs: improve component documentation
+[2026-11-04 02:56:01 UTC] (c0f1ae14) style: apply consistent naming convention
