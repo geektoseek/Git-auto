@@ -4048,3 +4048,4 @@
 [2026-11-04 00:33:30 UTC] (d9c09f49) fix: fix image aspect ratio on Safari
 [2026-11-04 00:55:30 UTC] (ee9f0f35) style: adjust line breaks in components
 [2026-11-04 00:55:30 UTC] (b0ac19e6) fix: correct z-index layering issue
+[2026-11-04 01:37:03 UTC] (5d95ee05) perf: cache static asset headers
