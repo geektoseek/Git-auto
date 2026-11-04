@@ -4062,3 +4062,4 @@
 [2026-11-04 08:38:52 UTC] (5e332cbd) perf: defer non-critical scripts
 [2026-11-04 08:38:52 UTC] (a50d1a85) docs: improve component documentation
 [2026-11-04 08:38:52 UTC] (01bc535d) fix: correct z-index layering issue
+[2026-11-04 09:54:54 UTC] (6af06baa) refactor: clean up legacy code
