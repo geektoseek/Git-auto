@@ -4046,3 +4046,4 @@
 [2026-11-04 00:33:30 UTC] (1a3c687a) chore: add editor config settings
 [2026-11-04 00:33:30 UTC] (3397d2f4) style: clean up unused class names
 [2026-11-04 00:33:30 UTC] (d9c09f49) fix: fix image aspect ratio on Safari
+[2026-11-04 00:55:30 UTC] (ee9f0f35) style: adjust line breaks in components
