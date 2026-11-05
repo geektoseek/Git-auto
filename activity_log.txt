@@ -4084,3 +4084,4 @@
 [2026-11-05 06:26:52 UTC] (f5e89df9) perf: defer non-critical scripts
 [2026-11-05 07:25:44 UTC] (92ec17b7) refactor: clean up legacy code
 [2026-11-05 07:25:44 UTC] (646e1b4c) style: normalize quote style
+[2026-11-05 07:25:44 UTC] (020ffba0) perf: preload critical fonts
