@@ -4092,3 +4092,4 @@
 [2026-11-05 11:00:14 UTC] (5f906aeb) style: reformat CSS variables section
 [2026-11-05 11:00:14 UTC] (13a0e033) perf: optimize image loading strategy
 [2026-11-05 11:00:14 UTC] (338e0b68) perf: minify inline SVGs
+[2026-11-05 12:09:28 UTC] (106d529a) perf: lazy load below-fold sections
