@@ -4071,3 +4071,4 @@
 [2026-11-05 00:26:23 UTC] (813690e2) chore: update dependencies
 [2026-11-05 00:26:23 UTC] (74835cc0) perf: improve scroll event throttling
 [2026-11-05 00:50:46 UTC] (782c04b3) refactor: move constants to config file
+[2026-11-05 00:50:46 UTC] (3322a113) fix: correct broken link in navigation
