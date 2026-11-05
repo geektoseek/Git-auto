@@ -4079,3 +4079,4 @@
 [2026-11-05 02:28:39 UTC] (bf20e589) refactor: move constants to config file
 [2026-11-05 02:28:39 UTC] (33625642) docs: update tech stack references
 [2026-11-05 02:28:39 UTC] (20786592) fix: correct broken link in navigation
+[2026-11-05 03:16:13 UTC] (927734d5) docs: add usage examples
