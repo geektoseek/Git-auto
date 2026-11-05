@@ -4076,3 +4076,4 @@
 [2026-11-05 01:05:17 UTC] (279ad431) feat: improve mobile navigation flow
 [2026-11-05 01:05:17 UTC] (fd81d09c) style: clean up trailing whitespace
 [2026-11-05 01:44:21 UTC] (0fa27483) style: reorganize import order
+[2026-11-05 02:28:39 UTC] (bf20e589) refactor: move constants to config file
