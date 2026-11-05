@@ -4081,3 +4081,4 @@
 [2026-11-05 02:28:39 UTC] (20786592) fix: correct broken link in navigation
 [2026-11-05 03:16:13 UTC] (927734d5) docs: add usage examples
 [2026-11-05 06:26:52 UTC] (04929adc) feat: improve hero section visuals
+[2026-11-05 06:26:52 UTC] (f5e89df9) perf: defer non-critical scripts
