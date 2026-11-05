@@ -4074,3 +4074,4 @@
 [2026-11-05 00:50:46 UTC] (3322a113) fix: correct broken link in navigation
 [2026-11-05 00:50:46 UTC] (58c6b3d6) feat: improve mobile navigation flow
 [2026-11-05 01:05:17 UTC] (279ad431) feat: improve mobile navigation flow
+[2026-11-05 01:05:17 UTC] (fd81d09c) style: clean up trailing whitespace
