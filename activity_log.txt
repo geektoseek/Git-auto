@@ -4087,3 +4087,4 @@
 [2026-11-05 07:25:44 UTC] (020ffba0) perf: preload critical fonts
 [2026-11-05 07:56:23 UTC] (c4717fc4) docs: improve component documentation
 [2026-11-05 08:58:29 UTC] (d9a99eee) fix: resolve button hover state bug
+[2026-11-05 08:58:29 UTC] (db77e12b) style: normalize quote style
