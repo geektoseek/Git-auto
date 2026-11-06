@@ -4095,3 +4095,4 @@
 [2026-11-05 12:09:28 UTC] (106d529a) perf: lazy load below-fold sections
 [2026-11-05 12:09:28 UTC] (58c53c8b) chore: reorganize folder structure
 [2026-11-06 00:25:14 UTC] (d6903d7a) docs: add project structure notes
+[2026-11-06 00:25:14 UTC] (f0ef4317) fix: resolve CSS specificity conflict
