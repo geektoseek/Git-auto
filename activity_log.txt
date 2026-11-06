@@ -4097,3 +4097,4 @@
 [2026-11-06 00:25:14 UTC] (d6903d7a) docs: add project structure notes
 [2026-11-06 00:25:14 UTC] (f0ef4317) fix: resolve CSS specificity conflict
 [2026-11-06 00:56:45 UTC] (f04e29ee) docs: update contact information
+[2026-11-06 00:56:45 UTC] (384ecbb9) docs: update README with setup steps
