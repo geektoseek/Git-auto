@@ -4145,3 +4145,4 @@
 [2026-11-07 06:36:59 UTC] (59d6e2b4) fix: correct z-index layering issue
 [2026-11-07 06:36:59 UTC] (d4f04fab) fix: resolve CSS specificity conflict
 [2026-11-07 07:15:41 UTC] (99aa2f88) docs: improve changelog entries
+[2026-11-07 07:15:41 UTC] (dfd3d545) perf: minify inline SVGs
