@@ -4153,3 +4153,4 @@
 [2026-11-07 09:17:09 UTC] (b758fcb2) style: reformat CSS variables section
 [2026-11-07 09:17:09 UTC] (1088a760) refactor: simplify component logic
 [2026-11-07 10:17:59 UTC] (49d25db8) fix: fix image aspect ratio on Safari
+[2026-11-07 10:58:33 UTC] (b089aa4a) refactor: improve variable naming
