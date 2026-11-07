@@ -4137,3 +4137,4 @@
 [2026-11-07 01:08:22 UTC] (08c7e316) docs: update README with setup steps
 [2026-11-07 01:56:57 UTC] (7f922974) style: align table formatting in docs
 [2026-11-07 01:56:57 UTC] (2b6b22a0) fix: fix font loading fallback
+[2026-11-07 02:34:42 UTC] (5504f6f4) perf: reduce animation repaints
