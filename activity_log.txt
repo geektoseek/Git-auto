@@ -4134,3 +4134,4 @@
 [2026-11-07 00:23:46 UTC] (89c7189e) refactor: reduce component nesting
 [2026-11-07 00:23:46 UTC] (3052e4dd) perf: compress background assets
 [2026-11-07 00:23:46 UTC] (28702f29) docs: update README with setup steps
+[2026-11-07 01:08:22 UTC] (08c7e316) docs: update README with setup steps
