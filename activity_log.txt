@@ -4132,3 +4132,4 @@
 [2026-11-07 00:03:28 UTC] (051e9f5d) refactor: optimize asset references
 [2026-11-07 00:03:28 UTC] (56d8049f) perf: lazy load below-fold sections
 [2026-11-07 00:23:46 UTC] (89c7189e) refactor: reduce component nesting
+[2026-11-07 00:23:46 UTC] (3052e4dd) perf: compress background assets
