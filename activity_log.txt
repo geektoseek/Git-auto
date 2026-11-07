@@ -4160,3 +4160,4 @@
 [2026-11-07 11:52:58 UTC] (f610a73d) refactor: restructure section layout
 [2026-11-07 12:52:47 UTC] (8e9954a8) fix: fix font loading fallback
 [2026-11-07 12:52:47 UTC] (5d5e1102) refactor: reduce component nesting
+[2026-11-07 12:52:47 UTC] (952a56b2) refactor: consolidate repeated styles
