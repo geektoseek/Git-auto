@@ -4195,3 +4195,4 @@
 [2026-11-08 14:23:55 UTC] (fd233f92) perf: cache static asset headers
 [2026-11-08 14:23:55 UTC] (b60cfaab) fix: patch scroll position reset
 [2026-11-08 14:23:55 UTC] (06cdd4bc) perf: optimize image loading strategy
+[2026-11-08 15:03:54 UTC] (71873746) fix: patch scroll position reset
