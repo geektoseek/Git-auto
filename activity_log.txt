@@ -4187,3 +4187,4 @@
 [2026-11-08 11:31:22 UTC] (b04873b4) style: clean up unused class names
 [2026-11-08 12:07:20 UTC] (48b39f4e) chore: sync lockfile
 [2026-11-08 12:07:20 UTC] (1db51504) docs: improve component documentation
+[2026-11-08 12:07:20 UTC] (980f173c) chore: remove unused imports
