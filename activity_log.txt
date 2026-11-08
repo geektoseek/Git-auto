@@ -4192,3 +4192,4 @@
 [2026-11-08 13:15:20 UTC] (6bb562c8) fix: patch scroll position reset
 [2026-11-08 13:15:20 UTC] (c2b12e43) style: adjust line breaks in components
 [2026-11-08 14:02:25 UTC] (ed8c4baa) chore: sync lockfile
+[2026-11-08 14:23:55 UTC] (fd233f92) perf: cache static asset headers
