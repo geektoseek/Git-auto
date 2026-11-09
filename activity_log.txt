@@ -4200,3 +4200,4 @@
 [2026-11-09 00:05:54 UTC] (1be0df0f) style: improve code readability
 [2026-11-09 00:05:54 UTC] (dc27e123) perf: cache static asset headers
 [2026-11-09 01:10:03 UTC] (aeda9591) feat: add hover animation effects
+[2026-11-09 01:10:03 UTC] (0c7830ce) chore: add editor config settings
