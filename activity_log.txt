@@ -4197,3 +4197,4 @@
 [2026-11-08 14:23:55 UTC] (06cdd4bc) perf: optimize image loading strategy
 [2026-11-08 15:03:54 UTC] (71873746) fix: patch scroll position reset
 [2026-11-09 00:05:54 UTC] (8ab20636) docs: clarify installation instructions
+[2026-11-09 00:05:54 UTC] (1be0df0f) style: improve code readability
