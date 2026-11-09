@@ -4203,3 +4203,4 @@
 [2026-11-09 01:10:03 UTC] (0c7830ce) chore: add editor config settings
 [2026-11-09 01:44:35 UTC] (7f5dcb37) fix: resolve alignment issue on mobile
 [2026-11-09 01:44:35 UTC] (de8f1890) chore: bump package version
+[2026-11-09 02:26:31 UTC] (03238444) feat: add smooth scroll behavior
