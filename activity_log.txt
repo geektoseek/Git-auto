@@ -4214,3 +4214,4 @@
 [2026-11-09 10:24:09 UTC] (c6331ac2) style: apply consistent naming convention
 [2026-11-09 11:39:35 UTC] (f50cd295) perf: optimize image loading strategy
 [2026-11-09 11:39:35 UTC] (395dfee5) refactor: consolidate repeated styles
+[2026-11-09 11:39:35 UTC] (db43e42f) fix: correct broken link in navigation
