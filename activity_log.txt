@@ -4207,3 +4207,4 @@
 [2026-11-09 05:59:49 UTC] (e188609c) chore: sync lockfile
 [2026-11-09 05:59:49 UTC] (1f012033) style: format code with consistent spacing
 [2026-11-09 07:13:29 UTC] (ccc6b9bc) chore: refresh environment config
+[2026-11-09 07:13:29 UTC] (bab20183) docs: update deployment notes
