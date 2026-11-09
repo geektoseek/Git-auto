@@ -4219,3 +4219,4 @@
 [2026-11-09 12:44:16 UTC] (2ac1cfec) style: improve code readability
 [2026-11-09 12:44:16 UTC] (c18ed238) feat: add smooth scroll behavior
 [2026-11-09 13:23:08 UTC] (9c5f23d5) style: normalize quote style
+[2026-11-09 14:14:03 UTC] (4d3eecc9) feat: add footer link updates
