@@ -4223,3 +4223,4 @@
 [2026-11-09 14:14:03 UTC] (240740bc) fix: fix transition timing mismatch
 [2026-11-10 00:14:53 UTC] (73e22af1) docs: improve component documentation
 [2026-11-10 00:35:20 UTC] (83d5eb4e) style: improve code readability
+[2026-11-10 00:35:20 UTC] (7bf3e418) docs: clarify installation instructions
