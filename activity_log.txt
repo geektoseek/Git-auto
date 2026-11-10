@@ -4224,3 +4224,4 @@
 [2026-11-10 00:14:53 UTC] (73e22af1) docs: improve component documentation
 [2026-11-10 00:35:20 UTC] (83d5eb4e) style: improve code readability
 [2026-11-10 00:35:20 UTC] (7bf3e418) docs: clarify installation instructions
+[2026-11-10 00:48:13 UTC] (e85a68a5) fix: correct z-index layering issue
