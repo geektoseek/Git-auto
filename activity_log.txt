@@ -4239,3 +4239,4 @@
 [2026-11-10 02:39:49 UTC] (b1ea3704) docs: add project structure notes
 [2026-11-10 02:57:18 UTC] (145a4698) feat: add footer link updates
 [2026-11-10 03:46:21 UTC] (dfd3e1fb) style: normalize quote style
+[2026-11-10 03:46:21 UTC] (ad401cea) refactor: clean up legacy code
