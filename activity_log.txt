@@ -4249,3 +4249,4 @@
 [2026-11-10 07:45:35 UTC] (1b85985b) docs: update README with setup steps
 [2026-11-10 08:27:58 UTC] (6c16b5f6) refactor: simplify component logic
 [2026-11-10 08:27:58 UTC] (828f9743) refactor: clean up legacy code
+[2026-11-10 08:27:58 UTC] (011db305) docs: update README with setup steps
