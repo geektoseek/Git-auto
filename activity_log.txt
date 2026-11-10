@@ -4228,3 +4228,4 @@
 [2026-11-10 00:48:13 UTC] (64c2ca03) docs: update tech stack references
 [2026-11-10 00:48:13 UTC] (d847f700) fix: fix image aspect ratio on Safari
 [2026-11-10 01:09:20 UTC] (62e6184f) feat: add responsive layout improvements
+[2026-11-10 01:09:20 UTC] (e11e4f98) fix: resolve alignment issue on mobile
