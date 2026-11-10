@@ -4246,3 +4246,4 @@
 [2026-11-10 04:30:12 UTC] (1d30ae09) feat: add hover animation effects
 [2026-11-10 07:03:04 UTC] (202abb1e) refactor: optimize asset references
 [2026-11-10 07:03:04 UTC] (7633e10c) chore: add editor config settings
+[2026-11-10 07:45:35 UTC] (1b85985b) docs: update README with setup steps
