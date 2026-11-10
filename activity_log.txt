@@ -4236,3 +4236,4 @@
 [2026-11-10 02:17:33 UTC] (eaa3958d) feat: add hover animation effects
 [2026-11-10 02:39:49 UTC] (674c2035) style: adjust line breaks in components
 [2026-11-10 02:39:49 UTC] (1f1db9ad) docs: add inline code comments
+[2026-11-10 02:39:49 UTC] (b1ea3704) docs: add project structure notes
