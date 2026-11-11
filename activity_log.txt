@@ -4272,3 +4272,4 @@
 [2026-11-11 07:47:10 UTC] (c001c2ce) feat: add new section styles
 [2026-11-11 08:51:50 UTC] (7b45e549) docs: clarify installation instructions
 [2026-11-11 09:52:22 UTC] (9d16ba7c) perf: cache static asset headers
+[2026-11-11 09:52:22 UTC] (e6d56cf6) refactor: optimize asset references
