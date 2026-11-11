@@ -4268,3 +4268,4 @@
 [2026-11-11 05:55:56 UTC] (20637a7e) style: improve code readability
 [2026-11-11 07:10:31 UTC] (cfa402ac) refactor: extract reusable utility
 [2026-11-11 07:10:31 UTC] (422c34d1) fix: fix font loading fallback
+[2026-11-11 07:10:31 UTC] (fae202f5) perf: optimize image loading strategy
