@@ -4258,3 +4258,4 @@
 [2026-11-11 00:34:44 UTC] (51ba9e52) feat: add smooth scroll behavior
 [2026-11-11 00:34:44 UTC] (184c7495) docs: add usage examples
 [2026-11-11 00:54:51 UTC] (22c8a1be) style: normalize quote style
+[2026-11-11 01:27:11 UTC] (c83ce13f) docs: add project structure notes
