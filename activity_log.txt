@@ -4266,3 +4266,4 @@
 [2026-11-11 05:55:56 UTC] (06d0a619) fix: fix image aspect ratio on Safari
 [2026-11-11 05:55:56 UTC] (3b94f7a9) refactor: consolidate repeated styles
 [2026-11-11 05:55:56 UTC] (20637a7e) style: improve code readability
+[2026-11-11 07:10:31 UTC] (cfa402ac) refactor: extract reusable utility
