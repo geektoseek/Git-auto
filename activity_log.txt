@@ -4255,3 +4255,4 @@
 [2026-11-11 00:06:03 UTC] (d8bb7617) refactor: extract reusable utility
 [2026-11-11 00:06:03 UTC] (7de771d7) refactor: simplify component logic
 [2026-11-11 00:34:44 UTC] (219d8c27) style: align table formatting in docs
+[2026-11-11 00:34:44 UTC] (51ba9e52) feat: add smooth scroll behavior
