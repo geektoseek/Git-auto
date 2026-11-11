@@ -4264,3 +4264,4 @@
 [2026-11-11 02:34:25 UTC] (4272ff60) perf: reduce animation repaints
 [2026-11-11 02:34:25 UTC] (51a7decc) style: adjust line breaks in components
 [2026-11-11 05:55:56 UTC] (06d0a619) fix: fix image aspect ratio on Safari
+[2026-11-11 05:55:56 UTC] (3b94f7a9) refactor: consolidate repeated styles
