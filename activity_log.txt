@@ -4299,3 +4299,4 @@
 [2026-11-12 03:39:10 UTC] (27270075) perf: reduce animation repaints
 [2026-11-12 03:39:10 UTC] (9a62cb03) style: clean up unused class names
 [2026-11-12 03:39:10 UTC] (17581a8c) perf: improve scroll event throttling
+[2026-11-12 06:58:48 UTC] (12c125ec) refactor: move constants to config file
