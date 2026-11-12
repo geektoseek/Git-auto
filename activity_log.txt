@@ -4305,3 +4305,4 @@
 [2026-11-12 07:44:31 UTC] (b872db9f) docs: update deployment notes
 [2026-11-12 08:23:47 UTC] (ff4d52af) style: adjust line breaks in components
 [2026-11-12 09:19:21 UTC] (09294ff6) feat: add new section styles
+[2026-11-12 09:19:21 UTC] (08963583) feat: add smooth scroll behavior
