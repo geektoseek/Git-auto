@@ -4297,3 +4297,4 @@
 [2026-11-12 03:01:35 UTC] (2a645352) style: clean up trailing whitespace
 [2026-11-12 03:01:35 UTC] (6853ddd8) chore: update dependencies
 [2026-11-12 03:39:10 UTC] (27270075) perf: reduce animation repaints
+[2026-11-12 03:39:10 UTC] (9a62cb03) style: clean up unused class names
