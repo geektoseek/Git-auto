@@ -4290,3 +4290,4 @@
 [2026-11-12 01:52:17 UTC] (0bdc94a0) perf: compress background assets
 [2026-11-12 02:01:03 UTC] (2cfd1d16) chore: bump package version
 [2026-11-12 02:01:03 UTC] (e214e484) chore: clean up build artifacts
+[2026-11-12 02:01:03 UTC] (3be49056) docs: update contact information
