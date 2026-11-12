@@ -4302,3 +4302,4 @@
 [2026-11-12 06:58:48 UTC] (12c125ec) refactor: move constants to config file
 [2026-11-12 06:58:49 UTC] (c39ef175) feat: add footer link updates
 [2026-11-12 07:44:31 UTC] (1463992e) feat: enhance UI component structure
+[2026-11-12 07:44:31 UTC] (b872db9f) docs: update deployment notes
