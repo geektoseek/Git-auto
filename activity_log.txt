@@ -4324,3 +4324,4 @@
 [2026-11-13 08:05:15 UTC] (eace73c4) chore: add editor config settings
 [2026-11-13 08:05:15 UTC] (916d7bae) refactor: reduce component nesting
 [2026-11-13 08:05:15 UTC] (a464ef08) style: clean up unused class names
+[2026-11-13 09:07:01 UTC] (44b0c225) refactor: move constants to config file
