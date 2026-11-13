@@ -4327,3 +4327,4 @@
 [2026-11-13 09:07:01 UTC] (44b0c225) refactor: move constants to config file
 [2026-11-13 09:07:01 UTC] (a4886e20) fix: fix font loading fallback
 [2026-11-13 09:07:01 UTC] (f1e6dfc4) refactor: move constants to config file
+[2026-11-13 10:02:58 UTC] (e66e8e24) fix: correct z-index layering issue
