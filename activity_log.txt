@@ -4318,3 +4318,4 @@
 [2026-11-13 02:38:25 UTC] (0a3a70bb) fix: fix image aspect ratio on Safari
 [2026-11-13 02:38:25 UTC] (797182d0) refactor: clean up legacy code
 [2026-11-13 03:13:24 UTC] (6c088891) refactor: move constants to config file
+[2026-11-13 06:24:00 UTC] (e8a90bd4) chore: sync lockfile
