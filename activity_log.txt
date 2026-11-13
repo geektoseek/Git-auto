@@ -4329,3 +4329,4 @@
 [2026-11-13 09:07:01 UTC] (f1e6dfc4) refactor: move constants to config file
 [2026-11-13 10:02:58 UTC] (e66e8e24) fix: correct z-index layering issue
 [2026-11-13 11:05:04 UTC] (f143d88b) perf: compress background assets
+[2026-11-13 11:05:04 UTC] (1f9fe8ec) perf: cache static asset headers
