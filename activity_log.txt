@@ -4333,3 +4333,4 @@
 [2026-11-13 11:05:04 UTC] (bc14a5a5) perf: reduce bundle size
 [2026-11-13 12:03:39 UTC] (8cee87e0) chore: update CI pipeline notes
 [2026-11-13 12:03:39 UTC] (5d5ab7a6) fix: fix transition timing mismatch
+[2026-11-13 12:38:02 UTC] (3c364a33) fix: patch overflow on small screens
