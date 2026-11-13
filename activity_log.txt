@@ -4331,3 +4331,4 @@
 [2026-11-13 11:05:04 UTC] (f143d88b) perf: compress background assets
 [2026-11-13 11:05:04 UTC] (1f9fe8ec) perf: cache static asset headers
 [2026-11-13 11:05:04 UTC] (bc14a5a5) perf: reduce bundle size
+[2026-11-13 12:03:39 UTC] (8cee87e0) chore: update CI pipeline notes
