@@ -4325,3 +4325,4 @@
 [2026-11-13 08:05:15 UTC] (916d7bae) refactor: reduce component nesting
 [2026-11-13 08:05:15 UTC] (a464ef08) style: clean up unused class names
 [2026-11-13 09:07:01 UTC] (44b0c225) refactor: move constants to config file
+[2026-11-13 09:07:01 UTC] (a4886e20) fix: fix font loading fallback
