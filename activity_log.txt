@@ -4326,3 +4326,4 @@
 [2026-11-13 08:05:15 UTC] (a464ef08) style: clean up unused class names
 [2026-11-13 09:07:01 UTC] (44b0c225) refactor: move constants to config file
 [2026-11-13 09:07:01 UTC] (a4886e20) fix: fix font loading fallback
+[2026-11-13 09:07:01 UTC] (f1e6dfc4) refactor: move constants to config file
