@@ -4339,3 +4339,4 @@
 [2026-11-13 13:21:43 UTC] (dc2e0c53) docs: add inline code comments
 [2026-11-13 13:21:43 UTC] (eace40a7) style: normalize quote style
 [2026-11-13 14:28:40 UTC] (3c20f433) perf: reduce animation repaints
+[2026-11-14 00:22:56 UTC] (48cbbcab) docs: improve component documentation
