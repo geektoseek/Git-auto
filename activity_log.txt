@@ -4354,3 +4354,4 @@
 [2026-11-14 02:55:50 UTC] (a65462ee) feat: implement dynamic content loading
 [2026-11-14 06:04:29 UTC] (b08ef545) refactor: simplify component logic
 [2026-11-14 06:04:29 UTC] (cc61f2f5) refactor: extract reusable utility
+[2026-11-14 06:04:29 UTC] (a287fbea) perf: cache static asset headers
