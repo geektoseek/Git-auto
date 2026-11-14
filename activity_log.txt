@@ -4350,3 +4350,4 @@
 [2026-11-14 01:42:14 UTC] (14606c7a) refactor: optimize asset references
 [2026-11-14 02:27:02 UTC] (c98e57fb) refactor: simplify component logic
 [2026-11-14 02:27:02 UTC] (d52409a4) style: improve code readability
+[2026-11-14 02:55:50 UTC] (db9a0f1f) fix: fix font loading fallback
