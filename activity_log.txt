@@ -4366,3 +4366,4 @@
 [2026-11-14 10:32:00 UTC] (c0c4fd99) feat: add hover animation effects
 [2026-11-14 11:21:54 UTC] (ca03db29) fix: fix transition timing mismatch
 [2026-11-14 11:46:00 UTC] (56ae0acb) feat: add new section styles
+[2026-11-14 11:46:00 UTC] (5d1a5ddb) style: normalize quote style
