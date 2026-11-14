@@ -4360,3 +4360,4 @@
 [2026-11-14 07:38:37 UTC] (1cbb0a2e) perf: defer non-critical scripts
 [2026-11-14 08:37:32 UTC] (b778b080) style: clean up unused class names
 [2026-11-14 08:37:32 UTC] (5c508174) fix: fix image aspect ratio on Safari
+[2026-11-14 08:37:32 UTC] (eb7c0e4c) chore: bump package version
