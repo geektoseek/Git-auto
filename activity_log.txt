@@ -4355,3 +4355,4 @@
 [2026-11-14 06:04:29 UTC] (b08ef545) refactor: simplify component logic
 [2026-11-14 06:04:29 UTC] (cc61f2f5) refactor: extract reusable utility
 [2026-11-14 06:04:29 UTC] (a287fbea) perf: cache static asset headers
+[2026-11-14 07:02:58 UTC] (5e2a0b4a) docs: add project structure notes
