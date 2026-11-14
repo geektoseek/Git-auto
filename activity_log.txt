@@ -4361,3 +4361,4 @@
 [2026-11-14 08:37:32 UTC] (b778b080) style: clean up unused class names
 [2026-11-14 08:37:32 UTC] (5c508174) fix: fix image aspect ratio on Safari
 [2026-11-14 08:37:32 UTC] (eb7c0e4c) chore: bump package version
+[2026-11-14 09:28:34 UTC] (5eb5720c) fix: patch scroll position reset
