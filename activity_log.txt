@@ -4358,3 +4358,4 @@
 [2026-11-14 07:02:58 UTC] (5e2a0b4a) docs: add project structure notes
 [2026-11-14 07:02:58 UTC] (6d10190d) perf: improve scroll event throttling
 [2026-11-14 07:38:37 UTC] (1cbb0a2e) perf: defer non-critical scripts
+[2026-11-14 08:37:32 UTC] (b778b080) style: clean up unused class names
