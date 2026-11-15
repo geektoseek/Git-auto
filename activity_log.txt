@@ -4385,3 +4385,4 @@
 [2026-11-15 09:57:01 UTC] (fa6b4ad5) refactor: simplify component logic
 [2026-11-15 11:00:52 UTC] (d6c58e15) fix: patch overflow on small screens
 [2026-11-15 11:00:52 UTC] (d9731ccb) fix: patch scroll position reset
+[2026-11-15 11:00:52 UTC] (20c4a481) fix: correct z-index layering issue
