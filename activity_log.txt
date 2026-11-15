@@ -4375,3 +4375,4 @@
 [2026-11-15 01:56:45 UTC] (9fd7be0f) docs: add usage examples
 [2026-11-15 01:56:45 UTC] (240c19f2) fix: fix font loading fallback
 [2026-11-15 01:56:45 UTC] (d4260040) style: apply consistent naming convention
+[2026-11-15 02:26:08 UTC] (de943030) refactor: optimize asset references
