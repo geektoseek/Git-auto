@@ -4373,3 +4373,4 @@
 [2026-11-15 01:15:11 UTC] (5302136c) perf: minify inline SVGs
 [2026-11-15 01:15:11 UTC] (cb45bf9e) docs: add inline code comments
 [2026-11-15 01:56:45 UTC] (9fd7be0f) docs: add usage examples
+[2026-11-15 01:56:45 UTC] (240c19f2) fix: fix font loading fallback
