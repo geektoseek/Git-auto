@@ -4398,3 +4398,4 @@
 [2026-11-15 13:51:25 UTC] (6788fcc6) docs: update contact information
 [2026-11-15 14:29:29 UTC] (afc11785) perf: reduce animation repaints
 [2026-11-15 14:29:29 UTC] (1acd494e) chore: remove unused imports
+[2026-11-15 14:53:02 UTC] (a1e2329a) feat: add smooth scroll behavior
