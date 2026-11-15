@@ -4393,3 +4393,4 @@
 [2026-11-15 12:54:50 UTC] (fc9a8b44) feat: improve hero section visuals
 [2026-11-15 12:54:50 UTC] (8e224e64) fix: patch scroll position reset
 [2026-11-15 12:54:50 UTC] (fbd07533) feat: improve mobile navigation flow
+[2026-11-15 13:51:25 UTC] (03cf4a03) chore: remove unused imports
