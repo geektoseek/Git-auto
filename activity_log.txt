@@ -4388,3 +4388,4 @@
 [2026-11-15 11:00:52 UTC] (20c4a481) fix: correct z-index layering issue
 [2026-11-15 11:52:46 UTC] (3cf78ec2) feat: add hover animation effects
 [2026-11-15 12:16:55 UTC] (06080fb3) style: improve code readability
+[2026-11-15 12:16:55 UTC] (08c2e021) feat: improve hero section visuals
