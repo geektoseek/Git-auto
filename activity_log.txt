@@ -4376,3 +4376,4 @@
 [2026-11-15 01:56:45 UTC] (240c19f2) fix: fix font loading fallback
 [2026-11-15 01:56:45 UTC] (d4260040) style: apply consistent naming convention
 [2026-11-15 02:26:08 UTC] (de943030) refactor: optimize asset references
+[2026-11-15 06:09:59 UTC] (0c4d8c75) fix: correct broken link in navigation
