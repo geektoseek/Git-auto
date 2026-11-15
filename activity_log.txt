@@ -4367,3 +4367,4 @@
 [2026-11-14 11:21:54 UTC] (ca03db29) fix: fix transition timing mismatch
 [2026-11-14 11:46:00 UTC] (56ae0acb) feat: add new section styles
 [2026-11-14 11:46:00 UTC] (5d1a5ddb) style: normalize quote style
+[2026-11-15 00:22:49 UTC] (2a92c246) style: clean up unused class names
