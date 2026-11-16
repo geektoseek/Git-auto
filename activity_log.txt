@@ -4401,3 +4401,4 @@
 [2026-11-15 14:53:02 UTC] (a1e2329a) feat: add smooth scroll behavior
 [2026-11-16 00:24:48 UTC] (9b461501) refactor: split large component into smaller parts
 [2026-11-16 01:20:48 UTC] (ff439e10) feat: add footer link updates
+[2026-11-16 01:20:48 UTC] (d76f6ed6) fix: patch overflow on small screens
