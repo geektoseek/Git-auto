@@ -4407,3 +4407,4 @@
 [2026-11-16 02:10:55 UTC] (7482832b) feat: add responsive layout improvements
 [2026-11-16 02:35:58 UTC] (56b85c20) perf: compress background assets
 [2026-11-16 02:35:58 UTC] (fa948148) perf: improve scroll event throttling
+[2026-11-16 02:35:58 UTC] (225dd570) feat: improve hero section visuals
