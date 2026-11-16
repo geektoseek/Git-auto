@@ -4414,3 +4414,4 @@
 [2026-11-16 07:19:05 UTC] (36b72ceb) fix: fix font loading fallback
 [2026-11-16 07:19:05 UTC] (6d4cb52c) refactor: clean up legacy code
 [2026-11-16 07:19:05 UTC] (e0a0ba68) feat: enhance UI component structure
+[2026-11-16 08:02:20 UTC] (c006bd52) feat: improve mobile navigation flow
