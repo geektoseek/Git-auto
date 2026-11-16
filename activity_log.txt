@@ -4412,3 +4412,4 @@
 [2026-11-16 06:08:26 UTC] (e94a3f4a) style: clean up trailing whitespace
 [2026-11-16 06:08:26 UTC] (d20301d4) feat: add responsive layout improvements
 [2026-11-16 07:19:05 UTC] (36b72ceb) fix: fix font loading fallback
+[2026-11-16 07:19:05 UTC] (6d4cb52c) refactor: clean up legacy code
