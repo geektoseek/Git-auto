@@ -4409,3 +4409,4 @@
 [2026-11-16 02:35:58 UTC] (fa948148) perf: improve scroll event throttling
 [2026-11-16 02:35:58 UTC] (225dd570) feat: improve hero section visuals
 [2026-11-16 06:08:26 UTC] (25879395) chore: update dependencies
+[2026-11-16 06:08:26 UTC] (e94a3f4a) style: clean up trailing whitespace
