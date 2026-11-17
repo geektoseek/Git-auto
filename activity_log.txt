@@ -4452,3 +4452,4 @@
 [2026-11-17 04:30:19 UTC] (324a1f6c) docs: add usage examples
 [2026-11-17 04:30:20 UTC] (5374f7d0) docs: improve changelog entries
 [2026-11-17 04:30:20 UTC] (bd0964be) refactor: move constants to config file
+[2026-11-17 04:58:26 UTC] (9f3258fa) feat: add hover animation effects
