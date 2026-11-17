@@ -4444,3 +4444,4 @@
 [2026-11-17 02:31:07 UTC] (7eac870b) fix: fix transition timing mismatch
 [2026-11-17 02:52:34 UTC] (310d55ac) style: apply consistent naming convention
 [2026-11-17 02:52:34 UTC] (ffe2cb97) perf: optimize image loading strategy
+[2026-11-17 02:52:34 UTC] (5b92e00e) feat: add smooth scroll behavior
