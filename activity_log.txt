@@ -4450,3 +4450,4 @@
 [2026-11-17 04:08:28 UTC] (c660b021) docs: update tech stack references
 [2026-11-17 04:08:28 UTC] (e40053d5) chore: bump package version
 [2026-11-17 04:30:19 UTC] (324a1f6c) docs: add usage examples
+[2026-11-17 04:30:20 UTC] (5374f7d0) docs: improve changelog entries
