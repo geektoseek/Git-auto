@@ -4434,3 +4434,4 @@
 [2026-11-17 00:41:04 UTC] (c9766970) feat: improve hero section visuals
 [2026-11-17 00:41:04 UTC] (6f767a77) chore: sync lockfile
 [2026-11-17 00:41:04 UTC] (5c6adbc8) docs: update README with setup steps
+[2026-11-17 00:57:04 UTC] (29159efc) refactor: restructure section layout
