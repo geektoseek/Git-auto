@@ -4441,3 +4441,4 @@
 [2026-11-17 02:04:02 UTC] (58817236) chore: add editor config settings
 [2026-11-17 02:04:02 UTC] (d6f11f66) style: apply consistent naming convention
 [2026-11-17 02:31:07 UTC] (a815592b) fix: correct z-index layering issue
+[2026-11-17 02:31:07 UTC] (7eac870b) fix: fix transition timing mismatch
