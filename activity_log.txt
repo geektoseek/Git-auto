@@ -4432,3 +4432,4 @@
 [2026-11-17 00:14:24 UTC] (eee75613) feat: improve hero section visuals
 [2026-11-17 00:14:24 UTC] (83dd83e8) perf: minify inline SVGs
 [2026-11-17 00:41:04 UTC] (c9766970) feat: improve hero section visuals
+[2026-11-17 00:41:04 UTC] (6f767a77) chore: sync lockfile
