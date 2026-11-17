@@ -4430,3 +4430,4 @@
 [2026-11-16 16:43:35 UTC] (d5072946) style: clean up trailing whitespace
 [2026-11-17 00:14:24 UTC] (79bfffd4) feat: enhance card component design
 [2026-11-17 00:14:24 UTC] (eee75613) feat: improve hero section visuals
+[2026-11-17 00:14:24 UTC] (83dd83e8) perf: minify inline SVGs
