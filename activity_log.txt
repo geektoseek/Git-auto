@@ -4456,3 +4456,4 @@
 [2026-11-17 04:58:26 UTC] (65bf3278) style: apply consistent naming convention
 [2026-11-18 00:30:00 UTC] (19504762) fix: correct broken link in navigation
 [2026-11-18 01:17:16 UTC] (5f009c5d) perf: cache static asset headers
+[2026-11-18 01:42:50 UTC] (4edfa792) perf: preload critical fonts
