@@ -4461,3 +4461,4 @@
 [2026-11-18 02:19:27 UTC] (dc4f27da) perf: lazy load below-fold sections
 [2026-11-18 02:36:43 UTC] (2070c446) fix: correct z-index layering issue
 [2026-11-18 02:36:43 UTC] (468733d2) perf: improve scroll event throttling
+[2026-11-18 02:36:43 UTC] (b8a1c49e) refactor: clean up legacy code
