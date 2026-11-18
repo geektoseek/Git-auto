@@ -4482,3 +4482,4 @@
 [2026-11-18 10:45:31 UTC] (1094b3c1) docs: update README with setup steps
 [2026-11-18 10:45:31 UTC] (73feb785) docs: improve changelog entries
 [2026-11-18 11:49:02 UTC] (650d63b2) feat: enhance UI component structure
+[2026-11-18 11:49:02 UTC] (0b91a750) perf: defer non-critical scripts
