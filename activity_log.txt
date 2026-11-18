@@ -4475,3 +4475,4 @@
 [2026-11-18 07:57:48 UTC] (9c8cf54a) style: apply consistent naming convention
 [2026-11-18 08:35:38 UTC] (863f337f) chore: sync lockfile
 [2026-11-18 08:35:38 UTC] (96365936) feat: improve mobile navigation flow
+[2026-11-18 09:45:43 UTC] (a8b0b9a5) perf: preload critical fonts
