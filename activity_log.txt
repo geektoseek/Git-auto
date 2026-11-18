@@ -4471,3 +4471,4 @@
 [2026-11-18 07:08:03 UTC] (72eabe4a) fix: fix font loading fallback
 [2026-11-18 07:08:03 UTC] (69d8413b) feat: enhance card component design
 [2026-11-18 07:57:48 UTC] (cecb0a58) refactor: restructure section layout
+[2026-11-18 07:57:48 UTC] (f978826e) style: adjust line breaks in components
