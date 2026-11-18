@@ -4479,3 +4479,4 @@
 [2026-11-18 09:45:43 UTC] (d598cd22) docs: update tech stack references
 [2026-11-18 09:45:43 UTC] (15d0d14c) style: reorganize import order
 [2026-11-18 10:45:31 UTC] (f1da62be) refactor: split large component into smaller parts
+[2026-11-18 10:45:31 UTC] (1094b3c1) docs: update README with setup steps
