@@ -4468,3 +4468,4 @@
 [2026-11-18 03:42:46 UTC] (36e01c17) feat: add new section styles
 [2026-11-18 03:42:46 UTC] (35c107a1) chore: add editor config settings
 [2026-11-18 04:03:12 UTC] (9b94ae12) chore: clean up build artifacts
+[2026-11-18 07:08:03 UTC] (72eabe4a) fix: fix font loading fallback
