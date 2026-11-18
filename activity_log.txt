@@ -4484,3 +4484,4 @@
 [2026-11-18 11:49:02 UTC] (650d63b2) feat: enhance UI component structure
 [2026-11-18 11:49:02 UTC] (0b91a750) perf: defer non-critical scripts
 [2026-11-18 12:56:09 UTC] (16f23db3) perf: minify inline SVGs
+[2026-11-18 12:56:09 UTC] (8a35ab96) fix: fix font loading fallback
