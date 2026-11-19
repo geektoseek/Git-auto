@@ -4486,3 +4486,4 @@
 [2026-11-18 12:56:09 UTC] (16f23db3) perf: minify inline SVGs
 [2026-11-18 12:56:09 UTC] (8a35ab96) fix: fix font loading fallback
 [2026-11-19 00:43:12 UTC] (136c9275) refactor: split large component into smaller parts
+[2026-11-19 00:43:12 UTC] (fb0084b7) style: apply consistent naming convention
