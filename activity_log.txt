@@ -4513,3 +4513,4 @@
 [2026-11-19 11:45:48 UTC] (31ce442e) fix: resolve CSS specificity conflict
 [2026-11-19 11:45:48 UTC] (53516208) fix: fix transition timing mismatch
 [2026-11-19 12:50:09 UTC] (e3954c3e) style: align table formatting in docs
+[2026-11-19 12:50:09 UTC] (4ae26438) style: normalize quote style
