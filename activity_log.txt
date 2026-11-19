@@ -4507,3 +4507,4 @@
 [2026-11-19 09:54:24 UTC] (1421b389) refactor: simplify component logic
 [2026-11-19 09:54:24 UTC] (6ef149ca) fix: fix font loading fallback
 [2026-11-19 10:46:03 UTC] (17ba6200) perf: optimize image loading strategy
+[2026-11-19 10:46:03 UTC] (49b1c9dd) refactor: extract reusable utility
