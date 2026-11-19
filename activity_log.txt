@@ -4502,3 +4502,4 @@
 [2026-11-19 07:57:21 UTC] (a079bdcc) style: format code with consistent spacing
 [2026-11-19 07:57:21 UTC] (af6bd978) style: clean up trailing whitespace
 [2026-11-19 08:51:55 UTC] (cbb78828) refactor: reduce component nesting
+[2026-11-19 08:51:55 UTC] (0a0c5c12) style: apply consistent naming convention
