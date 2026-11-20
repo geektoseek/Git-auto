@@ -4515,3 +4515,4 @@
 [2026-11-19 12:50:09 UTC] (e3954c3e) style: align table formatting in docs
 [2026-11-19 12:50:09 UTC] (4ae26438) style: normalize quote style
 [2026-11-20 00:16:44 UTC] (ddd00740) chore: bump package version
+[2026-11-20 00:54:08 UTC] (49c77c61) docs: update contact information
