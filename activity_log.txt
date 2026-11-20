@@ -4544,3 +4544,4 @@
 [2026-11-20 09:41:45 UTC] (40e3e2b8) perf: reduce animation repaints
 [2026-11-20 10:33:59 UTC] (33f77edf) chore: update .gitignore entries
 [2026-11-20 10:33:59 UTC] (120057f3) fix: correct z-index layering issue
+[2026-11-20 11:46:06 UTC] (df797e69) fix: correct broken link in navigation
