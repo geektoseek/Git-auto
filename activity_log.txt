@@ -4526,3 +4526,4 @@
 [2026-11-20 01:54:22 UTC] (9c82fb5c) fix: fix transition timing mismatch
 [2026-11-20 01:54:22 UTC] (3161bc94) chore: reorganize folder structure
 [2026-11-20 02:32:40 UTC] (e8bdaf15) chore: bump package version
+[2026-11-20 02:32:40 UTC] (a561fc29) docs: update contact information
