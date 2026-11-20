@@ -4517,3 +4517,4 @@
 [2026-11-20 00:16:44 UTC] (ddd00740) chore: bump package version
 [2026-11-20 00:54:08 UTC] (49c77c61) docs: update contact information
 [2026-11-20 00:54:08 UTC] (d50c03e8) refactor: restructure section layout
+[2026-11-20 00:54:08 UTC] (b895ae49) perf: preload critical fonts
