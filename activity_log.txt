@@ -4543,3 +4543,4 @@
 [2026-11-20 08:38:46 UTC] (c732ce76) style: clean up trailing whitespace
 [2026-11-20 09:41:45 UTC] (40e3e2b8) perf: reduce animation repaints
 [2026-11-20 10:33:59 UTC] (33f77edf) chore: update .gitignore entries
+[2026-11-20 10:33:59 UTC] (120057f3) fix: correct z-index layering issue
