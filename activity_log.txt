@@ -4539,3 +4539,4 @@
 [2026-11-20 07:46:27 UTC] (bb2e63ee) docs: add inline code comments
 [2026-11-20 07:46:27 UTC] (b5a1bd8c) perf: defer non-critical scripts
 [2026-11-20 08:38:46 UTC] (e02ba7c9) chore: update dependencies
+[2026-11-20 08:38:46 UTC] (5f81f502) perf: preload critical fonts
