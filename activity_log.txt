@@ -4541,3 +4541,4 @@
 [2026-11-20 08:38:46 UTC] (e02ba7c9) chore: update dependencies
 [2026-11-20 08:38:46 UTC] (5f81f502) perf: preload critical fonts
 [2026-11-20 08:38:46 UTC] (c732ce76) style: clean up trailing whitespace
+[2026-11-20 09:41:45 UTC] (40e3e2b8) perf: reduce animation repaints
