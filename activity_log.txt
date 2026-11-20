@@ -4527,3 +4527,4 @@
 [2026-11-20 01:54:22 UTC] (3161bc94) chore: reorganize folder structure
 [2026-11-20 02:32:40 UTC] (e8bdaf15) chore: bump package version
 [2026-11-20 02:32:40 UTC] (a561fc29) docs: update contact information
+[2026-11-20 02:32:40 UTC] (f739bcf4) feat: add responsive layout improvements
