@@ -4566,3 +4566,4 @@
 [2026-11-21 09:13:24 UTC] (cd142b9a) perf: improve scroll event throttling
 [2026-11-21 09:13:24 UTC] (c2f98500) chore: add editor config settings
 [2026-11-21 10:15:15 UTC] (4fa42dfc) chore: update dependencies
+[2026-11-21 10:15:15 UTC] (bc8a174d) refactor: split large component into smaller parts
