@@ -4547,3 +4547,4 @@
 [2026-11-20 11:46:06 UTC] (df797e69) fix: correct broken link in navigation
 [2026-11-20 11:46:06 UTC] (88c45444) fix: patch scroll position reset
 [2026-11-21 00:11:44 UTC] (53f2765c) fix: resolve button hover state bug
+[2026-11-21 00:52:08 UTC] (27686e89) fix: fix transition timing mismatch
