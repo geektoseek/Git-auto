@@ -4555,3 +4555,4 @@
 [2026-11-21 01:47:25 UTC] (9a8c4229) docs: update README with setup steps
 [2026-11-21 02:46:18 UTC] (64bde147) docs: update README with setup steps
 [2026-11-21 02:46:18 UTC] (e66fdf17) perf: lazy load below-fold sections
+[2026-11-21 02:46:18 UTC] (aea7a2b9) feat: add smooth scroll behavior
