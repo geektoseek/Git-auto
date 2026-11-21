@@ -4564,3 +4564,4 @@
 [2026-11-21 08:19:40 UTC] (1dca530f) fix: fix font loading fallback
 [2026-11-21 08:19:40 UTC] (18d352fd) chore: add editor config settings
 [2026-11-21 09:13:24 UTC] (cd142b9a) perf: improve scroll event throttling
+[2026-11-21 09:13:24 UTC] (c2f98500) chore: add editor config settings
