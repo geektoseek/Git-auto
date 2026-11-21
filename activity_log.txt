@@ -4553,3 +4553,4 @@
 [2026-11-21 01:47:25 UTC] (937b7a2a) perf: defer non-critical scripts
 [2026-11-21 01:47:25 UTC] (52dbbf90) style: format code with consistent spacing
 [2026-11-21 01:47:25 UTC] (9a8c4229) docs: update README with setup steps
+[2026-11-21 02:46:18 UTC] (64bde147) docs: update README with setup steps
