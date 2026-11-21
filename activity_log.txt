@@ -4559,3 +4559,4 @@
 [2026-11-21 03:13:31 UTC] (4192f1e8) perf: lazy load below-fold sections
 [2026-11-21 03:48:40 UTC] (952dabbd) refactor: split large component into smaller parts
 [2026-11-21 06:53:58 UTC] (2cadb0e3) docs: improve changelog entries
+[2026-11-21 06:53:58 UTC] (3d6198ba) refactor: split large component into smaller parts
