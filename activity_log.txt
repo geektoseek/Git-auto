@@ -4549,3 +4549,4 @@
 [2026-11-21 00:11:44 UTC] (53f2765c) fix: resolve button hover state bug
 [2026-11-21 00:52:08 UTC] (27686e89) fix: fix transition timing mismatch
 [2026-11-21 00:52:08 UTC] (060217ab) perf: minify inline SVGs
+[2026-11-21 01:23:37 UTC] (db76aa72) fix: patch scroll position reset
