@@ -4570,3 +4570,4 @@
 [2026-11-21 11:12:18 UTC] (5b5978ed) chore: add editor config settings
 [2026-11-21 11:12:18 UTC] (38e64ac8) refactor: split large component into smaller parts
 [2026-11-21 11:12:18 UTC] (99654819) style: adjust line breaks in components
+[2026-11-21 12:28:52 UTC] (3255824d) style: clean up unused class names
