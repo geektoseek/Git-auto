@@ -4562,3 +4562,4 @@
 [2026-11-21 06:53:58 UTC] (3d6198ba) refactor: split large component into smaller parts
 [2026-11-21 07:43:31 UTC] (98443f3d) perf: cache static asset headers
 [2026-11-21 08:19:40 UTC] (1dca530f) fix: fix font loading fallback
+[2026-11-21 08:19:40 UTC] (18d352fd) chore: add editor config settings
