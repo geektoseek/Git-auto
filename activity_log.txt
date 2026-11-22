@@ -4585,3 +4585,4 @@
 [2026-11-22 06:29:01 UTC] (4c409f21) style: align table formatting in docs
 [2026-11-22 06:29:01 UTC] (88bb9f67) refactor: clean up legacy code
 [2026-11-22 06:29:01 UTC] (df21047b) style: clean up unused class names
+[2026-11-22 07:29:06 UTC] (e9350b9b) docs: update tech stack references
