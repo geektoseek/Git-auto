@@ -4581,3 +4581,4 @@
 [2026-11-22 02:15:39 UTC] (5382759c) refactor: simplify component logic
 [2026-11-22 02:15:39 UTC] (907b6c6e) refactor: split large component into smaller parts
 [2026-11-22 02:51:52 UTC] (f2ae34b0) perf: cache static asset headers
+[2026-11-22 02:51:52 UTC] (d722fd9d) chore: bump package version
