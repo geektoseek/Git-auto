@@ -4575,3 +4575,4 @@
 [2026-11-22 00:16:11 UTC] (bd73ff3d) chore: bump package version
 [2026-11-22 00:42:10 UTC] (5bd5d8fb) docs: add usage examples
 [2026-11-22 00:42:10 UTC] (e76ef5bb) style: format code with consistent spacing
+[2026-11-22 01:31:37 UTC] (5418064a) fix: resolve button hover state bug
