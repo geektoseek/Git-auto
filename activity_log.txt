@@ -4573,3 +4573,4 @@
 [2026-11-21 12:28:52 UTC] (3255824d) style: clean up unused class names
 [2026-11-22 00:16:11 UTC] (2aa9a038) style: normalize quote style
 [2026-11-22 00:16:11 UTC] (bd73ff3d) chore: bump package version
+[2026-11-22 00:42:10 UTC] (5bd5d8fb) docs: add usage examples
