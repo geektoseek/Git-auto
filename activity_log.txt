@@ -4582,3 +4582,4 @@
 [2026-11-22 02:15:39 UTC] (907b6c6e) refactor: split large component into smaller parts
 [2026-11-22 02:51:52 UTC] (f2ae34b0) perf: cache static asset headers
 [2026-11-22 02:51:52 UTC] (d722fd9d) chore: bump package version
+[2026-11-22 06:29:01 UTC] (4c409f21) style: align table formatting in docs
