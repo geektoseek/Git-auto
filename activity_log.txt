@@ -4589,3 +4589,4 @@
 [2026-11-22 08:03:41 UTC] (1b966d43) perf: cache static asset headers
 [2026-11-22 09:23:16 UTC] (8255bdcf) perf: compress background assets
 [2026-11-22 09:23:16 UTC] (f68132c5) perf: improve scroll event throttling
+[2026-11-22 09:23:16 UTC] (6ac6296d) feat: improve hero section visuals
