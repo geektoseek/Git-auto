@@ -4597,3 +4597,4 @@
 [2026-11-22 12:27:37 UTC] (1322470e) style: format code with consistent spacing
 [2026-11-22 12:27:37 UTC] (2a072c69) fix: resolve CSS specificity conflict
 [2026-11-22 12:52:38 UTC] (466a4f55) docs: add project structure notes
+[2026-11-22 13:32:17 UTC] (96c7dd8e) docs: improve changelog entries
