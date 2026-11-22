@@ -4572,3 +4572,4 @@
 [2026-11-21 11:12:18 UTC] (99654819) style: adjust line breaks in components
 [2026-11-21 12:28:52 UTC] (3255824d) style: clean up unused class names
 [2026-11-22 00:16:11 UTC] (2aa9a038) style: normalize quote style
+[2026-11-22 00:16:11 UTC] (bd73ff3d) chore: bump package version
