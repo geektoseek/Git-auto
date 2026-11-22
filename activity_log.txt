@@ -4595,3 +4595,4 @@
 [2026-11-22 10:21:28 UTC] (d7d78365) refactor: simplify component logic
 [2026-11-22 11:31:07 UTC] (7f347f8d) docs: improve component documentation
 [2026-11-22 12:27:37 UTC] (1322470e) style: format code with consistent spacing
+[2026-11-22 12:27:37 UTC] (2a072c69) fix: resolve CSS specificity conflict
