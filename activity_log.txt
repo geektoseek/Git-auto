@@ -4622,3 +4622,4 @@
 [2026-11-23 12:55:28 UTC] (a7d89757) fix: fix image aspect ratio on Safari
 [2026-11-23 12:55:28 UTC] (504310f1) refactor: clean up legacy code
 [2026-11-23 14:24:26 UTC] (cb39256d) perf: optimize image loading strategy
+[2026-11-23 14:24:26 UTC] (f6abd55f) chore: remove unused imports
