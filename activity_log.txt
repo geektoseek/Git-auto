@@ -4624,3 +4624,4 @@
 [2026-11-23 14:24:26 UTC] (cb39256d) perf: optimize image loading strategy
 [2026-11-23 14:24:26 UTC] (f6abd55f) chore: remove unused imports
 [2026-11-23 15:23:25 UTC] (22c3cebd) fix: resolve button hover state bug
+[2026-11-23 15:23:25 UTC] (dd64224e) perf: compress background assets
