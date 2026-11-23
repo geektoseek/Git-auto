@@ -4619,3 +4619,4 @@
 [2026-11-23 10:19:22 UTC] (f5b11fa0) perf: improve scroll event throttling
 [2026-11-23 10:19:22 UTC] (a0504d63) docs: add project structure notes
 [2026-11-23 11:18:37 UTC] (620894b0) feat: implement dynamic content loading
+[2026-11-23 12:55:28 UTC] (a7d89757) fix: fix image aspect ratio on Safari
