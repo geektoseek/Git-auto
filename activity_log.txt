@@ -4614,3 +4614,4 @@
 [2026-11-23 08:16:04 UTC] (0d9f7967) chore: update CI pipeline notes
 [2026-11-23 08:16:04 UTC] (1403f141) perf: reduce bundle size
 [2026-11-23 09:10:58 UTC] (9b4bc3a1) fix: resolve CSS specificity conflict
+[2026-11-23 09:10:58 UTC] (b85e6b76) style: apply consistent naming convention
