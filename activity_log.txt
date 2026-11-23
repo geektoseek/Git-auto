@@ -4600,3 +4600,4 @@
 [2026-11-22 13:32:17 UTC] (96c7dd8e) docs: improve changelog entries
 [2026-11-22 13:32:17 UTC] (7c77c8bc) perf: optimize image loading strategy
 [2026-11-22 13:32:17 UTC] (d08e1131) docs: update deployment notes
+[2026-11-23 00:22:20 UTC] (b4cd5804) perf: compress background assets
