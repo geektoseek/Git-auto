@@ -4651,3 +4651,4 @@
 [2026-11-24 05:28:45 UTC] (2e4769b7) refactor: improve variable naming
 [2026-11-24 06:05:02 UTC] (71b01e12) perf: improve scroll event throttling
 [2026-11-24 06:05:02 UTC] (caaba7b2) style: reorganize import order
+[2026-11-24 06:05:02 UTC] (f2ab279e) fix: fix transition timing mismatch
