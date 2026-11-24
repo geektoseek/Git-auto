@@ -4634,3 +4634,4 @@
 [2026-11-24 01:39:35 UTC] (1ce13f32) perf: preload critical fonts
 [2026-11-24 01:55:38 UTC] (ed6fec57) chore: add editor config settings
 [2026-11-24 01:55:38 UTC] (151a05b5) docs: add project structure notes
+[2026-11-24 01:55:38 UTC] (b0dbb912) feat: add smooth scroll behavior
