@@ -4640,3 +4640,4 @@
 [2026-11-24 02:54:08 UTC] (07db9e32) fix: patch overflow on small screens
 [2026-11-24 03:11:33 UTC] (187a7e0b) style: format code with consistent spacing
 [2026-11-24 03:11:33 UTC] (de6d1732) refactor: split large component into smaller parts
+[2026-11-24 03:25:11 UTC] (6fb9dfb9) fix: fix transition timing mismatch
