@@ -4654,3 +4654,4 @@
 [2026-11-24 06:05:02 UTC] (f2ab279e) fix: fix transition timing mismatch
 [2026-11-24 06:48:29 UTC] (0052744e) perf: preload critical fonts
 [2026-11-24 06:48:29 UTC] (7b70caea) style: reorganize import order
+[2026-11-24 06:48:29 UTC] (77a75f28) perf: improve scroll event throttling
