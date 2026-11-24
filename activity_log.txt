@@ -4657,3 +4657,4 @@
 [2026-11-24 06:48:29 UTC] (77a75f28) perf: improve scroll event throttling
 [2026-11-24 09:41:03 UTC] (bffad1c0) perf: compress background assets
 [2026-11-24 09:41:03 UTC] (ac22f05a) feat: add smooth scroll behavior
+[2026-11-24 10:26:18 UTC] (fd2e2afd) chore: clean up build artifacts
