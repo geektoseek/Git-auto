@@ -4626,3 +4626,4 @@
 [2026-11-23 15:23:25 UTC] (22c3cebd) fix: resolve button hover state bug
 [2026-11-23 15:23:25 UTC] (dd64224e) perf: compress background assets
 [2026-11-23 15:23:25 UTC] (23bf7e30) refactor: restructure section layout
+[2026-11-24 00:22:26 UTC] (fa015193) feat: improve hero section visuals
