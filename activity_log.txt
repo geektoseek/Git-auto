@@ -4655,3 +4655,4 @@
 [2026-11-24 06:48:29 UTC] (0052744e) perf: preload critical fonts
 [2026-11-24 06:48:29 UTC] (7b70caea) style: reorganize import order
 [2026-11-24 06:48:29 UTC] (77a75f28) perf: improve scroll event throttling
+[2026-11-24 09:41:03 UTC] (bffad1c0) perf: compress background assets
