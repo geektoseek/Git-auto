@@ -4630,3 +4630,4 @@
 [2026-11-24 00:22:26 UTC] (f706ba91) fix: correct z-index layering issue
 [2026-11-24 00:22:26 UTC] (511a3eaf) feat: add footer link updates
 [2026-11-24 00:59:58 UTC] (8d41c05a) refactor: reduce component nesting
+[2026-11-24 00:59:58 UTC] (e8246b8c) chore: update .gitignore entries
