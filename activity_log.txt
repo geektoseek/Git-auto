@@ -4684,3 +4684,4 @@
 [2026-11-25 08:14:07 UTC] (6353d8df) perf: minify inline SVGs
 [2026-11-25 08:14:07 UTC] (0f26e066) feat: add footer link updates
 [2026-11-25 08:14:07 UTC] (15026dc2) style: clean up trailing whitespace
+[2026-11-25 09:11:57 UTC] (cca183d6) refactor: split large component into smaller parts
