@@ -4659,3 +4659,4 @@
 [2026-11-24 09:41:03 UTC] (ac22f05a) feat: add smooth scroll behavior
 [2026-11-24 10:26:18 UTC] (fd2e2afd) chore: clean up build artifacts
 [2026-11-25 00:05:32 UTC] (fa1ed0f5) perf: reduce bundle size
+[2026-11-25 00:05:32 UTC] (8d54fba1) style: clean up trailing whitespace
