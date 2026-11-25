@@ -4678,3 +4678,4 @@
 [2026-11-25 03:46:41 UTC] (86472100) docs: update contact information
 [2026-11-25 03:46:41 UTC] (1371c805) perf: defer non-critical scripts
 [2026-11-25 04:31:41 UTC] (ccf1d046) chore: update CI pipeline notes
+[2026-11-25 04:53:44 UTC] (0ecd911a) fix: correct broken link in navigation
