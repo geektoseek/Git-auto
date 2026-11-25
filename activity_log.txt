@@ -4661,3 +4661,4 @@
 [2026-11-25 00:05:32 UTC] (fa1ed0f5) perf: reduce bundle size
 [2026-11-25 00:05:32 UTC] (8d54fba1) style: clean up trailing whitespace
 [2026-11-25 00:43:44 UTC] (1062ebe6) feat: add hover animation effects
+[2026-11-25 00:43:44 UTC] (3017e3e1) docs: clarify installation instructions
