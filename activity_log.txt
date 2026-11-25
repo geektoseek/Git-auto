@@ -4676,3 +4676,4 @@
 [2026-11-25 03:29:26 UTC] (73c1b566) fix: patch overflow on small screens
 [2026-11-25 03:46:41 UTC] (99f77b0f) style: format code with consistent spacing
 [2026-11-25 03:46:41 UTC] (86472100) docs: update contact information
+[2026-11-25 03:46:41 UTC] (1371c805) perf: defer non-critical scripts
