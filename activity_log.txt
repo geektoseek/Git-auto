@@ -4683,3 +4683,4 @@
 [2026-11-25 05:15:35 UTC] (a18a6ac8) fix: resolve CSS specificity conflict
 [2026-11-25 08:14:07 UTC] (6353d8df) perf: minify inline SVGs
 [2026-11-25 08:14:07 UTC] (0f26e066) feat: add footer link updates
+[2026-11-25 08:14:07 UTC] (15026dc2) style: clean up trailing whitespace
