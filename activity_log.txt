@@ -4692,3 +4692,4 @@
 [2026-11-26 00:51:47 UTC] (84d8be4b) docs: improve changelog entries
 [2026-11-26 01:04:43 UTC] (d61fec01) chore: remove unused imports
 [2026-11-26 01:31:33 UTC] (a0556fa5) style: format code with consistent spacing
+[2026-11-26 01:56:17 UTC] (4a860ddd) perf: reduce bundle size
