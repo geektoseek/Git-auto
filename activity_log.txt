@@ -4710,3 +4710,4 @@
 [2026-11-26 08:00:57 UTC] (1cdb163f) style: adjust line breaks in components
 [2026-11-26 08:54:55 UTC] (62faa36d) perf: preload critical fonts
 [2026-11-26 08:54:55 UTC] (5a2138cd) chore: sync lockfile
+[2026-11-26 09:38:20 UTC] (f1ba28fa) feat: improve hero section visuals
