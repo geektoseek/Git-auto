@@ -4711,3 +4711,4 @@
 [2026-11-26 08:54:55 UTC] (62faa36d) perf: preload critical fonts
 [2026-11-26 08:54:55 UTC] (5a2138cd) chore: sync lockfile
 [2026-11-26 09:38:20 UTC] (f1ba28fa) feat: improve hero section visuals
+[2026-11-26 09:38:20 UTC] (aba71a47) fix: resolve alignment issue on mobile
