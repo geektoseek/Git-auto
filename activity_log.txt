@@ -4708,3 +4708,4 @@
 [2026-11-26 08:00:57 UTC] (fa88b5ad) fix: fix transition timing mismatch
 [2026-11-26 08:00:57 UTC] (789b3184) chore: update CI pipeline notes
 [2026-11-26 08:00:57 UTC] (1cdb163f) style: adjust line breaks in components
+[2026-11-26 08:54:55 UTC] (62faa36d) perf: preload critical fonts
