@@ -4689,3 +4689,4 @@
 [2026-11-26 00:20:34 UTC] (be1dea34) perf: defer non-critical scripts
 [2026-11-26 00:20:34 UTC] (6b096141) feat: add new section styles
 [2026-11-26 00:20:34 UTC] (599249af) perf: reduce bundle size
+[2026-11-26 00:51:47 UTC] (84d8be4b) docs: improve changelog entries
