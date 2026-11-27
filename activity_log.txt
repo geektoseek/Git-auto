@@ -4740,3 +4740,4 @@
 [2026-11-27 08:05:09 UTC] (7a97f018) feat: add smooth scroll behavior
 [2026-11-27 08:05:09 UTC] (1621db99) perf: preload critical fonts
 [2026-11-27 08:05:09 UTC] (a603e877) perf: lazy load below-fold sections
+[2026-11-27 09:06:45 UTC] (495fa627) refactor: move constants to config file
