@@ -4744,3 +4744,4 @@
 [2026-11-27 09:43:39 UTC] (1bf26e91) chore: update .gitignore entries
 [2026-11-27 09:43:39 UTC] (29544de3) refactor: extract reusable utility
 [2026-11-27 10:32:35 UTC] (f52ad9af) perf: compress background assets
+[2026-11-27 10:32:35 UTC] (2f85c0c9) refactor: move constants to config file
