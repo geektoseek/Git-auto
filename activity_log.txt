@@ -4712,3 +4712,4 @@
 [2026-11-26 08:54:55 UTC] (5a2138cd) chore: sync lockfile
 [2026-11-26 09:38:20 UTC] (f1ba28fa) feat: improve hero section visuals
 [2026-11-26 09:38:20 UTC] (aba71a47) fix: resolve alignment issue on mobile
+[2026-11-27 00:34:44 UTC] (86d6529a) docs: add project structure notes
