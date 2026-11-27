@@ -4729,3 +4729,4 @@
 [2026-11-27 02:45:37 UTC] (fbd398cb) chore: clean up build artifacts
 [2026-11-27 03:17:18 UTC] (d3aca0ab) feat: improve hero section visuals
 [2026-11-27 03:17:18 UTC] (bec79e76) style: clean up unused class names
+[2026-11-27 03:17:18 UTC] (11d2b573) style: apply consistent naming convention
