@@ -4716,3 +4716,4 @@
 [2026-11-27 00:34:44 UTC] (0c3a60f4) feat: add hover animation effects
 [2026-11-27 00:34:44 UTC] (d4d52fe6) fix: fix image aspect ratio on Safari
 [2026-11-27 00:57:40 UTC] (fe0a2925) refactor: move constants to config file
+[2026-11-27 00:57:40 UTC] (9d77013f) docs: add usage examples
