@@ -4741,3 +4741,4 @@
 [2026-11-27 08:05:09 UTC] (1621db99) perf: preload critical fonts
 [2026-11-27 08:05:09 UTC] (a603e877) perf: lazy load below-fold sections
 [2026-11-27 09:06:45 UTC] (495fa627) refactor: move constants to config file
+[2026-11-27 09:43:39 UTC] (1bf26e91) chore: update .gitignore entries
