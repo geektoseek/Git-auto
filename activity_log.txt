@@ -4738,3 +4738,4 @@
 [2026-11-27 04:49:41 UTC] (7084d400) fix: resolve button hover state bug
 [2026-11-27 04:49:41 UTC] (42cfba6c) docs: improve changelog entries
 [2026-11-27 08:05:09 UTC] (7a97f018) feat: add smooth scroll behavior
+[2026-11-27 08:05:09 UTC] (1621db99) perf: preload critical fonts
