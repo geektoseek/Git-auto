@@ -4731,3 +4731,4 @@
 [2026-11-27 03:17:18 UTC] (bec79e76) style: clean up unused class names
 [2026-11-27 03:17:18 UTC] (11d2b573) style: apply consistent naming convention
 [2026-11-27 03:45:05 UTC] (847ec690) style: reorganize import order
+[2026-11-27 03:45:05 UTC] (a6cf75fa) chore: sync lockfile
