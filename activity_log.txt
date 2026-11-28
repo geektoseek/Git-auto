@@ -4766,3 +4766,4 @@
 [2026-11-28 03:29:07 UTC] (9feca95f) docs: update README with setup steps
 [2026-11-28 03:54:32 UTC] (9b9b944f) feat: add hover animation effects
 [2026-11-28 03:54:32 UTC] (900d92c8) feat: add hover animation effects
+[2026-11-28 04:35:19 UTC] (d736357b) perf: preload critical fonts
