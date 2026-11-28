@@ -4749,3 +4749,4 @@
 [2026-11-28 00:03:00 UTC] (048e28ab) fix: resolve CSS specificity conflict
 [2026-11-28 00:23:30 UTC] (7414f89f) fix: patch scroll position reset
 [2026-11-28 00:37:46 UTC] (4953c7c3) chore: bump package version
+[2026-11-28 00:37:46 UTC] (34e3b042) style: clean up unused class names
