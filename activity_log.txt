@@ -4770,3 +4770,4 @@
 [2026-11-28 04:35:19 UTC] (1d852f38) perf: improve scroll event throttling
 [2026-11-28 04:35:19 UTC] (09a509af) perf: preload critical fonts
 [2026-11-28 07:31:43 UTC] (28169e01) refactor: extract reusable utility
+[2026-11-28 07:31:43 UTC] (b3ec93de) fix: patch scroll position reset
