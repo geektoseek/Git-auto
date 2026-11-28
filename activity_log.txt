@@ -4773,3 +4773,4 @@
 [2026-11-28 07:31:43 UTC] (b3ec93de) fix: patch scroll position reset
 [2026-11-28 08:28:25 UTC] (55de1b8e) docs: update tech stack references
 [2026-11-28 08:28:25 UTC] (8cdb6c1b) fix: patch overflow on small screens
+[2026-11-28 08:56:30 UTC] (649445c4) feat: improve hero section visuals
