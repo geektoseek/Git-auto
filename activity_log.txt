@@ -4753,3 +4753,4 @@
 [2026-11-28 01:03:13 UTC] (3572cbc5) perf: preload critical fonts
 [2026-11-28 01:39:45 UTC] (d623cc17) perf: minify inline SVGs
 [2026-11-28 01:39:45 UTC] (960ed808) perf: reduce bundle size
+[2026-11-28 01:39:45 UTC] (6cd6fad6) docs: add project structure notes
