@@ -4747,3 +4747,4 @@
 [2026-11-27 10:32:35 UTC] (2f85c0c9) refactor: move constants to config file
 [2026-11-27 10:32:35 UTC] (ea757483) fix: fix image aspect ratio on Safari
 [2026-11-28 00:03:00 UTC] (048e28ab) fix: resolve CSS specificity conflict
+[2026-11-28 00:23:30 UTC] (7414f89f) fix: patch scroll position reset
